@@ -6,11 +6,11 @@ Yet another set of CISSP mnemonics
 
 ## Must-know
 
-ALE = ARO x SLE
-ALE CAUSES AROSLE
+ALE = ARO x SLE  
+ALE CAUSES AROSLE  
 
-(up my) SLEAV-EF
-SLE = SLE = AV x EF
+(up my) SLEAV-EF  
+SLE = SLE = AV x EF  
 
 ## Laws and regulations
 
