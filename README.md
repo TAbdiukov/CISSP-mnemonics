@@ -10,7 +10,7 @@ ALE = ARO x SLE
 ALE CAUSES AROSLE  
 
 (up my) SLEAV-EF  
-SLE = SLE = AV x EF  
+SLE = AV x EF  
 
 ## Laws and regulations
 
