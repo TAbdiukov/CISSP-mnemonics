@@ -28,13 +28,14 @@ SLE = AV x EF
 
 ### U.S. Privacy
 
+* 4th Amendment in American Constitution grants right to privacy
 * Computer Fraud and Abuse Act (CFAA) - **First** major legistlation to fight cybercrime. Think: **CFAA - F for First**.
 * USA PATRIOT ACT of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
 
 ### U.S. Import and Export
 
 * Export Administration Regulation (EAR) - restricting export of **civilian items that may have military applications**, such as **EARphones**.
-* International Traffic in Arms Regulations (ITAR) - restricting export of **war items**. Think "**ITAR is war**. Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. ITAR already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
+* International Traffic in Arms Regulations (ITAR) - restricting export of **war items**. Think "**ITAR is war*"*. Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
 
 
 ## U.S. Healthcare
@@ -43,6 +44,10 @@ SLE = AV x EF
 
 * **H**IPPA - **Health privacy and security** regulations in case you get **HIPPAtitis**
 * **HITECH** - **Hospitals security** go hi-tech!
+
+## EU
+
+* GDPR - EU Privacy Laws. No known mnemonic
 
 # Domain 2
 
