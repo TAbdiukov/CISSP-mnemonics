@@ -35,7 +35,7 @@ SLE = AV x EF
 ### U.S. Import and Export
 
 * Export Administration Regulation (EAR) - restricting export of **civilian items that may have military applications**, such as **EARphones**.
-* International Traffic in Arms Regulations (ITAR) - restricting export of **war items**. Think "**ITAR is war*"*. Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
+* International Traffic in Arms Regulations (ITAR) - restricting export of **war items**. Think "**ITAR is war**". Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
 
 
 ## U.S. Healthcare
