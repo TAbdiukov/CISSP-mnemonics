@@ -57,7 +57,7 @@ SLE = AV x EF
 * Data **P**rocessor - **P**rocesses **P**assed-on (database)
 
 * Data **C**ustodian - (responsible for) **C**omputer (with database)
-* Data **S**teward - (responsible for) **S**yndicate (database)
+* Data **S**teward - (responsible for) **S**yndicate (data) ["Syndicate" as in "Business", so responsible for business data]
 
 ## Scoping, tailoring and supplementation
 
