@@ -18,19 +18,30 @@ SLE = AV x EF
 ![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
 
 * COPPA - Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
+
 * FERPA - Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
+[Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
 * FISMA - **U.S. Government information security** is under **prisma**. 
 
-* PCI-DSS - Banking Card Security - Visa, MasterCard and American Express. What else is a card other than a credit card? - Your PCI card.
+* PCI DSS - Credit Card Security - Visa, MasterCard and American Express. What else is a card other than a credit card? - Your PCI card.
+![American Express - Don't live home without it](https://aux.iconspalace.com/uploads/19607812581394765377.png)
 
 * Digital Millenium **Copyright** Act (DMCA) - **Copyright**. Who hadn't heard of the DMCA strikes on Youtube? 
 
 ### U.S. Privacy
 
 * 4th Amendment in American Constitution grants right to privacy
-* Computer Fraud and Abuse Act (CFAA) - **First** major legistlation to fight cybercrime. Think: **CFAA - F for First**.
+
+* Computer Fraud and Abuse Act - CFAA 1986 - **First** major legistlation to fight cybercrime. Think: **CFAA - F for First**.
+
+#### EPCA, CALEA, USA PATRIOT ACT
+
+* Electronic Communications Privacy Act - EPCA 1986 - Makes it illegal to invade electronic privacy of an individual.
+* Communication Assurance for Law Enforcement Act - CALEA 1994 - Amends EPCA to make wiretaps possible for law enforcement, regardless of technology used.
 * USA PATRIOT ACT of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
+
+Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIFLOWER. EPCA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
 
 ### U.S. Import and Export
 
@@ -59,6 +70,8 @@ SLE = AV x EF
 * Data **C**ustodian - (responsible for) **C**omputer (with database)
 * Data **S**teward - (responsible for) **S**yndicate (data) ["Syndicate" as in "Business", so responsible for business data]
 
+* **A**dministrators - **A**ssign permissions to **A**ccounts
+
 ## Scoping, tailoring and supplementation
 
 * Scoping - removing security controls that don't apply. 
@@ -81,3 +94,13 @@ Think about a digital telescope pointing at the stars.
 * **Tailoring** is **Tweaking** (controls)
 * **Supplementing** is **Specifying** (names)
 
+# Domain 3
+
+# Compliance
+
+* **Ass**urance - **Ass**ert (security)
+* **C**ertification - **C**ompliance according to security officer. Certification produces assurance
+* **Ac**creditation - **Ac**e's **C**ompliance (senior manager)
+
+* **A**cceptance
+ 
