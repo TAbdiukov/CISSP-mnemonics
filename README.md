@@ -15,11 +15,14 @@ SLE = AV x EF
 ## Laws and regulations
 
 * Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)
+
 ![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
+
 
 * COPPA - Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
 * FERPA - Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
+
 ![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
 * FISMA - **U.S. Government information security** is under **prisma**. 
@@ -98,8 +101,8 @@ Think about a digital telescope pointing at the stars.
 # Compliance
 
 * **Ass**urance - **Ass**ert (security)
-* **C**ertification - **C**ompliance according to security officer. Certification produces assurance
-* **Ac**creditation - **Ac**e's **C**ompliance (senior manager)
+* **C**ert0\]ification - **C**ompliance according to security officer. Certification produces assurance
+* **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
 
 * **A**cceptance
  
