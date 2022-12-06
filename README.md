@@ -101,7 +101,7 @@ Think about a digital telescope pointing at the stars.
 # Compliance
 
 * **Ass**urance - **Ass**ert (security)
-* **C**ert0\]ification - **C**ompliance according to security officer. Certification produces assurance
+* **C**ertification - **C**ompliance according to security officer. Certification produces assurance
 * **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
 
 * **A**cceptance
