@@ -70,7 +70,7 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 * Data **P**rocessor - **P**rocesses **P**assed-on (database)
 
 * Data **C**ustodian - (responsible for) **C**omputer (with database)
-* Data **S**teward - (responsible for) **S**yndicate (data) ["Syndicate" as in "Business", so responsible for business data]
+* Data **S**teward - (responsible for) **S**yndicate data *everyday* ["Syndicate" as in "Business", so responsible for business data]
 
 * **A**dministrators - **A**ssign permissions to **A**ccounts
 
