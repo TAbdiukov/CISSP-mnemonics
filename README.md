@@ -20,12 +20,11 @@ SLE = AV x EF
 * COPPA - Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
 * FERPA - Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
-[Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
+![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
 * FISMA - **U.S. Government information security** is under **prisma**. 
 
 * PCI DSS - Credit Card Security - Visa, MasterCard and American Express. What else is a card other than a credit card? - Your PCI card.
-![American Express - Don't live home without it](https://aux.iconspalace.com/uploads/19607812581394765377.png)
 
 * Digital Millenium **Copyright** Act (DMCA) - **Copyright**. Who hadn't heard of the DMCA strikes on Youtube? 
 
@@ -41,7 +40,7 @@ SLE = AV x EF
 * Communication Assurance for Law Enforcement Act - CALEA 1994 - Amends EPCA to make wiretaps possible for law enforcement, regardless of technology used.
 * USA PATRIOT ACT of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
 
-Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIFLOWER. EPCA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
+Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. EPCA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
 
 ### U.S. Import and Export
 
