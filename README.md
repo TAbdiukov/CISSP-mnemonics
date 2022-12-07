@@ -101,10 +101,10 @@ Think about a digital telescope pointing at the stars.
 # Compliance
 
 * **Ass**urance - **Ass**ert (security)
-* **C**ertification - **C**ompliance according to security officer. Certification produces assurance
+* **C**ertification - **C**ompliance according to **c**ompliance security officer. Certification yields assurance
 * **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
 
-* **A**cceptance
+* **Accept**ance - **Accept**
  
 # IPSec
 
@@ -122,6 +122,22 @@ From least secure to most secure:
 Multilevel > Compartmented > System-High > Dedicated
 M > C > S > D 
 
+Make up a story, e.g. "MC gives you a porn SD card."
+
 Progression of requirements for ALL information:
 
 NDA > Clearance > Formal Approval > Need to know
+
+# Access Control Methods
+
+* **D**iscretionary - **D**ata owner **d**irectly **d**iscerns 
+
+* Non-discretionary - everything more streamlined:
+	* **M**andatory (MAC) - **M**ilitary, and therefore strict. Clearances, formal approvals and need-to-know apply.
+
+	All other options are easier to remember,
+	* Attribute (ABAC) - attribute
+	* Role-based (RBAC) - role
+	* Rule-based (RuBAC) - rule
+	* Risk-based (~~RiBAC~~ RBA) - risk
+	
