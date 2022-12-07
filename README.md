@@ -119,7 +119,7 @@ So to remember IPSec, one needs to remember the following memory device: "IPSec 
 
 From least secure to most secure:
 
-Multilevel > Compartmented > System-High > Dedicated
+Multilevel > Compartmented > System-High > Dedicated  
 M > C > S > D 
 
 Make up a story, e.g. "MC gives you a porn SD card."
