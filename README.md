@@ -114,3 +114,14 @@ So to remember IPSec, one needs to remember the following memory device: "IPSec 
 
 * 2 of Encapsulating Security Payload (ESP): **Confidentality** + **Integrity**
 * 2 of **Authentication** header (AH): "**Authentication**" + **Integrity**
+
+# System Modes
+
+From least secure to most secure:
+
+Multilevel > Compartmented > System-High > Dedicated
+M > C > S > D 
+
+Progression of requirements for ALL information:
+
+NDA > Clearance > Formal Approval > Need to know
