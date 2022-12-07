@@ -123,7 +123,9 @@ Multilevel > Compartmented > System-High > Dedicated
 M > C > S > D 
 
 Make up a story, e.g. "MC gives you a porn SD card."
+
 ![128gb](https://i.ytimg.com/vi/BrcBKpE9aQg/mqdefault.jpg)
+
 
 Progression of requirements for ALL information:
 
