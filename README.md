@@ -14,8 +14,9 @@ SLE = AV x EF
 
 ## Laws and regulations
 
-* Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)
+* SOX (Sarbanes Oxley, 2002) - [say this in the British accent] ENRON really SOX
 
+* Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)
 ![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
 
 
