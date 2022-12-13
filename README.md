@@ -82,7 +82,7 @@ DRP is a subset of BCP
 DC I DD PP
 
 * Develop (policy)
-* Conduct BCP
+* Conduct BIA (Business Impact Analysis)
 * Identify (preventative controls)
 * Develop DRP strategies
 * Develop IT contingency (plan)
