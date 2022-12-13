@@ -92,6 +92,15 @@ DC I DD PP
 * Plan Training
 * Plan maintenance
 
+#### BIA process
+
+(No known memory device, just needs to be understood)
+
+1) Project Planning and Development
+2) Data collection
+3) Criticalicality Assessment
+4) Vulnerability assessment
+
 # Domain 2
 
 ## Data roles
