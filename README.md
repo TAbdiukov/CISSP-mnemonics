@@ -144,9 +144,11 @@ Make up a story, e.g. "MC gives you a porn SD card."
 ![128gb](https://i.ytimg.com/vi/BrcBKpE9aQg/mqdefault.jpg)
 
 
-Progression of requirements for ALL information:
+Progression of requirements for ALL information (therefore, next entry would apply for SOME information),
 
-NDA > Clearance > Formal Approval > Need to know
+NDA > Clearance > Formal Approval > Need-to-know
+
+Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
 
 ## Access Control Methods
 
@@ -168,7 +170,7 @@ NDA > Clearance > Formal Approval > Need to know
 
 ![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)
 
-Recall [Star Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
+Recall [Star-Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
 
 > O say can you see  
 > By the **dawn's early light,**  
