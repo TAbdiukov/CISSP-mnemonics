@@ -62,16 +62,32 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 * International Traffic in Arms Regulations (ITAR) - restricting export of **war items**. Think "**ITAR is war**". Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
 
 
-## U.S. Healthcare
+### U.S. Healthcare
 
 * P**H**I - Personal **Health** Information
 
 * **H**IPPA - **Health privacy and security** regulations in case you get **HIPPAtitis**
 * **HITECH** - **Hospitals security** go hi-tech!
 
-## EU
+### EU
 
 * GDPR - EU Privacy Laws. No known mnemonic
+
+## BCP and DRP
+
+DRP is a subset of BCP
+
+### NIST SP 800-34
+
+DC I DD PP
+
+* Develop (policy)
+* Conduct BCP
+* Identify (preventative controls)
+* Develop DRP strategies
+* Develop IT contingency (plan)
+* Plan Training
+* Plan maintenance
 
 # Domain 2
 
