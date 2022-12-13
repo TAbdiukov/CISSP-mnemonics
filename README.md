@@ -165,16 +165,21 @@ NDA > Clearance > Formal Approval > Need to know
 
 ### TSSEC
 * TSSEC - "Orange book" - U.S. Standard 
+
 ![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)
 
 Recall [Star Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
 
 > O say can you see
+
 > By the **dawn's early light,**
+
 > What so proudly we hailed
+
 > **At the twilights last gleaming?**
 
 What colour comes to mind?
+
 ![Twilight USA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg/320px-Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg)
 
 ### ITSEC
