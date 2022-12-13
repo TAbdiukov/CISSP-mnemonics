@@ -77,6 +77,9 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 DRP is a subset of BCP
 
+* BCP - Business
+* DRP - Technical
+
 ### NIST SP 800-34
 
 DC I DD PP
