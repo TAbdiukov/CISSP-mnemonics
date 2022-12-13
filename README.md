@@ -12,6 +12,16 @@ ALE CAUSES AROSLE
 (up my) SLEAV-EF  
 SLE = AV x EF  
 
+## Qualitative & quatitative risk analysis
+
+(no memory device here, more of an explanation)
+
+* Qualitative - based on inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE
+
+* Quantitative - **better**, based on experience and statistics
+
+* Combination - balanced
+
 ## Laws and regulations
 
 * SOX (Sarbanes Oxley, 2002) - [say this in the British accent] ENRON really SOX
@@ -99,7 +109,13 @@ Think about a digital telescope pointing at the stars.
 
 # Domain 3
 
-# Compliance
+## Must-know
+
+Security rings,
+
+(Zero) KODU - Kernal, OS, Drivers, Userspace
+
+## Compliance
 
 * **Ass**urance - **Ass**ert (security)
 * **C**ertification - **C**ompliance according to **c**ompliance security officer. Certification yields assurance
@@ -107,7 +123,7 @@ Think about a digital telescope pointing at the stars.
 
 * **Accept**ance - **Accept**
  
-# IPSec
+## IPSec
 
 So to remember IPSec, one needs to remember the following memory device: "IPSec is 2". What is 2?
 
@@ -116,7 +132,7 @@ So to remember IPSec, one needs to remember the following memory device: "IPSec 
 * 2 of Encapsulating Security Payload (ESP): **Confidentality** + **Integrity**
 * 2 of **Authentication** header (AH): "**Authentication**" + **Integrity**
 
-# System Modes
+## System Modes
 
 From least secure to most secure:
 
@@ -132,7 +148,7 @@ Progression of requirements for ALL information:
 
 NDA > Clearance > Formal Approval > Need to know
 
-# Access Control Methods
+## Access Control Methods
 
 * **D**iscretionary - **D**ata owner **d**irectly **d**iscerns 
 
@@ -145,3 +161,33 @@ NDA > Clearance > Formal Approval > Need to know
 	* Rule-based (RuBAC) - rule
 	* Risk-based (~~RiBAC~~ RBA) - risk
 	
+## TSSEC, ITSEC, Common Criteria
+
+### TSSEC
+* TSSEC - "Orange book" - U.S. Standard 
+![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)
+
+Recall [Star Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
+
+> O say can you see
+> By the **dawn's early light,**
+> What so proudly we hailed
+> **At the twilights last gleaming?**
+
+What colour comes to mind?
+![Twilight USA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg/320px-Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg)
+
+### ITSEC
+
+ITSEC - EU Standard
+
+*i***T-Systems** are European
+
+### Common Criteria
+
+Common Criteria - CC - Are superseding globally
+
+## Common criteria levels
+
+TODO
+
