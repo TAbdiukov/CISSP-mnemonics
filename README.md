@@ -16,7 +16,7 @@ SLE = AV x EF
 
 (no memory device here, more of an explanation)
 
-* Qualitative - based on inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE
+* Qualitative - based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE
 
 * Quantitative - **better**, based on experience and statistics
 
@@ -170,13 +170,10 @@ NDA > Clearance > Formal Approval > Need to know
 
 Recall [Star Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
 
-> O say can you see
-
-> By the **dawn's early light,**
-
-> What so proudly we hailed
-
-> **At the twilights last gleaming?**
+> O say can you see  
+> By the **dawn's early light,**  
+> What so proudly we hailed  
+> **At the twilights last gleaming?**  
 
 What colour comes to mind?
 
