@@ -200,6 +200,11 @@ Security rings,
 * **Deluge** - **Deluxe** (volume)
 * Pre-action - **pre**load once fire, **action** once confirmed
 
+## Card types
+
+* Magnetic - low
+
+
 ## Compliance
 
 * **Ass**urance - **Ass**ert (security of product)
@@ -234,6 +239,8 @@ Make up a story, e.g. "MC gives you a porn SD card."
 Progression of requirements for ALL information (therefore, next entry would apply for SOME information),
 
 NDA > Clearance > Formal Approval > Need-to-know
+
+N>C>F>N -> NoiCy FaN [in the background]
 
 Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
 
@@ -301,3 +308,7 @@ For CISSP purposes: SSL is outdated and TLS is to be used.
 CISSPrep has a great mnemonic,
 
 [![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)
+
+Prep: PFS
+Dev: DA
+Post-dev: TCT
