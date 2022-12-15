@@ -83,7 +83,7 @@ PC SIA AM (PC of SIA in ArMenia)
 
 OR
 
-PCS IAAM (PC's I am)
+PCS IAAM (PC's I aam)
 
 1. Prepare.
 2. Categorize (systems)
