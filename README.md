@@ -219,7 +219,13 @@ ITSEC - EU Standard
 
 Common Criteria - CC - Are superseding globally
 
-## Common criteria levels
+## Common criteria - EAL
 
-TODO
+Start-from 1 - 3-2-1
+
+FSM - SS - F
+
+Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
+
+
 
