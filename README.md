@@ -73,6 +73,26 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 * GDPR - EU Privacy Laws. No known mnemonic
 
+## Risk - RMF - NIST SP 800-37
+
+* [Useful nist.gov illustration](https://csrc.nist.gov/projects/risk-management/about-rmf)
+
+PC SIA AM (PC of SIA in ArMenia)
+
+![https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg](https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg)
+
+OR
+
+PCS IAAM (PC's I am)
+
+1. Prepare.
+2. Categorize (systems)
+3. Select (controls) [for systems]
+4. Implement (controls)
+5. Assess (controls) [take a step back]
+6. Authorize (controls) [stamp of approval]
+7. Monitor.
+
 ## BCP and DRP
 
 DRP is a subset of BCP
