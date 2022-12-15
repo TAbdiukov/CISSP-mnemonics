@@ -233,3 +233,10 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 For CISSP purposes: SSL is outdated and TLS is to be used.
 
+# Domain 8
+
+## SDLC
+
+CISSPrep has a great mnemonic,
+
+[![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)
