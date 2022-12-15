@@ -246,7 +246,7 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 
 ## Access Control Methods
 
-* **D**iscretionary - **D**ata owner **d**irectly **d**iscerns 
+* **D**iscretionary - **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
 
 * Non-discretionary - everything more streamlined:
 	* **M**andatory (MAC) - **M**ilitary, and therefore strict. Clearances, formal approvals and need-to-know apply.
