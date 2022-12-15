@@ -227,5 +227,9 @@ FSM - SS - F
 
 Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
+# Domain 4
 
+## TLS vs SSL
+
+For CISSP purposes: SSL is outdatefd and TLS is to be used
 
