@@ -229,7 +229,7 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 # Domain 4
 
-## TLS vs SSL
+## SSL vs TLS
 
-For CISSP purposes: SSL is outdatefd and TLS is to be used
+For CISSP purposes: SSL is outdated and TLS is to be used.
 
