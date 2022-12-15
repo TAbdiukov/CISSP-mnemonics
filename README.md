@@ -88,7 +88,7 @@ PCS IAAM (PC's I am)
 1. Prepare.
 2. Categorize (systems)
 3. Select (controls) [for systems]
-4. Implement (controls)
+4. Implement (controls) [+documentation]
 5. Assess (controls) [take a step back]
 6. Authorize (controls) [stamp of approval]
 7. Monitor.
