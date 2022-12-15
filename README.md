@@ -143,13 +143,22 @@ Security rings,
 
 (Zero) KODU - Kernal, OS, Drivers, Userspace
 
+## Firefighting systems
+
+* **D**ry pipe - **D**ry (steam)
+* **W**et pipe - **W**ater
+* **Deluge** - **Deluxe** (volume)
+* Pre-action - **pre**load once fire, **action** once confirmed
+
 ## Compliance
 
-* **Ass**urance - **Ass**ert (security)
-* **C**ertification - **C**ompliance according to **c**ompliance security officer. Certification yields assurance
+* **Ass**urance - **Ass**ert (security of product)
+* **C**ertification - **C**ompliance according to **c**ompany's **c**ompliance security officer. Certification is towards assurance
+* **Ver**ification - Third-party obser**ver**'s report
 * **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
 
 * **Accept**ance - **Accept**
+
  
 ## IPSec
 
@@ -232,6 +241,8 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 ## SSL vs TLS
 
 For CISSP purposes: SSL is outdated and TLS is to be used.
+
+
 
 # Domain 8
 
