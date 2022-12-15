@@ -36,7 +36,7 @@ SLE = AV x EF
 
 ![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
-* FISMA - **U.S. Government information security** is under **prisma**. 
+* FISMA - **U.S. Government information security** is under **prisma**. [NIST SP 800-53 is used for FISMA]
 
 * PCI DSS - Credit Card Security - Visa, MasterCard and American Express. What else is a card other than a credit card? - Your PCI card.
 
@@ -66,7 +66,7 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 * P**H**I - Personal **Health** Information
 
-* **H**IPPA - **Health privacy and security** regulations in case you get **HIPPAtitis**
+* **H**IPAA - **Health privacy and security** regulations in case you get **HIPAAtitis**
 * **HITECH** - **Hospitals security** go hi-tech!
 
 ### EU
@@ -77,13 +77,7 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 * [Useful nist.gov illustration](https://csrc.nist.gov/projects/risk-management/about-rmf)
 
-PC SIA AM (PC of SIA in ArMenia)
-
-![https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg](https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg)
-
-OR
-
-PCS IAAM (PC's I aam)
+### Steps
 
 1. Prepare.
 2. Categorize (systems)
@@ -92,6 +86,17 @@ PCS IAAM (PC's I aam)
 5. Assess (controls) [take a step back]
 6. Authorize (controls) [stamp of approval]
 7. Monitor.
+
+### Mnemonic device 1
+
+PC SIA AM (PC of SIA in ArMenia)
+
+![https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg](https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg)
+
+### Mnemonic device 2
+
+PCS IAAM (PC's I aam)
+
 
 ## BCP and DRP
 
