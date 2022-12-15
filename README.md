@@ -113,6 +113,31 @@ DC I DD PP
 
 * **A**dministrators - **A**ssign permissions to **A**ccounts
 
+## Data remanence
+
+CISSPrep has a great mnemonic,
+
+To memorize this, repeat the phrase “Cow, Pig, Sow,” or “CP SOW.”  Repeat it again and think of a farm you visited or one that you saw in a movie.  Now repeat the following mnemonic:
+
+* **C**learing Can (be recovered)
+
+* **P**urging is **P**ermanent
+
+* **S**anitizing is the **S**ame (as purging)
+
+* **O**verwriting with **O**h's.
+
+* **W**iping is **W**riting (overwriting, that is)
+
+Notice how the letters match to help you remember.  It seems silly, yes, but this is the key.  
+
+So here’s the phrase to keep repeating, once again:
+
+Cow Pig Sow; CPSOW, **Clearing Can, Purging is Permanent, Sanitizing Same, Overwriting Oh’s, Wiping is Writing.**  Repeat this over and over, and consider copying it onto a memorization sheet.
+
+
+
+
 ## Scoping, tailoring and supplementation
 
 * Scoping - removing security controls that don't apply. 
