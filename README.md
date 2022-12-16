@@ -331,9 +331,12 @@ Mnemonic device: They go in reserve alphabetical order
 ## Fraggle, Smurf
 
 * Fraggle - CHARGEN
-* ICMP - Smurf
+* Smurf - ICMP
 
-Fragile CHARGE, I CIMP for Smurf
+Fragile CHARGE, Smurf Is CIMP
+
+![smurf](https://styles.redditmedia.com/t5_4cwtuc/styles/communityIcon_z32lgv4xl7x61.png)
+
 
 # Domain 8
 
