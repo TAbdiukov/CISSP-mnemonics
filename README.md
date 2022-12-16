@@ -24,7 +24,7 @@ SLE = AV x EF
 
 ## Laws and regulations
 
-* SOX (Sarbanes Oxley, 2002) - [say this in the British accent] ENRON really SOX
+* SOX (Sarbanes Oxley, 2002) - [say in British accent] ENRON really SOX
 
 * Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)
 ![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
@@ -35,6 +35,8 @@ SLE = AV x EF
 * FERPA - Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
 
 ![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
+
+* **GISMA - Superseded by FISMA** in 2000
 
 * FISMA - **U.S. Government information security** is under **prisma**. [NIST SP 800-53 is used for FISMA]
 
