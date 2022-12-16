@@ -335,7 +335,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 Fragile CHARGE, Smurf Is CIMP
 
-![smurf](./local/simp.jpeg)
+![smurf](http://vignette4.wikia.nocookie.net/smurfsfanon/images/b/bf/Amore_Walking_In_A_Daze.jpg)
 
 
 # Domain 8
