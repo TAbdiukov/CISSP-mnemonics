@@ -314,11 +314,16 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 # Domain 4
 
+![Protocols](https://cybercoastal.com/wp-content/uploads/2021/08/Screenshot-73.png)
+
 ## SSL vs TLS
 
-For CISSP purposes: SSL is outdated and TLS is to be used.
+For CISSP: SSL is outdated and TLS is to be used.
 
+## Fraggle, Smurf
 
+Fraggle - CHARGEN
+Smurf - ICMP
 
 # Domain 8
 
