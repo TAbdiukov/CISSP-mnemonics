@@ -335,7 +335,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 Fragile CHARGE, Smurf Is CIMP
 
-![smurf](https://styles.redditmedia.com/t5_4cwtuc/styles/communityIcon_z32lgv4xl7x61.png)
+![smurf](./local/simp.jpeg)
 
 
 # Domain 8
