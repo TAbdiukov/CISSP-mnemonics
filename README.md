@@ -198,7 +198,7 @@ Think about a digital telescope pointing at the stars.
 
 Security rings,
 
-(Zero) KODU - Kernal, OS, Drivers, Userspace
+(Zero) KODU - Kernel, OS, Drivers, Userspace
 
 ## Firefighting systems
 
