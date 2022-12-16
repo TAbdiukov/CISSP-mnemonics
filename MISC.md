@@ -20,3 +20,9 @@ Diffie-Hellman vs RSA
 [Thread](https://www.reddit.com/r/cissp/comments/zmwsm3/diffiehellman_vs_rsa_cissp_official_practice/?utm_source=share&utm_medium=web2x&context=3)
 [Interpretation](https://www.reddit.com/r/cissp/comments/zmwsm3/comment/j0e770e/?utm_source=share&utm_medium=web2x&context=3)
 
+## Domain 3 Q 72
+
+**Meet**-in-the middle attack for 2DES encryption
+
+[Explanation](https://security.stackexchange.com/a/122626)
+
