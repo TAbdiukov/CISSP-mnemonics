@@ -91,12 +91,15 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 PC SIA AM (PC of SIA in ArMenia)
 
+[For SIA to run a rogue PC in Armenia is pretty RISKy]
+
 ![https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg](https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg)
 
 ### Mnemonic device 2
 
 PCS IAAM (PC's I aam)
 
+[Being non-human is RISKy]
 
 ## BCP and DRP
 
@@ -108,6 +111,8 @@ DRP is a subset of BCP
 ### NIST SP 800-34
 
 DC I DD PP
+
+[NSFL but rememberable memorization trick](https://pastebin.com/raw/fnFEP8cT), oh boy will you need DRP and thus BCP after this
 
 * Develop (policy)
 * Conduct BIA (Business Impact Analysis)
@@ -200,10 +205,22 @@ Security rings,
 * **Deluge** - **Deluxe** (volume)
 * Pre-action - **pre**load once fire, **action** once confirmed
 
+## Fire Extinguishers
+
+Type | Application
+---- | ----
+A | Ash, almanac
+B | Bubble, BOil Oil
+C | Circuits, CRT
+D | Dent, Dural, Duraluminium
+K | Kitchen
+
 ## Card types
 
-* Magnetic - low
-
+* Magnetic - low security
+* Proximity - signal can be stolen
+* RFID - Distance
+* Microchip / SmartCard - Secure
 
 ## Compliance
 
@@ -309,6 +326,6 @@ CISSPrep has a great mnemonic,
 
 [![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)
 
-Prep: PFS
-Dev: DA
-Post-dev: TCT
+Prep: PFS  
+Dev: DA  
+Post-dev: TCT  
