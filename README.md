@@ -320,6 +320,14 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 For CISSP: SSL is outdated and TLS is to be used.
 
+## *Casts
+
+Mnemonic device: They go in reserve alphabetical order
+
+* Unicast - One
+* Multicast - Many specific
+* Broadcast - All
+
 ## Fraggle, Smurf
 
 * Fraggle - CHARGEN  
