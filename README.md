@@ -322,8 +322,8 @@ For CISSP: SSL is outdated and TLS is to be used.
 
 ## Fraggle, Smurf
 
-Fraggle - CHARGEN
-Smurf - ICMP
+* Fraggle - CHARGEN  
+* Smurf - ICMP  
 
 # Domain 8
 
