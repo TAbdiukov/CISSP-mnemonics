@@ -420,6 +420,8 @@ The descriptions get shorter every time
 
 ### A little comic
 
+([icons from Iconfinder, used for educational purposes])
+
 Story of a "PAPA" man following code
 
 ![Protect](https://cdn4.iconfinder.com/data/icons/business-businessman-employee-workers/289/employee-life-style-004-128.png)
