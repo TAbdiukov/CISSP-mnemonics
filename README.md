@@ -322,6 +322,14 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 ![Protocols](https://cybercoastal.com/wp-content/uploads/2021/08/Screenshot-73.png)
 
+## TCP/IP Model
+
+![Difference](https://www.guru99.com/images/1/102219_1135_TCPIPvsOSIM1.png)
+
+An amazing mnemonic from CISSPrep,
+
+The TCP/IP model on the right side can be memorized by saying/writing “**N2, A3**,” with “IT” in the middle, or “**NitA**”, which could be someone’s name.  
+
 ## SSL vs TLS
 
 For CISSP: SSL is outdated and TLS is to be used.
