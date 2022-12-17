@@ -418,7 +418,6 @@ The descriptions get shorter every time
 
 ### You got this.
 
-[Why you will pass the CISSP
+[Why you will pass the CISSP](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
 
-
-![CISSPrep](https://i.ytimg.com/vi/v2Y6Zog8h2A/mqdefault.jpg)](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
+[![CISSPrep](https://i.ytimg.com/vi/v2Y6Zog8h2A/mqdefault.jpg)](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
