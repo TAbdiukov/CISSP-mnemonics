@@ -379,6 +379,15 @@ CISSPrep has a great mnemonic,
 
 [![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)
 
+Please Fry Some Dead Animals To Catch The Right Man
+
 Prep: PFS  
 Dev: DA  
 Post-dev: TCT  
+EOL: RM
+
+## Software Assurance During Acquisition Phases
+
+CISSPrep has a great mnemonic,
+
+[![CISSPrep](https://i.ytimg.com/vi/6RoUCNc6TP4/mqdefault.jpg)](https://www.youtube.com/watch?v=6RoUCNc6TP4)
