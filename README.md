@@ -414,7 +414,7 @@ CISSPrep has a great mnemonic,
 
 #### A little comic
 
-Story of the certified man following code
+Story of a man following code
 
 ![Protect](https://cdn4.iconfinder.com/data/icons/business-businessman-employee-workers/289/employee-life-style-004-128.png)
 ![Act](https://cdn0.iconfinder.com/data/icons/positive-character-traits-alphabet-h/271/positive-h003-128.png)
