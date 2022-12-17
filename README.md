@@ -412,18 +412,21 @@ CISSPrep has a great mnemonic,
 3) Provide (service)
 4) Advance (profession)
 
-#### A little comic
-
-Story of a man following code
-
-![Protect](https://cdn4.iconfinder.com/data/icons/business-businessman-employee-workers/289/employee-life-style-004-128.png)
-![Act](https://cdn0.iconfinder.com/data/icons/positive-character-traits-alphabet-h/271/positive-h003-128.png)
-![Provide](https://cdn1.iconfinder.com/data/icons/actions-alphabet-i-set-3-of-10/231/actions-I-3-3-128.png)
-![Advance](https://cdn0.iconfinder.com/data/icons/king/503/king-007-128.png)
+### Shortcuts
 
 P-A-P-A
 
 The descriptions get shorter every time
+
+### A little comic
+
+Story of a "PAPA" man following code
+
+![Protect](https://cdn4.iconfinder.com/data/icons/business-businessman-employee-workers/289/employee-life-style-004-128.png)
+![Act](https://cdn0.iconfinder.com/data/icons/positive-character-traits-alphabet-h/271/positive-h003-128.png)
+![Provide](https://cdn1.iconfinder.com/data/icons/actions-alphabet-i-set-3-of-10/231/actions-I-3-3-128.png)
+![Advance](https://cdn4.iconfinder.com/data/icons/positive-character-traits-alphabet-c-part-2/325/positive-Cset2003-128.png)
+
 
 ## You got this.
 
