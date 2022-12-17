@@ -284,11 +284,6 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 	* Rule-based (RuBAC) - rule
 	* Risk-based (~~RiBAC~~ RBA) - risk
 	
-## Kerberos
-
-![Cerberus](https://static.wikia.nocookie.net/ageofempires/images/a/a5/TitanGreekIcon.png)
-
-Heads/Steps: Authentication, Authorization (Ticket), Acceptance
 	
 ## TSSEC, ITSEC, Common Criteria
 
@@ -339,6 +334,23 @@ An amazing mnemonic from CISSPrep,
 The TCP/IP model on the right side can be memorized by saying/writing “**N2, A3**,” with “IT” in the middle, or “**NitA**”, which could be someone’s name.  
 
 **NOTE**: The mnemonic is to apply from bottom to the top.
+
+## Authentication protocols
+
+*(typically)*
+
+* Kerberos - for Microsoft Windows
+* RADIUS - for VPN
+* TACACS+ - for Cisco
+
+Mnemonic device - made up a little story: You send documents from Microsoft Windows via VPN to a mainframe serviced by Cisco. The corresponding authentication protocols would go in the alphabetical order.
+
+### Kerberos
+
+![Cerberus](https://static.wikia.nocookie.net/ageofempires/images/a/a5/TitanGreekIcon.png)
+
+Heads/Steps: Authentication, Authorization (Ticket), Acceptance
+
 
 ## SSL vs TLS
 
