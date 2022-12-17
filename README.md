@@ -412,11 +412,20 @@ CISSPrep has a great mnemonic,
 3) Provide (service)
 4) Advance (profession)
 
+#### A little comic
+
+Story of the certified man following code
+
+![Protect](https://cdn4.iconfinder.com/data/icons/business-businessman-employee-workers/289/employee-life-style-004-128.png)
+![Act](https://cdn0.iconfinder.com/data/icons/positive-character-traits-alphabet-h/271/positive-h003-128.png)
+![Provide](https://cdn1.iconfinder.com/data/icons/actions-alphabet-i-set-3-of-10/231/actions-I-3-3-128.png)
+![Advance](https://cdn0.iconfinder.com/data/icons/king/503/king-007-128.png)
+
 P-A-P-A
 
 The descriptions get shorter every time
 
-### You got this.
+## You got this.
 
 [Why you will pass the CISSP](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
 
