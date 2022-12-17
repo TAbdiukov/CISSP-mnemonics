@@ -391,3 +391,32 @@ EOL: RM
 CISSPrep has a great mnemonic,
 
 [![CISSPrep](https://i.ytimg.com/vi/6RoUCNc6TP4/mqdefault.jpg)](https://www.youtube.com/watch?v=6RoUCNc6TP4)
+
+# Domain 9 (meta-domain)
+
+![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
+
+## (ISC)² Code Of Ethics
+
+### Code
+
+* Protect society, the common good, necessary public trust and confidence, and the infrastructure.
+* Act honorably, honestly, justly, responsibly, and legally.
+* Provide diligent and competent service to principals.
+* Advance and protect the profession.
+
+### Memorization
+
+1) Protect (commonwealth)
+2) Act (well)
+3) Provide (service)
+4) Advance (profession)
+
+P-A-P-A
+
+The descriptions get shorter every time
+
+### You got this.
+
+[Why you will pass the CISSP
+![CISSPrep](https://i.ytimg.com/vi/v2Y6Zog8h2A/mqdefault.jpg)](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
