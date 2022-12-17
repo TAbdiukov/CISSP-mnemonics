@@ -196,9 +196,17 @@ Think about a digital telescope pointing at the stars.
 
 ## Must-know
 
-Security rings,
+### Security rings,
 
 (Zero) KODU - Kernel, OS, Drivers, Userspace
+
+### Information flow security models
+
+[Bell-LaPadula, Biba, Brewer-Nash (Chinese Wall), Clack-Wilson](https://github.com/TheRealBenForce/cissp-mnemonics#domain-3-security-engineering)
+
+#### Properties
+
+[Information flow security models' properties](https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models)
 
 ## Firefighting systems
 
@@ -329,6 +337,8 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 An amazing mnemonic from CISSPrep,
 
 The TCP/IP model on the right side can be memorized by saying/writing “**N2, A3**,” with “IT” in the middle, or “**NitA**”, which could be someone’s name.  
+
+**NOTE**: The mnemonic is to apply from bottom to the top.
 
 ## SSL vs TLS
 
