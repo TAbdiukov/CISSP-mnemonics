@@ -345,9 +345,13 @@ Fragile CHARGE, Smurf Is CIMP
 
 # Domain 5
 
-F
+## Authentication problems
 
-FRR - Type 2
+![meme](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)
+
+FAR - Type 1 Error
+FRR - Type 2 Error
+CER - Intersection between FAR and FRR. Optimal configuration.
 
 # Domain 8
 
