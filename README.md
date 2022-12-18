@@ -356,6 +356,10 @@ Heads/Steps: Authentication, Authorization (Ticket), Acceptance
 
 For CISSP: SSL is outdated and TLS is to be used.
 
+## VoIP and VPN
+
+For CISSP: VoIP doesn't mix with VPN
+
 ## *Casts
 
 Mnemonic device: They go in reserve alphabetical order
