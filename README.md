@@ -370,6 +370,10 @@ Mnemonic device: They go in reserve alphabetical order
 * Bluesnarf - snatch data
 * Bluebugging - bug to gain remote access
 
+## internet storage
+
+* FCoE - Fiber and maybe Ethernet
+* iSCSI - IP/Ethernet 
 
 ## Fraggle, Smurf
 
