@@ -364,6 +364,14 @@ Mnemonic device: They go in reserve alphabetical order
 * Multicast - Many specific
 * Broadcast - All
 
+## *EAP
+
+* EAP - Original protocol that started its family. Outdated
+* LEAP - Lightweight, Cisco proprietary, no longer secure
+* PEAP - Protected EAP. For CISSP purposes, "good enough"
+* MS-PEAP - Microsoft's improvement on PEAP, even better than PEAP
+* EAP-TLS - Secure, but difficult to implement due to additional prerequisites
+
 ## Bluetooth
 
 * Bluejack - Jack sends annoying messages
@@ -374,6 +382,12 @@ Mnemonic device: They go in reserve alphabetical order
 
 * FCoE - Fiber and maybe Ethernet
 * iSCSI - IP/Ethernet 
+
+## Private IP ranges
+
+* Class A: 10.0.0.0 – 10.255.255.255
+* Class B: 172.16.0.0 – 172.31.255.255
+* Class C: 192.168.0.0 – 192.168.255.255
 
 ## Private IP ranges and subnet masks
 
