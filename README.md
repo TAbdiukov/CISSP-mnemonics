@@ -364,6 +364,13 @@ Mnemonic device: They go in reserve alphabetical order
 * Multicast - Many specific
 * Broadcast - All
 
+## Bluetooth
+
+* Bluejack - Jack sends annoying messages
+* Bluesnarf - snatch data
+* Bluebugging - bug to gain remote access
+
+
 ## Fraggle, Smurf
 
 * Fraggle - CHARGEN
