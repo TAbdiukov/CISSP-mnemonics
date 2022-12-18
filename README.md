@@ -375,6 +375,10 @@ Mnemonic device: They go in reserve alphabetical order
 * FCoE - Fiber and maybe Ethernet
 * iSCSI - IP/Ethernet 
 
+## Private IP ranges and subnet masks
+
+Easy trick: class letter defines the number of 255's . For example, class B (2) would have 255.255.0.0
+
 ## Fraggle, Smurf
 
 * Fraggle - CHARGEN
