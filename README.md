@@ -384,7 +384,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 * EAP - Original protocol that started its family. Outdated
 * LEAP - Lightweight, Cisco proprietary, no longer secure
-* PEAP - Protected EAP. For CISSP purposes, "good enough"
+* PEAP - Protected EAP. For CISSP purposes, "good enough". Uses TLS.
 * MS-PEAP - Microsoft's improvement on PEAP, even better than PEAP
 * EAP-TLS - Secure, but difficult to implement due to additional prerequisites
 
@@ -419,6 +419,10 @@ Fragile CHARGE, Smurf Is CIMP
 ![simp](https://static.wikia.nocookie.net/smurfs/images/2/29/Enamoredsmurf.gif)
 
 # Domain 5
+
+## must-know
+
+Retinal = anal
 
 ## Authentication problems
 
