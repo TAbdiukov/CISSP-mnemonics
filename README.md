@@ -360,6 +360,11 @@ For CISSP: SSL is outdated and TLS is to be used.
 
 For CISSP: VoIP doesn't mix with VPN
 
+## Routing protocols
+
+* distance-vector - Shortest path
+* Link state - Best bandwidth link
+
 ## NAC systems
 
 * Pre-admit - Checks happen BEFORE admission
