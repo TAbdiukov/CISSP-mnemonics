@@ -19,6 +19,7 @@ Diffie-Hellman vs RSA
 
 [Thread](https://www.reddit.com/r/cissp/comments/zmwsm3/diffiehellman_vs_rsa_cissp_official_practice/?utm_source=share&utm_medium=web2x&context=3)
 [Interpretation](https://www.reddit.com/r/cissp/comments/zmwsm3/comment/j0e770e/?utm_source=share&utm_medium=web2x&context=3)
+[Criticism](https://www.reddit.com/r/cissp/comments/zmwsm3/comment/j0gh4ex/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Domain 3 Q 72
 
@@ -26,3 +27,6 @@ Diffie-Hellman vs RSA
 
 [Explanation](https://security.stackexchange.com/a/122626)
 
+## Domain 4 Q 57
+
+[Thread](https://www.reddit.com/r/cissp/comments/zpehp8/cissp_official_practice_tests_domain_4_q_57/?utm_source=share&utm_medium=web2x&context=3)
