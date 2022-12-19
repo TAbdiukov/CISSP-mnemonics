@@ -360,6 +360,13 @@ For CISSP: SSL is outdated and TLS is to be used.
 
 For CISSP: VoIP doesn't mix with VPN
 
+## NAC systems
+
+* Pre-admit - Checks happen BEFORE admission
+* Postadmission - Checks happen AFTER admission
+* Client-based - Stateful
+* Clientless - Stateless
+
 ## *Casts
 
 Mnemonic device: They go in reserve alphabetical order
