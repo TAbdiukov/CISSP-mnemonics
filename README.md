@@ -24,11 +24,10 @@ SLE = AV x EF
 
 ## Laws and regulations
 
-* SOX (Sarbanes Oxley, 2002) - [say in British accent] ENRON really SOX
+* SOX (Sarbanes Oxley, 2002) - [say in British accent] ENRON really SOX. It's transaction flow really SOX.
 
 * Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)
 ![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
-
 
 * COPPA - Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
