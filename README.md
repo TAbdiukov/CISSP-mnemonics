@@ -35,6 +35,8 @@ SLE = AV x EF
 
 ![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
+However, student ID leak [won't trigger data breach laws](https://www.theaustralian.com.au/the-oz/news/student-grades-and-ids-have-been-stolen-from-an-elite-australian-uni/news-story/1ddc0401bb2d91e58d430ef8d6939edf)
+
 * **GISMA - Superseded by FISMA** in 2000
 
 * FISMA - **U.S. Government information security** is under **prisma**. [NIST SP 800-53 is used for FISMA]
