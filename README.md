@@ -414,7 +414,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 * PPP (point-to-point protocol) - IP over telephone
 
-## Authentication protocols
+### Authentication protocols
 
 * P**AP** - Insecure
 * **CHAP** - Secure, uses **ch**ecksums (hash functions)
