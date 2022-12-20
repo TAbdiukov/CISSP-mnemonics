@@ -62,10 +62,14 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 * Export Administration Regulation (EAR) - restricting export of **civilian items that may have military applications**, such as **EARphones**.
 * International Traffic in Arms Regulations (ITAR) - restricting export of **war items**. Think "**ITAR is war**". Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
 
+### Personal information
+
+* P**I**I - Personal **ID** information 
+* P**H**I - Personal **Health** Information
+* P**C**I - **Credit card**. **PCI** DSS applies
+
 
 ### U.S. Healthcare
-
-* P**H**I - Personal **Health** Information
 
 * **H**IPAA - **Health privacy and security** regulations in case you get **HIPAAtitis**
 * **HITECH** - **Hospitals security** go hi-tech!
@@ -78,7 +82,7 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 * US**PT**O - **P**atens and **T**rademarks - (US Parent & Trademark Office)
 * LO**C** - **C**opyright - (Library of Congress)
-* **Bank** - **bank**ing breach - (per PCI DSS). Banking information isn't protected by FERPA.
+* **Bank** - **bank**ing breach - (per PCI DSS). Banking information isn't a PII.
 
 * U.S. **C**ode(x) - **C**riminal and **C**ivil Law
 * Code of **Federal** Regulations - Adminitrative Law on Federal scale
