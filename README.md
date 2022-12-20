@@ -481,6 +481,13 @@ Retinal = anal
 * FRR - Type 2 Error
 * CER - Intersection between FAR and FRR. Optimal configuration.
 
+## Open
+
+* Open**ID** - **Id**entity -> Authentication
+* OAuth - (stands for) Open Authorization
+
+**Note**: In real life, these protocols are used vis-a-vis.
+
 ## PRivileges
 
 * **P**ermissions - for **P**C (for example, execute permissions on files in Linux)
