@@ -474,6 +474,13 @@ Retinal = anal
 * FRR - Type 2 Error
 * CER - Intersection between FAR and FRR. Optimal configuration.
 
+## PRivileges
+
+* **P**ermissions - for **P**C (for example, execute permissions on files in Linux)
+* **R**ights - for **R**eal-life (for example, right to bear arms)
+
+* **PR**ivileges = **P**ermissions + **R**ights
+
 # Domain 8
 
 ## SDLC
