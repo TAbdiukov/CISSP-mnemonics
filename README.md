@@ -417,8 +417,8 @@ Mnemonic device: They go in reserve alphabetical order
 ### Authentication protocols (AP's)
 
 * **P**-**AP** (PAP), - Insecure, **P** for **P**athetic
-* **CH**-**AP** (CHAP) - Secure, uses **ch**ecksums (hash functions)
-
+* **CH**-**AP** (CHAP) - Secure, uses **CH**ecksums (hash functions)
+* **MS**-CHAP - Microsoft-improved CHAP. Even more secure, uses **CH**ecksums (hash functions)
 
 ## *EAP
 
