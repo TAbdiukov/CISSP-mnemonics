@@ -82,12 +82,12 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 ## Security and Risk in the U.S.
 
-* US**PT**O - **P**atens and **T**rademarks - (US Parent & Trademark Office)
+* US**PT**O - **P**atents and **T**rademarks - (US Parent & Trademark Office)
 * LO**C** - **C**opyright - (Library of Congress)
 * **Bank** - **bank**ing breach - (per PCI DSS)
 
 * U.S. **C**ode(x) - **C**riminal and **C**ivil Law
-* Code of **Federal** Regulations - Adminitrative Law on Federal scale
+* Code of **Federal** Regulations - Administrative Law on Federal scale
 
 ## Risk 
 
