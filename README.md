@@ -82,7 +82,7 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 * US**PT**O - **P**atens and **T**rademarks - (US Parent & Trademark Office)
 * LO**C** - **C**opyright - (Library of Congress)
-* **Bank** - **bank**ing breach - (per PCI DSS). Banking information isn't a PII.
+* **Bank** - **bank**ing breach - (per PCI DSS)
 
 * U.S. **C**ode(x) - **C**riminal and **C**ivil Law
 * Code of **Federal** Regulations - Adminitrative Law on Federal scale
