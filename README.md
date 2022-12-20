@@ -132,6 +132,13 @@ DC I DD PP
 3) Criticalicality Assessment
 4) Vulnerability assessment
 
+## Risk 
+
+Mnemonic: Risk T.V.
+![Roku](https://image.roku.com/developer_channels/prod/81b0180e7b151201a10d7006b048ccbc0ea5695d8fd20d78462d2a13a99f3485.png)
+
+Risk = Threat x Vulnerability
+
 # Domain 2
 
 ## Data roles
