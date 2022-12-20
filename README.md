@@ -308,6 +308,11 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 	* Rule-based (RuBAC) - rule
 	* Risk-based (~~RiBAC~~ RBA) - risk
 	
+### Related concepts
+
+* ACLs - Access Control **Lists**. Blacklists or whitelists. Used in DAC.
+* **L**attice model - **L**abels on objects
+
 	
 ## TSSEC, ITSEC, Common Criteria
 
