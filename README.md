@@ -313,7 +313,7 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 * ACLs - Access Control **Lists**. Blacklists or whitelists. Focus on Objects. Used in DAC.
 * Capability table - Used for subjects in DAC. `sudoers` file is an example of Capability table.
 * AC Matrix - 2D matrix with subjects and objects in DAC/MAC.
-* **L**attice model - matrix of **L**abels on objects in MAC
+* **L**attice model - matrix of **L**abels on objects and subjects in MAC
 
 	
 ## TSSEC, ITSEC, Common Criteria
