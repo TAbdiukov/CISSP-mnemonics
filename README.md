@@ -300,18 +300,20 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 * **D**iscretionary - **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
 
 * Non-discretionary - everything more streamlined:
-	* **M**andatory (MAC) - **M**ilitary, and therefore strict. Clearances, formal approvals and need-to-know apply.
+	* **M**andatory (MAC) - **M**ilitary, and therefore strict and not scalable. Clearances, formal approvals and need-to-know apply.
 
 	All other options are easier to remember,
-	* Attribute (ABAC) - attribute
+	* Attribute (ABAC) - attribute - flexible use of attriutes and environment
 	* Role-based (RBAC) - role
-	* Rule-based (RuBAC) - rule
+	* Rule-based (RuBAC) - rule - for example, firewalls
 	* Risk-based (~~RiBAC~~ RBA) - risk
 	
 ### Related concepts
 
-* ACLs - Access Control **Lists**. Blacklists or whitelists. Used in DAC.
-* **L**attice model - **L**abels on objects
+* ACLs - Access Control **Lists**. Blacklists or whitelists. Focus on Objects. Used in DAC.
+* Capability table - Used for subjects in DAC
+* AC Matrix - 2D matrix with subjects and objects in DAC/MAC.
+* **L**attice model - matrix of **L**abels on objects in MAC
 
 	
 ## TSSEC, ITSEC, Common Criteria
@@ -477,16 +479,33 @@ Retinal = anal
 
 ![meme](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)
 
-* FAR - Type 1 Error
 * FRR - Type 2 Error
+* FAR - Type 1 Error
 * CER - Intersection between FAR and FRR. Optimal configuration.
 
-## Open
+Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/Freier#Noun)'s far, sire)
+
+## More about AAA protocols
+
+* RADI**U**S - **U**DP, only encrypts passwords. Like it is for VPNs, not a single sign-on
+* **T**ACACS+ - **T**CP, 
+* Kerberos - symmetric AES encryption.
+
+### *Open* / Third-party logon
+
+Think: Google, Github, Microsoft logon.
 
 * Open**ID** - **Id**entity -> Authentication
 * OAuth - (stands for) Open Authorization
 
 **Note**: In real life, these protocols are used vis-a-vis.
+
+### XML-based-languages
+
+* SAML - AuthN and AuthZ, open source, good for ADFS.
+* SPML - Service provisioning
+* XACML - Access control
+* SOAP - messaging over network
 
 ## PRivileges
 
