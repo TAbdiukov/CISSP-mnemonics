@@ -87,6 +87,14 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 * U.S. **C**ode(x) - **C**riminal and **C**ivil Law
 * Code of **Federal** Regulations - Adminitrative Law on Federal scale
 
+## Risk 
+
+![Roku](https://image.roku.com/developer_channels/prod/81b0180e7b151201a10d7006b048ccbc0ea5695d8fd20d78462d2a13a99f3485.png)
+
+Mnemonic: Risk T.V.
+
+Risk = Threat x Vulnerability
+
 
 ## Risk - RMF - NIST SP 800-37
 
@@ -146,12 +154,6 @@ DC I DD PP
 3) Criticalicality Assessment
 4) Vulnerability assessment
 
-## Risk 
-
-Mnemonic: Risk T.V.
-![Roku](https://image.roku.com/developer_channels/prod/81b0180e7b151201a10d7006b048ccbc0ea5695d8fd20d78462d2a13a99f3485.png)
-
-Risk = Threat x Vulnerability
 
 # Domain 2
 
