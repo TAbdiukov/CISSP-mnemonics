@@ -408,6 +408,18 @@ Mnemonic device: They go in reserve alphabetical order
 * Multicast - Many specific
 * Broadcast - All
 
+## Dial-Up
+
+[Dial-Up refresher](https://www.dialupsound.com/)
+
+* PPP (point-to-point protocol) - IP over telephone
+
+## Authentication protocols
+
+* P**AP** - Insecure
+* **CHAP** - Secure, uses **ch**ecksums (hash functions)
+
+
 ## *EAP
 
 * EAP - Original protocol that started its family. Outdated
