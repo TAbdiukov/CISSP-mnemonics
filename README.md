@@ -560,6 +560,10 @@ Adapted from CISSPrep,
 
 * (Non-)Regression testing - Is there regression after the last change?
 
+### Network access
+
+* Authenticated - intranet
+* Unauthenticated - externally facing targets only
 
 
 # Domain 8
