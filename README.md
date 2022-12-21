@@ -479,8 +479,8 @@ Retinal = anal
 
 ![meme](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)
 
-* FRR - Type 2 Error
-* FAR - Type 1 Error
+* FRR - Type 1 Error
+* FAR - Type 2 Error
 * CER - Intersection between FAR and FRR. Optimal configuration.
 
 Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/Freier#Noun)'s far, sire)
