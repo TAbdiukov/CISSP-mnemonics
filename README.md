@@ -300,13 +300,13 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 * **D**iscretionary - **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
 
 * Non-discretionary - everything more streamlined:
-	* **M**andatory (MAC) - **M**ilitary, and therefore strict and not scalable. Clearances, formal approvals and need-to-know apply.
+	* **M**andatory (MAC) - **M**ilitary, and therefore strict and not scalable. Enforced by the OS. Clearances, formal approvals and need-to-know apply.
 
 	All other options are easier to remember,
-	* Attribute (ABAC) - attribute - flexible use of attriutes and environment
+	* Attribute (ABAC) - attribute - flexible use of attributes, location and environment. For example, logins from Europe only.
 	* Role-based (RBAC) - role
 	* Rule-based (RuBAC) - rule - for example, firewalls
-	* Risk-based (~~RiBAC~~ RBA) - risk
+		* Risk-based (~~RiBAC~~ RBA, subtype of RuBAC) - risk. For example, login from China increases risk score.
 	
 ### Related concepts
 
@@ -487,7 +487,7 @@ Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/F
 
 ## More about AAA protocols
 
-* RADI**U**S - **U**DP, only encrypts passwords. Like it is for VPNs, not a single sign-on
+* RADI**U**S - **U**DP, can extraordinarily support TLS over TCP, only encrypts passwords. Like it is for VPNs, not a single sign-on
 * **T**ACACS+ - **T**CP, 
 * Kerberos - symmetric AES encryption.
 
