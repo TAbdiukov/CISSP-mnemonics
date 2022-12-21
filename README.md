@@ -489,7 +489,7 @@ Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/F
 
 * RADI**U**S - **U**DP, can extraordinarily support TLS over TCP, only encrypts passwords. Like it is for VPNs, not a single sign-on
 * **T**ACACS+ - **T**CP, 
-* Kerberos - symmetric AES encryption.
+* Kerberos - symmetric AES encryption everywhere, but unique system.
 
 ### *Open* / Third-party logon
 
@@ -513,6 +513,21 @@ Think: Google, Github, Microsoft logon.
 * **R**ights - for **R**eal-life (for example, right to bear arms)
 
 * **PR**ivileges = **P**ermissions + **R**ights
+
+# Domain 6
+
+## SOC
+
+Adapted from CISSPrep,
+
+* SOC 1 - **F**inance **F**irst
+* SOC 2 - **T**rust Second/**T**rust is **T**wo
+* SOC 3 - SOC 2 lite
+
+## SOC Type
+
+* Type 1 - One point in time
+* Type 2 - Two points - timeline
 
 # Domain 8
 
