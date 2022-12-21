@@ -294,7 +294,7 @@ NDA > Clearance > Formal Approval > Need-to-know
 N>C>F>N -> NoiCy FaN [in the background]
 
 Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
-
+  
 ## Access Control Methods
 
 * **D**iscretionary - **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
@@ -303,10 +303,10 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 	* **M**andatory (MAC) - **M**ilitary, and therefore strict and not scalable. Enforced by the OS. Clearances, formal approvals and need-to-know apply.
 
 	All other options are easier to remember,
-	* Attribute (ABAC) - attribute - flexible use of attributes, location and environment. For example, logins from Europe only.
+	* Attribute (ABAC) - attribute - flexible use of attributes, location and environment.
 	* Role-based (RBAC) - role
-	* Rule-based (RuBAC) - rule - for example, firewalls
-		* Risk-based (~~RiBAC~~ RBA, subtype of RuBAC) - risk. For example, login from China increases risk score.
+	* Rule-based (RuBAC) - rule - dumb rules for robots. example: firewalls
+		* Risk-based (~~RiBAC~~ RBA, subtype of RuBAC) - risk. For example, IP from China increases risk score.
 	
 ### Related concepts
 
