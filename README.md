@@ -539,6 +539,29 @@ Adapted from CISSPrep,
 * Type 1 - One point in time
 * Type 2 - Two points - timeline
 
+## Testing
+
+### Target
+
+* Static - Code
+* Dynamic - Runtime
+
+### Labour
+
+* Unit - Automated 
+* Manual - Manual
+
+### Coverage
+
+* Use cases - How can it be used
+* Misuse cases - How can it be misused
+
+### Devops
+
+* (Non-)Regression testing - Is there regression after the last change?
+
+
+
 # Domain 8
 
 ## SDLC
