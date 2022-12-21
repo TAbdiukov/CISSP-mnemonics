@@ -260,7 +260,10 @@ K | Kitchen
 
 * **Ass**urance - **Ass**ert (security of product)
 * **C**ertification - **C**ompliance according to **c**ompany's **c**ompliance security officer. Certification is towards assurance
+
 * **Ver**ification - Third-party obser**ver**'s report
+* **V**alidate - **V**ery **V**aguely **
+
 * **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
 
 * **Accept**ance - **Accept**
@@ -403,6 +406,8 @@ For CISSP: VoIP doesn't mix with VPN
 * Link state - Best bandwidth link
 
 ## NAC systems
+
+Note: They use **Risk** BAC, as they evaluate **risk**
 
 * Pre-admit - Checks happen BEFORE admission
 * Postadmission - Checks happen AFTER admission
