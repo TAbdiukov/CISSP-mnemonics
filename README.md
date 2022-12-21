@@ -303,7 +303,7 @@ Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal
 	* **M**andatory (MAC) - **M**ilitary, and therefore strict and not scalable. Enforced by the OS. Clearances, formal approvals and need-to-know apply.
 
 	All other options are easier to remember,
-	* Attribute (ABAC) - attribute - flexible use of attributes, location and environment.
+	* Attribute (ABAC) / Policy (PBAC) - attribute/policy - high-level rules, flexible use of attributes, location and environment.
 	* Role-based (RBAC) - role
 	* Rule-based (RuBAC) - rule - dumb rules for robots. example: firewalls
 		* Risk-based (~~RiBAC~~ RBA, subtype of RuBAC) - risk. For example, IP from China increases risk score.
