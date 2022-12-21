@@ -518,11 +518,21 @@ Think: Google, Github, Microsoft logon.
 
 ## SOC
 
+### Related meme
+
+[![Money](https://i.ytimg.com/vi/KdftbYqA_VQ/mqdefault.jpg)](https://www.youtube.com/watch?v=KdftbYqA_VQ)
+
+**Point is**: Money, then assurance
+
+### Mnemonic
+
 Adapted from CISSPrep,
 
 * SOC 1 - **F**inance **F**irst
 * SOC 2 - **T**rust Second/**T**rust is **T**wo
 * SOC 3 - SOC 2 lite
+
+
 
 ## SOC Type
 
