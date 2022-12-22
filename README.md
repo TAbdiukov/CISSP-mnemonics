@@ -593,10 +593,10 @@ Adapted from CISSPrep,
 
 * Test coverage - potential uses
 * Code coverage - % of code executed in tests
-	* Function - function / method
-	* Statement - e.g. IF/SWITCH statement
-	* Condition - what's checked in statement
-	* Branch - IF-THEN cases, SWITCH-CASE cases
+	* Function - all functions work and return results
+	* Statement - line of code
+	* Condition - all code executed under every input
+	* Branch - every IF-THEN-ELSE can be executed.
 
 
 # Domain 8
