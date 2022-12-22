@@ -548,9 +548,7 @@ Adapted from CISSPrep,
 
 * SOC 1 - **F**inance **F**irst
 * SOC 2 - **T**rust Second/**T**rust is **T**wo
-* SOC 3 - SOC 2 lite
-
-
+* SOC 3 - SOC 2 lite for public eyes.
 
 ## SOC Type
 
