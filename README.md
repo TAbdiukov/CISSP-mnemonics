@@ -574,7 +574,7 @@ Adapted from CISSPrep,
 
 ### Devops
 
-* (Non-)Regression testing - Is there regression after the last change?
+* Regression testing - Is there regression after the last change?
 
 ### Network access
 
