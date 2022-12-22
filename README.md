@@ -476,7 +476,7 @@ Bluetooth "authZ" is 4-digits.
 
 ## Private IP ranges and subnet masks
 
-Easy trick: class letter defines the number of 255's . For example, class B (2) would have 255.255.0.0
+Easy trick: class letter defines the number of 255's from left to right. For example, class B (2) would have 255.255.0.0
 
 ## Fraggle, Smurf
 
@@ -506,7 +506,7 @@ Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/F
 ## More about AAA protocols
 
 * RADI**U**S - **U**DP, can extraordinarily support TLS over TCP, only encrypts passwords. Like it is for VPNs, not a single sign-on
-* **T**ACACS+ - **T**CP, 
+* **T**ACACS+ - **T**CP
 * Kerberos - symmetric AES encryption everywhere, but unique system.
 
 ### *Open* / Third-party logon
