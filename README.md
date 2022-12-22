@@ -275,7 +275,7 @@ K | Kitchen
 * **C**ertification - **C**ompliance according to **c**ompany's **c**ompliance security officer. Certification is towards assurance
 
 * **Ver**ification - Third-party obser**ver**'s report
-* **V**alidate - (Very briefly assert application works, need to think of a mnemonic) 
+* **V**alidate - (just a sanity check, need to think of a mnemonic) 
 
 * **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
 
