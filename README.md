@@ -396,9 +396,9 @@ Mnemonic device - made up a little story: You send documents from Microsoft Wind
 
 ![Cerberus](https://static.wikia.nocookie.net/ageofempires/images/a/a5/TitanGreekIcon.png)
 
-Heads/Steps: Authentication (KDC), Authorization (Ticket, TGT), Acceptance
+Heads/Steps: Authentication (KDC), Authorization (TGS gives TGT Ticket), Acceptance
 
-KATANA: KDC Authenticates, TGT Authorizes, nginx accepts.
+KATANA: KDC Authenticates, TGS Authorizes, nginx accepts.
 (You can use KATANA to chop off Kerberos's heads)
 
 ## SSL vs TLS
