@@ -34,3 +34,8 @@ Diffie-Hellman vs RSA
 ## Domain 5 Q 98
 
 [RuBAC vs ABAC](https://www.reddit.com/r/cissp/comments/mklj8l/abac_vs_rubac/)
+
+## Domain 6 Q 38
+
+[Thread](https://www.reddit.com/r/cissp/comments/zscjj5/cissp_official_practice_tests_domain_6_q_37_no/?utm_source=share&utm_medium=web2x&context=3/)
+
