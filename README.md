@@ -374,7 +374,7 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 ## TCP/IP Model
 
-![Difference](https://www.guru99.com/images/1/102219_1135_TCPIPvsOSIM1.png)
+![Difference](https://netbeez.net/wp-content/uploads/2022/02/tcp-ip-model.png)
 
 An amazing mnemonic from CISSPrep,
 
