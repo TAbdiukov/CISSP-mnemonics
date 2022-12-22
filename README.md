@@ -613,7 +613,7 @@ Adapted from CISSPrep,
 CCS UAD
 
 Before use: Create, Categorize, Store
-Afterwards: Use, Archive, Delete
+Afterwards: Use, Archive, Destroy
 
 # Domain 8
 
