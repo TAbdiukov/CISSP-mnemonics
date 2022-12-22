@@ -658,7 +658,7 @@ I recommend
 
 ### Other
 
-* Google "Domain X Cheat Sheet"
+* Google "CISSP Domain X Cheat Sheet"
 
 ## (ISC)² Code Of Ethics
 
