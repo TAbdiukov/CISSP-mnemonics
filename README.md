@@ -634,7 +634,7 @@ CISSPrep has a great mnemonic,
 
 ![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
 
-## Regarding mnemonics and CISSP videos
+## Regarding sources
 
 No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due dilligence vs due care, DR). The *trick* is to consult multiple sources.
 
@@ -646,20 +646,10 @@ I recommend
 
 * Official (ISC)2 CISSP publications
 
-### Videos
-
-* [CISSP Full by Pete Zerger](https://www.youtube.com/watch?v=_nyZhYnCNLA)
-* [CISSP Full (and less formal) 13-hour course by Mohamed Atef](https://www.youtube.com/watch?v=M1_v5HBVHWo)
-
 ### Other mnemonic repositories
 
 * [DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemonics)
 * [TheRealBenForce/cissp-mnemonics](https://github.com/TheRealBenForce/cissp-mnemonics)
-
-### Other
-
-* Google "CISSP Domain X Cheat Sheet"
-
 ## (ISC)² Code Of Ethics
 
 ### Code
