@@ -593,10 +593,10 @@ Adapted from CISSPrep,
 
 * Test coverage - potential uses
 * Code coverage - % of code executed in tests
-	* Function - all functions work and return results
-	* Statement - line of code
-	* Condition - all code executed under every input
-	* Branch - every IF-THEN-ELSE can be executed.
+	* Function - **functions** work and return results
+	* Statement - **line** of code
+	* Condition - code executed under every **input**
+	* Branch - every **IF-THEN-ELSE** condition can be executed.
 
 
 # Domain 8
