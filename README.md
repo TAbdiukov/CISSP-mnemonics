@@ -638,7 +638,7 @@ CISSPrep has a great mnemonic,
 
 No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due dilligence vs due care, DR). The *trick* is to consult multiple sources.
 
-For CISSP, the right way is (ISC)2 way (and to give credit, they are almost always right). 
+For CISSP, the right way is (ISC)2 way (and to give credit, they are *at least* almost always right). 
 
 I recommend
 
