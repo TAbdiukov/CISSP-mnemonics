@@ -606,6 +606,14 @@ Adapted from CISSPrep,
 	* Condition - code executed under every **input**
 	* Branch - every **IF-THEN-ELSE** condition can be executed.
 
+# Domain 7
+
+## Information lifecycle
+
+CCS UAD
+
+Before use: Create, Categorize, Store
+Afterwards: Use, Archive, Delete
 
 # Domain 8
 
@@ -624,7 +632,7 @@ EOL: RM
 
 ## Software Assurance During Acquisition Phases
 
-CISSPrep has a great mnemonic,
+CISSPrep has an OK mnemonic,
 
 [![CISSPrep](https://i.ytimg.com/vi/6RoUCNc6TP4/mqdefault.jpg)](https://www.youtube.com/watch?v=6RoUCNc6TP4)
 
