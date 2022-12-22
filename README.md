@@ -156,6 +156,19 @@ DC I DD PP
 3) Criticalicality Assessment
 4) Vulnerability assessment
 
+## Recovery acronyms
+
+* RPO - Recovery **Point** Objective - time period: From last (known good) scheduled backup to disaster (from past to present). **Point** - think about last known good configuration for Windows,
+
+![XP](https://social.technet.microsoft.com/Forums/getfile/931978)
+
+* RTO - Recovery **Time** Objective - time period: from disaster to recovery, if all goes well (from present to the future).
+
+* WRT - How much **work** for **technical** staff to reconfigure everything after recovery.
+
+* MTD - Maximum tolerable downtime for **business**. For CISSP: MTD = RTO + WRT. In reality, YMMV.
+
+
 
 # Domain 2
 
