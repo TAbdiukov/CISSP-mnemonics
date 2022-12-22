@@ -311,7 +311,7 @@ N>C>F>N -> NoiCy FaN [in the background]
 
 Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
   
-## Access Control Methods
+## Access Control Models
 
 * **D**iscretionary - **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
 
@@ -495,6 +495,14 @@ Fragile CHARGE, Smurf Is CIMP
 
 ![simp](https://static.wikia.nocookie.net/smurfs/images/2/29/Enamoredsmurf.gif)
 
+## Port status
+
+Mnemonic device: This information is VERY obvious, so what do I say? Of Course! Or OFC:
+
+* Open - Worst
+* Filtered - OK
+* Closed - Best
+
 # Domain 5
 
 ## must-know
@@ -620,9 +628,37 @@ CISSPrep has a great mnemonic,
 
 [![CISSPrep](https://i.ytimg.com/vi/6RoUCNc6TP4/mqdefault.jpg)](https://www.youtube.com/watch?v=6RoUCNc6TP4)
 
+
+
 # Domain 9 (meta-domain)
 
 ![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
+
+## Regarding mnemonics and CISSP videos
+
+No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due dilligence vs due care, DR). The *trick* is to consult multiple sources.
+
+For CISSP, the right way is (ISC)2 way (and to give credit, they are almost always right). 
+
+I recommend
+
+### №1
+
+* Official (ISC)2 CISSP publications
+
+### Videos
+
+* [CISSP Full by Pete Zerger](https://www.youtube.com/watch?v=_nyZhYnCNLA)
+* [CISSP Full (and less formal) 13-hour course by Mohamed Atef](https://www.youtube.com/watch?v=M1_v5HBVHWo)
+
+### Other mnemonic repositories
+
+* [DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemonics)
+* [TheRealBenForce/cissp-mnemonics](https://github.com/TheRealBenForce/cissp-mnemonics)
+
+### Other
+
+* Google "Domain X Cheat Sheet"
 
 ## (ISC)² Code Of Ethics
 
