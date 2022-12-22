@@ -505,7 +505,7 @@ Mnemonic device: This information is VERY obvious, so what do I say? Of Course! 
 
 # Domain 5
 
-## must-know
+## Must-know
 
 Retinal = anal
 
@@ -607,6 +607,10 @@ Adapted from CISSPrep,
 	* Branch - every **IF-THEN-ELSE** condition can be executed.
 
 # Domain 7
+
+## Must-know
+
+DRMRRRL
 
 ## Information lifecycle
 
