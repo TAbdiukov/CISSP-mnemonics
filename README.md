@@ -487,9 +487,9 @@ Easy trick: class letter defines the number of 255's from left to right. For exa
 
 Memory device - They are in alphabetic order,
 
-20-21 - FTP
-22 - SSH
-23 - Telnet
+* 20-21 - FTP
+* 22 - SSH
+* 23 - Telnet
 
 Fragile CHARGE, Smurf Is CIMP
 
