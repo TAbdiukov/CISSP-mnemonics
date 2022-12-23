@@ -619,6 +619,45 @@ CCS UAD
 Before use: Create, Categorize, Store
 Afterwards: Use, Archive, Destroy
 
+## Evidence
+
+### By format
+
+* Real - Real physical Objects
+* Documentary - Docs
+* Testimonial - Witness
+
+### By reliability
+
+* Primary - Originals
+* Secondary - Certified copies
+
+### By quality
+
+* Hearsay - "he said she said" - bad
+
+* Direct - Very good
+* Corroborative - Supportive
+
+* Conclusive - so good, that we can adjourn court after it.
+
+
+## Backups
+
+* Full - full
+* Differential - diff (delta) from full
+* Incremental - increments from last increment, thus the total number of increments will be high
+
+## Terms
+
+* UCITA - Law governing business transactions
+* UEBA = Solution to establish security baseline over time
+
+### Media
+
+HSM - Move data from SSD to HDD or LTO to increase MTBF
+
+
 # Domain 8
 
 ## SDLC
