@@ -678,10 +678,18 @@ Trick is: to read from right to left,
 * Mirroring - Redundancy
 * Striping - Speed
 
+Remember this array,
+
+0 | 1
+- | -
+M | S
+
+MS - in alphabetical order, also means "Microsoft"
+
 ### Basic
 
-* RAID 0 - 2x redundancy
-* RAID 1 - 2x speed
+* RAID 0 - **M**irroring - 2x redundancy
+* RAID 1 - **S**triping - 2x speed
 
 ### Speed over reliability
 
@@ -701,9 +709,9 @@ Trick is: to read from right to left,
 
 The trick is to read nested RAID from bottom to the top. First digit from the **left** defines the drive level,
 
-* RAID 01 - (At drive level) Mirroring, (At drive-set level) Striping
+* RAID 01 - (At drive level) **0** Mirroring, (At drive-set level) **1** Striping
 
-* RAID 10 - (At drive level) Striping, (At drive-set level) Mirroring
+* RAID 10 - (At drive level) **1** Striping, (At drive-set level) **0** Mirroring
 
 Let's try one more for fun,
 
