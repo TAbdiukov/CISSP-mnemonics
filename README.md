@@ -648,6 +648,12 @@ Afterwards: Use, Archive, Destroy
 * Differential - diff (delta) from full
 * Incremental - increments from last increment, thus the total number of increments will be high
 
+## Security encounters
+
+* Security Event - Anything worthwhile logging for security. For example: OS reboot, browser crash
+* Security Incident - Whatever breaches security policy and threatens organisation
+* Security Intrusion/Breach - Security defenses breached
+
 ## Terms
 
 * UCITA - Law governing business transactions
