@@ -651,7 +651,7 @@ Afterwards: Use, Archive, Destroy
 ## Terms
 
 * UCITA - Law governing business transactions
-* UEBA = Solution to establish security baseline over time
+* UEBA = Bossware. Whichever boss uses UEBA is an [ueban](https://www.urbandictionary.com/define.php?term=ueban)
 
 ### Media
 
