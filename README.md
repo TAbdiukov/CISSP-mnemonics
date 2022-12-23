@@ -670,22 +670,23 @@ Trick is: to read from right to left,
 * NAS - Storage in network
 * SAN - Network of storages
 
-## RAID works
-
-* Mirroring - Backups
-* Striping - Speed
 
 ### RAID
 
+### RAID operations
+
+* Mirroring - Redundancy
+* Striping - Speed
+
 ### Basic
 
-* RAID 0 - 2 backups
+* RAID 0 - 2x redundancy
 * RAID 1 - 2x speed
 
 ### Speed over reliability
 
-* RAID 2 - Byte striping for speed
-* RAID 3 - Block striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
+* RAID 2 - Byte Striping for speed
+* RAID 3 - Block Striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
 
 ### Error-corrective
 
@@ -694,7 +695,20 @@ Trick is: to read from right to left,
 
 ### Nested
 
-TODO
+![raid-100](https://hardwaresfera.com/wp-content/uploads/2021/02/raid-100.jpg)
+
+*RAID 100*
+
+The trick is to read nested RAID from bottom to the top. First digit from the **left** defines the drive level,
+
+* RAID 01 - (At drive level) Mirroring, (At drive-set level) Striping
+
+* RAID 10 - (At drive level) Striping, (At drive-set level) Mirroring
+
+Let's try one more for fun,
+
+* RAID 100 - (At drive level) **1** Striping, (At drive-set level) **0** Mirroring, (At set of drive-sets level) **0** Mirroring
+
 
 # Domain 8
 
