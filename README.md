@@ -670,6 +670,32 @@ Trick is: to read from right to left,
 * NAS - Storage in network
 * SAN - Network of storages
 
+## RAID works
+
+* Mirroring - Backups
+* Striping - Speed
+
+### RAID
+
+### Basic
+
+* RAID 0 - 2 backups
+* RAID 1 - 2x speed
+
+### Speed over reliability
+
+* RAID 2 - Byte striping for speed
+* RAID 3 - Block striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
+
+### Error-corrective
+
+* RAID 5 - Data and parity striped
+* RAID 6 - Same as RAID 5, but configuration is safer with little overhead over RAID 5
+
+### Nested
+
+TODO
+
 # Domain 8
 
 ## SDLC
