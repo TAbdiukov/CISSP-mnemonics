@@ -671,7 +671,7 @@ Trick is: to read from right to left,
 * SAN - Network of storages
 
 
-### RAID
+## RAID
 
 ### RAID operations
 
@@ -681,7 +681,7 @@ Trick is: to read from right to left,
 Remember this array,
 
 0 | 1
-- | -
+---- | -----
 M | S
 
 MS - in alphabetical order, also means "Microsoft"
