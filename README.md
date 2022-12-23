@@ -657,6 +657,18 @@ Afterwards: Use, Archive, Destroy
 
 HSM - Move data from SSD to HDD or LTO to increase MTBF
 
+## MTT
+
+* MTTF - Failure
+* MTTR - Repair. Similar to WRT
+* MTBF - Between failures. MTBF = MTTF + MTTR
+
+## NAS vs SAN
+
+Trick is: to read from right to left,
+
+* NAS - Storage in network
+* SAN - Network of storages
 
 # Domain 8
 
