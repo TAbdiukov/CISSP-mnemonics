@@ -514,6 +514,8 @@ Retinal = anal
 
 ![meme](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)
 
+"Rejection" is a "positive" for authN systems.
+
 * FRR - Type 1 Error
 * FAR - Type 2 Error
 * CER - Intersection between FAR and FRR. Optimal configuration.
