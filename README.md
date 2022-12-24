@@ -521,9 +521,9 @@ Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/F
 
 ## More about AAA protocols
 
+* Kerberos - symmetric AES encryption everywhere, but unique system.
 * RADI**U**S - **U**DP, can extraordinarily support TLS over TCP, only encrypts passwords. Like it is for VPNs, not a single sign-on
 * **T**ACACS+ - **T**CP
-* Kerberos - symmetric AES encryption everywhere, but unique system.
 
 ### *Open* / Third-party logon
 
