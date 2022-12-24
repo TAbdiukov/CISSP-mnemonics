@@ -483,6 +483,10 @@ Easy trick: class letter defines the number of 255's from left to right. For exa
 * Fraggle - CHARGEN
 * Smurf - ICMP
 
+Fragile CHARGE, Smurf Is CIMP
+
+![simp](https://static.wikia.nocookie.net/smurfs/images/2/29/Enamoredsmurf.gif)
+
 ## FTP, SSH, Telnet
 
 Memory device - They are in alphabetic order,
@@ -491,9 +495,6 @@ Memory device - They are in alphabetic order,
 * 22 - SSH
 * 23 - Telnet
 
-Fragile CHARGE, Smurf Is CIMP
-
-![simp](https://static.wikia.nocookie.net/smurfs/images/2/29/Enamoredsmurf.gif)
 
 ## Port status
 
