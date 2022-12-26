@@ -807,6 +807,12 @@ More practical
 
 ## Databases
 
+### Concurrency problems
+
+* Dirty Read - Bad **Reading** timing
+* Lost Update - Bad **Writing** Timing
+* Incorrect Summary - Bad **Summation** Timing, see [Tom Scott's video](https://www.youtube.com/watch?v=RY_2gElt3SA)
+
 ### SQL Command types
 
 * D**D**L - Data **Definition** language - **Define** (schema)
