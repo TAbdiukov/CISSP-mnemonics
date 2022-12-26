@@ -574,6 +574,10 @@ Adapted from CISSPrep,
 * Type 1 - One point in time
 * Type 2 - Two points - timeline
 
+## COBIT
+
+**C** in **C**OBIT is always in place. **C**OBIT - **Common** objectives for **Common** requirements for **Computer** systems. **COBIT** = **Common**
+
 ## Testing
 
 ### Target
