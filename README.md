@@ -730,6 +730,7 @@ Let's try one more for fun,
 * RAID 100 - (At drive level) **1** Striping, (At drive-set level) **0** Mirroring, (At set of drive-sets level) **0** Mirroring
 
 
+
 # Domain 8
 
 ## SDLC
@@ -745,13 +746,60 @@ Dev: DA
 Post-dev: TCT  
 EOL: RM
 
-## Software Assurance During Acquisition Phases
+## Waterfall
 
-CISSPrep has an OK mnemonic,
+### Listing
 
-[![CISSPrep](https://i.ytimg.com/vi/6RoUCNc6TP4/mqdefault.jpg)](https://www.youtube.com/watch?v=6RoUCNc6TP4)
+1. System Requirements (OS)
+2. Software Requirement (Software runs on an OS, so software requirements come second)
+3. Preliminary Design 
+4. Detailed Design
+5. Code and Debug
+6. Testing
+7. Ops and Maintenance
 
+### Memorization
 
+2xRequirements, 2xDesign, Code+Testing, Maintenance
+
+## Spiral 
+
+Waterfall in spiral loops
+
+## SoftWare Development Maturity Models
+
+### SW-CMM
+
+SoftWare Capability Maturity Model
+
+Rather theoretical. Somewhat reminiscent of common criteria.
+
+* Lvl 1: No plan 
+* Lvl 2: Repeatable: Basic lifecycle
+* Lvl 3: Defined: Formal and documented DevOps
+* Lvl 4: Quantitative measures (recall quantitative risk analysis)
+* Lvl 5: CI/CD
+
+## IDEAL Model
+
+More practical
+
+* **I**nitiating (everything for Devops)
+* **D**iagnosing (what needs to be fixed/changed)
+* **E**stablishing (plan)
+
+* **A**cting (on plan -> DevOps)
+* **L**earning (lessons)
+
+## Databases
+
+### SQL Command types
+
+* D**D**L - Data **Definition** language - **Define** (schema)
+* D**Q**L - Data **Query** Language - **Query** (Data)
+* D**M**L - Data **Manipulation** Language - **Manipulate** (data)
+* D**C**L - Data **Control** Language - **Control** (Access). DCL sounds like ACL.
+* **T**CL - **Transaction** Control Language - **Transact**
 
 # Domain 9 (meta-domain)
 
