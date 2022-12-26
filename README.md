@@ -733,6 +733,18 @@ Let's try one more for fun,
 
 # Domain 8
 
+## Controls
+
+* Request - User can request modifications
+* Change - Developers can change their operational framework
+* Configuration - Comply with configuration policies
+* Release - How software's released
+
+
+User requests, developer changes, policy configures, software releases
+
+Ur DC PC SR
+
 ## SDLC
 
 CISSPrep has a great mnemonic,
