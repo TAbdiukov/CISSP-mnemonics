@@ -774,7 +774,7 @@ SoftWare Capability Maturity Model
 
 Somewhat reminiscent of common criteria.
 
-<Mnemonic: IRDMO (THIRDMOON [of SW-CMM hell])
+**Mnemonic**: IRDMO (THIRDMOON [of SW-CMM hell])
 
 * Lvl 1: Initial: No plan 
 * Lvl 2: Repeatable: Basic lifecycle
