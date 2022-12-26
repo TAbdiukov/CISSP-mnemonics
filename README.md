@@ -735,8 +735,8 @@ Let's try one more for fun,
 
 ## Controls
 
-* Request - User can request modifications
-* Change - Developers can change what they do
+* (Change-)Request - User can request modifications
+* Change (Control) - Developers can change what they do
 	* Change Advisory Board (CAB) - Approve/reject code changes
 * Configuration - Comply with configuration policies
 * Release - How software's released
