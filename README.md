@@ -801,6 +801,21 @@ More practical
 * D**C**L - Data **Control** Language - **Control** (Access). DCL sounds like ACL.
 * **T**CL - **Transaction** Control Language - **Transact**
 
+### Integrity
+
+* **Semantic** - Strings aren't stored in intereger fields
+* **Referential** - Foreign keys correspond to corresponding primary keys
+
+## AI
+
+* Knowledge systems - Inference (like qualitative risk analysis). Types,
+	* Forward - From Known-inputs to Goal
+	* Backward - From Goal to Known-inputs
+
+* Machine learning (ML) - Basic algorithms
+
+* Neural networks - Like human brain
+
 # Domain 9 (meta-domain)
 
 ![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
