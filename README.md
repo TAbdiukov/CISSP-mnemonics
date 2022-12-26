@@ -595,8 +595,8 @@ Adapted from CISSPrep,
 
 *Wikipedia is wrong about this one (according to ISC2 )*
 
-* Regression testing - Is there regression after the last change?
-* Non-regression testing - Did last change have its supposed improvement effect.
+* Regression testing - Is there regression after the last change? Check for regression.
+* Non-regression testing - Did last change have its supposed improvement effect? Check for improvement.
 
 ### Network access
 
