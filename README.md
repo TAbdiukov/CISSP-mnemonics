@@ -772,13 +772,15 @@ Waterfall in spiral loops
 
 SoftWare Capability Maturity Model
 
-Rather theoretical. Somewhat reminiscent of common criteria.
+Somewhat reminiscent of common criteria.
 
-* Lvl 1: No plan 
+<Mnemonic: IRDMO (THIRDMOON [of SW-CMM hell])
+
+* Lvl 1: Initial: No plan 
 * Lvl 2: Repeatable: Basic lifecycle
 * Lvl 3: Defined: Formal and documented DevOps
-* Lvl 4: Quantitative measures (recall quantitative risk analysis)
-* Lvl 5: CI/CD
+* Lvl 4: Managed: Quantitative measures (recall quantitative risk analysis)
+* Lvl 5: Optimized: CI/CD
 
 ## IDEAL Model
 
