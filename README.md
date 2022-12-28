@@ -691,26 +691,26 @@ Trick is: to read from right to left,
 
 ### RAID operations
 
-* Mirroring - Redundancy
 * Striping - Speed
+* Mirroring - Redundancy
 
 Remember this array,
 
 0 | 1
 ---- | -----
-M | S
+S | M
 
-MS - in alphabetical order, also means "Microsoft"
+SM - Like "Samsung" or "storage management"
 
 ### Basic
 
-* RAID 0 - **M**irroring - 2x redundancy
-* RAID 1 - **S**triping - 2x speed
+* RAID 0 - **S**triping - 2x speed
+* RAID 1 - **M**irroring - 2x redundancy
 
 ### Speed over reliability
 
-* RAID 2 - Byte Striping for speed
-* RAID 3 - Block Striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
+* RAID 2 - Byte Mirroring for speed
+* RAID 3 - Block Mirroring for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
 
 ### Error-corrective
 
@@ -725,13 +725,13 @@ MS - in alphabetical order, also means "Microsoft"
 
 The trick is to read nested RAID from bottom to the top. First digit from the **left** defines the drive level,
 
-* RAID 01 - (At drive level) **0** Mirroring, (At drive-set level) **1** Striping
+* RAID 01 - (At drive level) **0** Striping, (At drive-set level) **1** Mirroring
 
-* RAID 10 - (At drive level) **1** Striping, (At drive-set level) **0** Mirroring
+* RAID 10 - (At drive level) **1** Mirroring, (At drive-set level) **0** Striping
 
 Let's try one more for fun,
 
-* RAID 100 - (At drive level) **1** Striping, (At drive-set level) **0** Mirroring, (At set of drive-sets level) **0** Mirroring
+* RAID 100 - (At drive level) **1** Mirroring, (At drive-set level) **0** Striping, (At set of drive-sets level) **0** Striping
 
 
 
