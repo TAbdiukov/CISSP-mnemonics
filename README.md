@@ -709,8 +709,8 @@ SM - Like "Samsung" or "storage management"
 
 ### Speed over reliability
 
-* RAID 2 - Byte Mirroring for speed
-* RAID 3 - Block Mirroring for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
+* RAID 2 - Byte striping for speed
+* RAID 3 - Block striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
 
 ### Error-corrective
 
