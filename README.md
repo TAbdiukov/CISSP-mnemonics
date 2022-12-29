@@ -26,7 +26,8 @@ SLE = AV x EF
 
 * SOX (Sarbanes Oxley, 2002) - [say in British accent] ENRON really SOX. It's transaction flow really SOX.
 
-* Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)
+* Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)  
+
 ![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
 
 * COPPA - Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
@@ -36,6 +37,8 @@ SLE = AV x EF
 ![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
 However, student ID leak [won't trigger data breach laws](https://www.theaustralian.com.au/the-oz/news/student-grades-and-ids-have-been-stolen-from-an-elite-australian-uni/news-story/1ddc0401bb2d91e58d430ef8d6939edf)
+
+* HSA - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
 
 * **GISMA - Superseded by FISMA** in 2000
 
