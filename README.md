@@ -542,10 +542,11 @@ Think: Google, Github, Microsoft logon.
 
 ### XML-based-languages
 
-* SAML - AuthN and AuthZ, open source, good for ADFS.
-* SPML - Service provisioning
-* XACML - Access control
+* S**A**ML - **A**uthN and **A**uthZ, open source, good for ADFS.
+* S**P**ML - Service provisioning
+* X**AC**ML - Access control (AuthZ but not AuthN)
 * SOAP - messaging over network
+* **SC**AP - **Security Content** (Automation Protocol) - Share threat intel
 
 ## PRivileges
 
