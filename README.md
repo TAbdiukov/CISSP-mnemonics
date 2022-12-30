@@ -471,13 +471,13 @@ Bluetooth "authZ" is 4-digits.
 * FCoE - Fiber and maybe Ethernet
 * iSCSI - IP/Ethernet 
 
-## Private IP ranges
+## RFC 1918 (Private) IP ranges
 
 * Class A: 10.0.0.0 – 10.255.255.255
 * Class B: 172.16.0.0 – 172.31.255.255
 * Class C: 192.168.0.0 – 192.168.255.255
 
-## Private IP ranges and subnet masks
+### Private IP ranges' subnet masks
 
 Easy trick: class letter defines the number of 255's from left to right. For example, class B (2) would have 255.255.0.0
 
@@ -867,6 +867,7 @@ I recommend
 
 * [DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemonics)
 * [TheRealBenForce/cissp-mnemonics](https://github.com/TheRealBenForce/cissp-mnemonics)
+
 ## (ISC)² Code Of Ethics
 
 ### Code
