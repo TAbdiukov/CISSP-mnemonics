@@ -655,6 +655,11 @@ Afterwards: Use, Archive, Destroy
 
 * Conclusive - so good, that we can adjourn court after it.
 
+## Evidence Rules
+
+* **Best** - Original evidence is **best** (not photocopies)
+* **Parol** - Written signed agreements can only be amended by written signed agreements (not **parol** evidence)
+* **Hearsay** - Anti-**hearsay** evidence rule. Evidence-giver must present themselves and not through a third-party.
 
 ## Backups
 
