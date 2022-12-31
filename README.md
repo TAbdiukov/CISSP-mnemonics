@@ -772,6 +772,21 @@ Dev: DA
 Post-dev: TCT  
 EOL: RM
 
+## Software development methodologies
+
+* Agile - modern, agile dev philosophy. Effective, but not always best.
+	* [Lean](https://en.wikipedia.org/wiki/Lean_manufacturing) - customer-first, Agile(-like) methodology, formented by Toyota
+	* RAD - Rapid Application Development - Fast, iterative, less planning, adaptive 4 stages.
+	![RAD model](https://upload.wikimedia.org/wikipedia/commons/5/5f/RADModel.JPG)
+	* JAD - Joint Application Development - RAD with more communication with stakeholders and advisors
+	
+* Waterfall - Traditional. Best, if:
+	1) Requirements are stringent
+	2) Money isn't a problem
+	3) Stable & secure software is prioritized
+
+	* Spiral - Waterfall modification in spiral cycles.
+
 ## Waterfall
 
 ### Listing
@@ -787,10 +802,6 @@ EOL: RM
 ### Memorization
 
 2xRequirements, 2xDesign, Code+Testing, Maintenance
-
-## Spiral 
-
-Waterfall in spiral loops
 
 ## SoftWare Development Maturity Models
 
