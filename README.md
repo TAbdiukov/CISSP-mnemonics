@@ -876,7 +876,9 @@ No source is perfect, including this one. Everyone makes mistakes, and I witness
 
 For CISSP, the right way is (ISC)2 way (and to give credit, they are *at least* almost always right). 
 
-I recommend
+CISSP mnemonics do not, and cannot, replace going through all of the CISSP topics.
+
+I recommend,
 
 ### №1
 
