@@ -816,6 +816,8 @@ Somewhat reminiscent of common criteria.
 
 **Mnemonic**: IRDMO (THIRDMOON [of SW-CMM hell])
 
+![Moon](https://techstray.com/wp-content/uploads/2020/05/LSD-Dream-Emulator.jpg)
+
 * Lvl 1: Initial: No plan 
 * Lvl 2: Repeatable: Basic lifecycle
 * Lvl 3: Defined: Formal and documented DevOps
