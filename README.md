@@ -786,7 +786,8 @@ EOL: RM
 	1) Requirements are stringent
 	2) Money isn't a problem
 	3) Stable & secure software is prioritized
-------------------------------
+
+
 	* Spiral - Waterfall modification in spiral cycles.
 
 ## Waterfall
