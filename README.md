@@ -246,7 +246,23 @@ Think about a digital telescope pointing at the stars.
 
 #### Properties
 
-[Information flow security models' properties](https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models)
+~~[Information flow security models' properties](https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models)~~ (down, check [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) )
+
+##### Restored
+
+* `Simple` Property: for read "Reading is simpler than writing."
+* `Star` Property: for write "It's written in the stars."
+Biba and Clark Wilson have the letter i in them, so Integrity Models Bell-LaPadula is confidential: No read up and No write down. (said another way, **Bell is WURD**)
+
+* Remember: You don't want someone read up above their security level
+Biba will be opposite: No read down and no write up (**Biba is NO WURD**)
+
+* Remember: you can't write up as it would "pollute" the data
+
+### Encryption algorithms
+
+[Encryption](https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) (down, check [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics))
+
 
 ## Firefighting systems
 
@@ -373,9 +389,13 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 # Domain 4
 
+## Must-know
+
+## OSI, TCP/IP
+
 ![Protocols](https://cybercoastal.com/wp-content/uploads/2021/08/Screenshot-73.png)
 
-## TCP/IP Model
+### TCP/IP Model
 
 ![Difference](https://www.networkstraining.com/wp-content/uploads/2022/09/osi-tcpip.png)
 
@@ -763,16 +783,13 @@ Ur DC PC SR
 
 ## SDLC
 
-CISSPrep has a great mnemonic,
+CISSPrep has a good mnemonic,
 
 [![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)
 
 Please Fry Some Dead Animals To Catch The Right Man
 
-Prep: PFS  
-Dev: DA  
-Post-dev: TCT  
-EOL: RM
+I segregate into: PFS-DA-TCT-RM
 
 ## Software development methodologies
 
