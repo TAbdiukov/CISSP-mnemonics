@@ -261,7 +261,7 @@ Type | Application
 ---- | ----
 A | Ash, almanac
 B | Bubble, BOil Oil
-C | Circuits, CRT
+C | Circuits, [CRT](https://youtu.be/7dPSF8UWX90?t=1100)
 D | Dent, Dural, Duraluminium
 K | Kitchen
 
@@ -414,14 +414,16 @@ VX**LAN** for **LAN**, SD**WAN** for **WAN**
 
 ## VoIP and VPN
 
-For CISSP: VoIP doesn't mix with VPN
+For CISSP: VoIP doesn't mix well with VPN
 
 ## Routing protocols
 
-* distance-vector - Shortest path
-* Link state - Best bandwidth link
+* Distance-vector - Shortest path
+* Link-state - Best bandwidth link
 
 ## NAC systems
+
+**NAC** - Network Access Control
 
 Note: They use **Risk** BAC, as they evaluate **risk**
 
@@ -601,7 +603,7 @@ Adapted from CISSPrep,
 
 ### Devops
 
-*Wikipedia is wrong about this one (according to ISC2 )*
+*Wikipedia is wrong about this one (according to (ISC)² )*
 
 * Regression testing - Is there regression after the last change? Check for regression.
 * Non-regression testing - Did last change have its supposed improvement effect? Check for improvement.
@@ -876,7 +878,7 @@ More practical
 
 No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due dilligence vs due care, DR). The *trick* is to consult multiple sources.
 
-For CISSP, the right way is (ISC)2 way (and to give credit, they are *at least* almost always right). 
+For CISSP, the right way is (ISC)² way (and to give credit, they are *at least* almost always right). 
 
 CISSP mnemonics do not, and cannot, replace going through all of the CISSP topics.
 
@@ -884,7 +886,7 @@ I recommend,
 
 ### №1
 
-* Official (ISC)2 CISSP publications
+* Official (ISC)² CISSP publications
 
 ### Other mnemonic repositories
 
