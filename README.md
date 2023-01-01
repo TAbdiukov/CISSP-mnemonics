@@ -248,16 +248,6 @@ Think about a digital telescope pointing at the stars.
 
 [Information flow security models' properties](https://github.com/khwajaimran/CISSP-Mnemonics#confidentiality-and-integrity-models) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) )
 
-##### Restored
-
-* `Simple` Property: for read "Reading is simpler than writing."
-* `Star` Property: for write "It's written in the stars."
-Biba and Clark Wilson have the letter i in them, so Integrity Models Bell-LaPadula is confidential: No read up and No write down. (said another way, **Bell is WURD**)
-
-* Remember: You don't want someone read up above their security level
-Biba will be opposite: No read down and no write up (**Biba is NO WURD**)
-
-* Remember: you can't write up as it would "pollute" the data
 
 ### Encryption algorithms
 
