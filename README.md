@@ -796,7 +796,7 @@ I segregate into: PFS-DA-TCT-RM
 * Waterfall - Traditional. Best, if:
 	1) Requirements are stringent
 	2) Money isn't a problem
-	3) Stable & secure software is prioritized
+	3) Stable & secure (therefore quality) software is prioritized
 
 
 	* Spiral - Waterfall modification in spiral cycles.
