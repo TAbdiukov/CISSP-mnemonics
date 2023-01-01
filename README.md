@@ -246,7 +246,7 @@ Think about a digital telescope pointing at the stars.
 
 #### Properties
 
-~~[Information flow security models' properties](https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models)~~ (down, check [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) )
+[Information flow security models' properties](https://github.com/khwajaimran/CISSP-Mnemonics#confidentiality-and-integrity-models) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) )
 
 ##### Restored
 
@@ -261,7 +261,7 @@ Biba will be opposite: No read down and no write up (**Biba is NO WURD**)
 
 ### Encryption algorithms
 
-[Encryption](https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) (down, check [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics))
+[Encryption](https://github.com/khwajaimran/CISSP-Mnemonics) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics))
 
 
 ## Firefighting systems
@@ -390,6 +390,8 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 # Domain 4
 
 ## Must-know
+
+* [DES Modes of Operation](https://github.com/TheRealBenForce/cissp-mnemonics#des-modes-of-operation)
 
 ## OSI, TCP/IP
 
@@ -907,7 +909,7 @@ I recommend,
 
 ### Other mnemonic repositories
 
-* [DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemonics)
+* ~~[DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemonics)~~ ([mirror](https://github.com/khwajaimran/CISSP-Mnemonics))
 * [TheRealBenForce/cissp-mnemonics](https://github.com/TheRealBenForce/cissp-mnemonics)
 
 ## (ISC)² Code Of Ethics
