@@ -297,6 +297,12 @@ K | Kitchen
 * Spike - Spikes are momentary
 * Surge - Like in**surgencies**, they can last long!
 
+## Crime Prevention Through Environmental Design (CPTED)
+
+* Natural **Access Control** - Fences to enforce authZ
+* Natural **Surveillance** - Remove trees so nobody can hide over trees 
+* Natural **Territorial Reinforcement** - Large windows to asset surveillance  
+
 ## Card types
 
 * Magnetic - low security
@@ -900,7 +906,6 @@ More practical
 * Consistency - Transactions  **consistently** obey integrity rules
 * Durability - Transactions can always be restored to safe-state (with **DuraCELL** batteries_
 
-
 ## AI
 
 ![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)
@@ -925,6 +930,10 @@ More practical
 ## Regarding sources
 
 No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due dilligence vs due care, DR). The *trick* is to consult multiple sources.
+
+This set of mnemonics, like any other set, probably only covers 40% of all exam topics. For the remainer 60%, you need to study books.
+
+Also, try to make multiple mental connections to the CISSP topics. Through experience, language (like "Zero KODU"), cursing etc. Don't be that guy, who passed CISSP and forgot what Bell-LaPadula is. During the exam, it's one too easy not to remember something, and I could answer some of the hard questions through thoroughly mentally consulting the topics I studied
 
 For CISSP, the right way is (ISC)² way (and to give credit, they are *at least* almost always right). 
 
