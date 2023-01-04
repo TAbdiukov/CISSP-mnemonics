@@ -46,6 +46,8 @@ However, student ID leak [won't trigger data breach laws](https://www.theaustral
 
 * PCI DSS - Credit Card Security - Visa, MasterCard and American Express. What else is a card other than a credit card? - Your PCI card.
 
+	Note: PCI DS**S** is a **Standard**, not a law.
+
 * Digital Millenium **Copyright** Act (DMCA) - **Copyright**. Who hadn't heard of the DMCA strikes on Youtube? 
 
 ### U.S. Privacy
