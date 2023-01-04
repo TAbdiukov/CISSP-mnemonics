@@ -881,8 +881,8 @@ More practical
 
 ## Charting
 
-* Gantt chart - like on Wikipedia
-* PERT Chart - Software development modelling
+* Gantt chart - like timelines on Wikipedia
+* PERT Chart - Project management modelling
 
 # Domain 9 (meta-domain)
 
