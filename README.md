@@ -879,6 +879,11 @@ More practical
 
 * Neural networks - Like human brain
 
+## Charting
+
+* Gantt chart - like on Wikipedia
+* PERT Chart - Software development modelling
+
 # Domain 9 (meta-domain)
 
 ![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
