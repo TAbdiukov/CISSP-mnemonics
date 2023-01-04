@@ -1,3 +1,7 @@
+# Success
+
+* [Success thread on reddit](https://www.reddit.com/r/cissp/comments/102rpwk/passed_cissprtk_at_250_questions/?utm_source=share&utm_medium=web2x&context=3)
+
 # CISSP CBK questions
 
 ## Domain 1 Q 95
