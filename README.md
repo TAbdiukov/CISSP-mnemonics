@@ -12,16 +12,6 @@ ALE CAUSES AROSLE
 (up my) SLEAV-EF  
 SLE = AV x EF  
 
-## Qualitative & quatitative risk analysis
-
-(no memory device here, more of an explanation)
-
-* Qualitative - based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE
-
-* Quantitative - **better**, based on experience and statistics
-
-* Combination - balanced
-
 ## Laws and regulations
 
 * SOX (Sarbanes Oxley, 2002) - [say in British accent] ENRON really SOX. It's transaction flow really SOX.
@@ -56,13 +46,13 @@ However, student ID leak [won't trigger data breach laws](https://www.theaustral
 
 * Computer Fraud and Abuse Act - CFAA 1986 - **First** major legistlation to fight cybercrime. Think: **CFAA - F for First**.
 
-#### EPCA, CALEA, USA PATRIOT ACT
+#### ECPA, CALEA, USA PATRIOT ACT
 
-* Electronic Communications Privacy Act - EPCA 1986 - Makes it illegal to invade electronic privacy of an individual.
-* Communication Assurance for Law Enforcement Act - CALEA 1994 - Amends EPCA to make wiretaps possible for law enforcement, regardless of technology used.
+* Electronic Communications Privacy Act - ECPA 1986 - Makes it illegal to invade electronic privacy of an individual.
+* Communication Assurance for Law Enforcement Act - CALEA 1994 - Amends ECPA to make wiretaps possible for law enforcement, regardless of technology used.
 * USA PATRIOT ACT of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
 
-Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. EPCA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
+Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. ECPA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
 
 ### U.S. Import and Export
 
@@ -75,10 +65,9 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 * P**H**I - Personal **Health** Information
 * P**C**I - **Credit card**. **PCI** DSS applies
 
-
 ### U.S. Healthcare
 
-* **H**IPAA - **Health privacy and security** regulations in case you get **HIPAAtitis**
+* **H**IPAA - **Health privacy and security** regulations in case you get **HIPAAtitis**. In HI**PAA**, **BAA** agreements are used to protect privacy. 
 * **HITECH** - **Hospitals security** go hi-tech!
 
 ### EU
@@ -109,6 +98,15 @@ Mnemonic: Risk T.V.
 
 Risk = Threat x Vulnerability
 
+## Qualitative & quatitative risk analysis
+
+(no memory device here, more of an explanation)
+
+* Qualitative - based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE
+
+* Quantitative - **better**, based on experience and statistics
+
+* Combination - balanced
 
 ## Risk - RMF - NIST SP 800-37
 
