@@ -470,7 +470,7 @@ For CISSP: VoIP doesn't mix well with VPN
 ## Routing protocols
 
 * Distance-vector - Shortest path
-* Link-state - Best bandwidth link
+* Link-state - Best bandwidth link. Sophisticated. Network map is created.
 
 ## NAC systems
 
