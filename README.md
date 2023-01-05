@@ -931,7 +931,7 @@ More practical
 
 No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due dilligence vs due care, DR). The *trick* is to consult multiple sources.
 
-This set of mnemonics, like any other set, probably only covers 40% of all exam topics. For the remainer 60%, you need to study books.
+This set of mnemonics, like any other set, probably only covers 40% of all exam topics. For the remainer 60%, you need to study books. The mnemonics are a **result** of thorough studies, not a replacement of studies.
 
 Also, try to make multiple mental connections to the CISSP topics. Through experience, language (like "Zero KODU"), cursing etc. Don't be that guy, who passed CISSP and forgot what Bell-LaPadula is. During the exam, it's one too easy not to remember something, and I could answer some of the hard questions through thoroughly mentally consulting the topics I studied
 
