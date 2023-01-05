@@ -428,7 +428,7 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 ### TCP/IP Model
 
-![Difference](https://www.networkstraining.com/wp-content/uploads/2022/09/osi-tcpip.png)
+![Difference](https://adriancitu.files.wordpress.com/2012/10/osivstcp.jpg)
 
 An amazing mnemonic from CISSPrep,
 
