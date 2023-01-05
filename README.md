@@ -913,6 +913,11 @@ More practical
 * Consistency - Transactions  **consistently** obey integrity rules
 * Durability - Transactions can always be restored to safe-state (with **DuraCELL** batteries_
 
+### Aggregation vs Inference
+
+* Aggregation - **Aggre**ssively collect non-sensitive information to compile sensitive information
+* Inference - **Infer** from non-sensitive information + a guess
+
 ## AI
 
 ![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)
