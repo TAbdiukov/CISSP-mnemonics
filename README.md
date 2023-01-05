@@ -582,7 +582,7 @@ Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/F
 
 * Kerberos - symmetric AES encryption everywhere, but unique system.
 * RADI**U**S - **U**DP, can extraordinarily support TLS over TCP, only encrypts passwords. Like it is for VPNs, not a single sign-on
-* **T**ACACS+ - **T**CP
+* **T**ACACS+ - **T**CP, encrypts full session.
 
 ### *Open* / Third-party logon
 
