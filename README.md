@@ -436,6 +436,18 @@ The TCP/IP model on the right side can be memorized by saying/writing “**N2, A
 
 **NOTE**: The mnemonic is to apply from bottom to the top.
 
+### Segments, Packets, Frames, Bits
+
+Taken from [Reddit](https://www.reddit.com/r/cissp/comments/tw10js/comment/i3ckssx/?utm_source=share&utm_medium=web2x&context=3),
+
+> Some people F*** Bit**es
+
+* Segments - TCP - Transport layer
+* Packets - Netzwerking layer
+* Frames - Data-link layer
+* Bits - Physical layer
+
+
 ## Authentication protocols
 
 *(typically)*
