@@ -94,6 +94,13 @@ Think of EPCA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 * U.S. **C**ode(x) - **C**riminal and **C**ivil Law
 * Code of **Federal** Regulations - Administrative Law on Federal scale
 
+## Law in general
+
+* Administrative - internal within organisation, no set standard
+* Civil - Civil litigation, preponderance of evidence standard
+* Regulatory - Charges brought by regulatory bodies, substantial evidence standard
+* Criminal - Charges by law enforcement, beyond the reasonable doubt standard
+
 ## Risk 
 
 ![Roku](https://image.roku.com/developer_channels/prod/81b0180e7b151201a10d7006b048ccbc0ea5695d8fd20d78462d2a13a99f3485.png)
