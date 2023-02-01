@@ -28,7 +28,7 @@ SLE = AV x EF
 
 However, student ID leak [won't trigger data breach laws](https://www.theaustralian.com.au/the-oz/news/student-grades-and-ids-have-been-stolen-from-an-elite-australian-uni/news-story/1ddc0401bb2d91e58d430ef8d6939edf)
 
-* HSA - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
+* **HSA** - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
 
 * **GISMA - Superseded by FISMA** in 2000
 
@@ -807,7 +807,17 @@ Let's try one more for fun,
 
 * RAID 100 - (At drive level) **1** Mirroring, (At drive-set level) **0** Striping, (At set of drive-sets level) **0** Striping
 
+## Lockheed Martin - Cyber Kill Chain
 
+I think a good analogy is Trojan War,
+
+1. Recon - Greeks analyse Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
+2. Weaponization - Greeks design and build an exploit - a Trojan Horse
+3. Delivery - Greeks discreetly deliver a Trojan Horse
+4. Exploitation - Trojans accept the Trojan Horse inside. Then, under the cover of the night, the Greek warriors disembark Trojan Horse and walk on small Trojan streets to avoid early detection.
+5. Installation - Greeks neutralise generals and executive power
+6. Command & Control - Greeks establish command and control over Troy
+7. Maintain - Greeks take measures to maintain control of the city.
 
 # Domain 8
 
