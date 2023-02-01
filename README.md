@@ -817,7 +817,7 @@ I think a good analogy is Trojan War,
 4. Exploitation - Trojans accept the Trojan Horse inside. Then, under the cover of the night, the Greek warriors disembark Trojan Horse and walk on small Trojan streets to avoid early detection.
 5. Installation - Greeks neutralise generals and executive power
 6. Command & Control - Greeks establish command and control over Troy
-7. Maintain - Greeks take measures to maintain control of the city.
+7. Maintain - Greeks take measures to maintain control of the city as well as to seize the treasury of the previous king.
 
 # Domain 8
 
