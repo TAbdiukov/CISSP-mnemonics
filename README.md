@@ -813,9 +813,9 @@ I think a good analogy is Trojan War,
 
 1. Recon - Greeks analyse Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
 2. Weaponization - Greeks design and build an exploit - a Trojan Horse
-3. Delivery - Greeks discreetly deliver a Trojan Horse
-4. Exploitation - Trojans accept the Trojan Horse inside. Then, under the cover of the night, the Greek warriors disembark Trojan Horse and walk on small Trojan streets to avoid early detection.
-5. Installation - Greeks neutralise generals and executive power
+3. Delivery - Greeks discreetly deliver a Trojan Horse to the Trojan gates
+4. Installation - Trojan Horse is interacted with and installed inside Troy.
+5. Exploitation - Under the cover of the night, the Greek warriors disembark Trojan Horse and walk on small Trojan streets to avoid early detection.
 6. Command & Control - Greeks establish command and control over Troy
 7. Maintain - Greeks take measures to maintain control of the city as well as to seize the treasury of the previous king.
 
