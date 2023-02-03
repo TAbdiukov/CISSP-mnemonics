@@ -809,6 +809,9 @@ Let's try one more for fun,
 
 ## Lockheed Martin - Cyber Kill Chain
 
+
+### Mnemonic 1: Story
+
 I think a good analogy is Trojan War,
 
 1. Recon - Greeks analyse Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
@@ -818,6 +821,10 @@ I think a good analogy is Trojan War,
 5. Exploitation - Under the cover of the night, the Greek warriors disembark Trojan Horse and walk on small Trojan streets to avoid early detection.
 6. Command & Control - Greeks establish command and control over Troy
 7. Maintain - Greeks take measures to maintain control of the city as well as to seize the treasury of the previous king.
+
+### Mnemonic 2: Shorter story
+
+Recon weaponized, Delivery of exploit, exploit installed, Command and control maintained.
 
 # Domain 8
 
