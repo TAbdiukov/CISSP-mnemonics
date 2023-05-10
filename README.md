@@ -548,7 +548,7 @@ Easy trick: class letter defines the number of 255's from left to right. For exa
 
 ## Fraggle, Smurf
 
-* Fraggle - CHARGEN
+* Fraggle - [CHARGEN](https://www.youtube.com/watch?v=D0mXoF7dHVA)
 * Smurf - ICMP
 
 Fragile CHARGE, Smurf Is CIMP
