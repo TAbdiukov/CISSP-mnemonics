@@ -471,7 +471,8 @@ For CISSP: SSL is outdated and TLS is to be used.
 
 ## Virtual networking
 
-VX**LAN** for **LAN**, SD**WAN** for **WAN**
+* VX**LAN** (L3) or SD**LAN** (L2-3) for **LAN**
+* SD**WAN** for **WAN**
 
 ## VoIP and VPN
 
