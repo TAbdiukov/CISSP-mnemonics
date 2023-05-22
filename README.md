@@ -53,12 +53,6 @@ However, student ID leak [won't trigger data breach laws](https://www.theaustral
 
 Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. ECPA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
 
-### Extras
-
-* **HSA** - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
-
-* California Consumer Privacy Act - CCPA - in **California** fashion, require **Privacy** Statements from organizations.
-
 ### U.S. Import and Export
 
 * Export Administration Regulation (EAR) - restricting export of **civilian items that may have military applications**, such as **EARphones**.
@@ -78,6 +72,13 @@ Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 ### EU
 
 * GDPR - EU Privacy Laws. No known mnemonic
+
+### Extras
+
+* **California** Consumer **Privacy** Act - CCPA - in **California** fashion, require **Privacy** Statements from organizations. Similar **mandatory** effects to the EU's GDPR. Remember California=Privacy.
+
+
+* **HSA** - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
 
 ## Security and Risk in the U.S.
 
