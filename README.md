@@ -178,8 +178,6 @@ DC I DD PP
 
 * MTD - Maximum tolerable downtime for **business**. For CISSP: MTD = RTO + WRT. In reality, YMMV.
 
-
-
 # Domain 2
 
 ## Data roles
@@ -191,6 +189,10 @@ DC I DD PP
 * Data **S**teward - (responsible for) **S**yndicate data *everyday* ["Syndicate" as in "Business", so responsible for business data.]
 
 * **A**dministrators - **A**ssign permissions to **A**ccounts
+
+### Extras
+
+* Data Controller - same as Data Owner
 
 ## Data remanence
 
