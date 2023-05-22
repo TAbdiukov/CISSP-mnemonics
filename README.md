@@ -28,7 +28,6 @@ SLE = AV x EF
 
 However, student ID leak [won't trigger data breach laws](https://www.theaustralian.com.au/the-oz/news/student-grades-and-ids-have-been-stolen-from-an-elite-australian-uni/news-story/1ddc0401bb2d91e58d430ef8d6939edf)
 
-* **HSA** - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
 
 * **GISMA - Superseded by FISMA** in 2000
 
@@ -53,6 +52,12 @@ However, student ID leak [won't trigger data breach laws](https://www.theaustral
 * USA PATRIOT Act of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
 
 Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. ECPA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
+
+### Extras
+
+* **HSA** - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
+
+* California Consumer Privacy Act - CCPA - in **California** fashion, require **Privacy** Statements from organizations.
 
 ### U.S. Import and Export
 
