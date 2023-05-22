@@ -46,11 +46,11 @@ However, student ID leak [won't trigger data breach laws](https://www.theaustral
 
 * Computer Fraud and Abuse Act - CFAA 1986 - **First** major legistlation to fight cybercrime. Think: **CFAA - F for First**.
 
-#### ECPA, CALEA, USA PATRIOT ACT
+#### ECPA, CALEA, USA PATRIOT Act
 
 * Electronic Communications Privacy Act - ECPA 1986 - Makes it illegal to invade electronic privacy of an individual.
 * Communication Assurance for Law Enforcement Act - CALEA 1994 - Amends ECPA to make wiretaps possible for law enforcement, regardless of technology used.
-* USA PATRIOT ACT of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
+* USA PATRIOT Act of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
 
 Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. ECPA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
 
