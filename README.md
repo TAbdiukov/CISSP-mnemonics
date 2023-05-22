@@ -737,8 +737,10 @@ DRMRRRL
 
 ## Backups
 
+![image](https://www.ubackup.com/screenshot/en/others/pictures/incremental-vs-differential.png)
+
 * Full - full
-* Differential - diff (delta) from full
+* Differential - diff (**delta**) from full
 * Incremental - increments from last increment, thus the total number of increments will be high
 
 ## Security encounters
