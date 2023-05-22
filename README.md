@@ -693,10 +693,17 @@ DRMRRRL
 
 ## Information lifecycle
 
-CCS UAD
+1) Create
+2) Store
+3) Use
+4) Share
+5) Archive
+6) Destroy
 
-Before use: Create, Categorize, Store
-Afterwards: Use, Archive, Destroy
+
+* Letters: CS US AD
+* Mnemonic: CompSci (of) US (created) ActiveDirectory
+
 
 ## Evidence
 
