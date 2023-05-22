@@ -219,7 +219,7 @@ Cow Pig Sow; CPSOW, **Clearing Can, Purging is Permanent, Sanitizing Same, Overw
 
 ## Scoping, tailoring and supplementation
 
-* Scoping - removing security controls that don't apply. 
+* Scoping - removing security controls that don't apply in your particular case. 
 * Tailoring - tweaking little details of applied security controls to better suit your organisation.
 * Supplementation - Specify used product names. For example, replace "OS" with "Windows".
 
