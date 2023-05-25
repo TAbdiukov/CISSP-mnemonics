@@ -662,6 +662,13 @@ Adapted from CISSPrep,
 * Functional - use-cases/requirements
 * Non-Functional - stability & performance
 
+### Knowledge
+
+* Black-box - No knowledge
+* White-box - All knowledge
+
+* Gray-box - Black-box + SOME knowledge
+
 ### Target
 
 * Static (SAST) - Code
