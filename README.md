@@ -659,8 +659,8 @@ Adapted from CISSPrep,
 
 ### Target
 
-* Static - Code
-* Dynamic - Runtime
+* Static (SAST) - Code
+* Dynamic (DAST) - Runtime
 
 ### Labour
 
