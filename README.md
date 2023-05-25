@@ -657,6 +657,11 @@ Adapted from CISSPrep,
 
 ## Testing
 
+### Functionality
+
+* Functional - use-cases/requirements
+* Non-Functional - stability & performance
+
 ### Target
 
 * Static (SAST) - Code
