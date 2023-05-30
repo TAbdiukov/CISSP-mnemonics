@@ -883,7 +883,7 @@ I segregate into: PFS-DA-TCT-RM
 ## Software development methodologies
 
 * Agile - modern, agile dev philosophy. Effective, but not always best.
-	* [Lean](https://en.wikipedia.org/wiki/Lean_manufacturing) - customer-first, Agile(-like) methodology, formented by Toyota
+	* [Lean](https://global.toyota/en/company/vision-and-philosophy/production-system/) - customer-first, Agile(-like) methodology, formented by Toyota
 	* RAD - Rapid Application Development - Fast, iterative, less planning, adaptive 4 stages.
 	
 	![RAD model](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RADModel.JPG/320px-RADModel.JPG)
