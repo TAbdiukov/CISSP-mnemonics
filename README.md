@@ -257,6 +257,8 @@ Think about a digital telescope pointing at the stars.
 
 ### Information flow security models
 
+![Brewer Tea](https://d27pcll2dx97vv.cloudfront.net/info/wp-content/uploads/2011/12/Brew-the-Famous-Chinese-Bi-Luo-Chun.jpg)
+
 [Bell-LaPadula, Biba, Brewer-Nash (Chinese Wall), Clack-Wilson](https://github.com/TheRealBenForce/cissp-mnemonics#domain-3-security-engineering)
 
 #### TAKE-GRANT security model
