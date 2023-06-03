@@ -845,7 +845,7 @@ Let's try one more for fun,
 
 ### Mnemonic 1: Story
 
-I think a good analogy is Trojan War,
+Trojan War gives a good analogy:
 
 1. Recon - Greeks analyse Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
 2. Weaponization - Greeks design and build an exploit - a Trojan Horse
