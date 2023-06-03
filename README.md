@@ -318,6 +318,8 @@ K | Kitchen
 * Natural **Surveillance** - Remove trees so nobody can hide over trees 
 * Natural **Territorial Reinforcement** - Large windows to asset surveillance  
 
+What is not naturally enforced: AuthN.
+
 ## Card types
 
 * Magnetic - low security
