@@ -349,8 +349,8 @@ So to remember IPSec, one needs to remember the following memory device: "IPSec 
 
 From least secure to most secure:
 
-Multilevel > Compartmented > System-High > Dedicated  
-M > C > S > D 
+Multilevel → Compartmented → System-High → Dedicated  
+M → C → S → D 
 
 Make up a story, e.g. "MC gives you a porn SD card."
 
@@ -359,9 +359,9 @@ Make up a story, e.g. "MC gives you a porn SD card."
 
 Progression of requirements for ALL information (therefore, next entry would apply for SOME information),
 
-NDA > Clearance > Formal Approval > Need-to-know
+NDA → Clearance → Formal Approval → Need-to-know
 
-N>C>F>N -> NoiCy FaN [in the background]
+NC→F→N -> NoiCy FaN [in the background]
 
 Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
   
@@ -608,7 +608,7 @@ Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/F
 
 Think: Google, Github, Microsoft logon.
 
-* Open**ID** - **Id**entity -> Authentication
+* Open**ID** - **Id**entity → Authentication
 * OAuth - (stands for) Open Authorization
 
 **Note**: In real life, these protocols are used vis-a-vis.
@@ -940,7 +940,7 @@ More practical
 * **D**iagnosing (what needs to be fixed/changed)
 * **E**stablishing (plan)
 
-* **A**cting (on plan -> DevOps)
+* **A**cting (on plan → DevOps)
 * **L**earning (lessons)
 
 ## Databases
