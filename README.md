@@ -899,8 +899,9 @@ I segregate into: PFS-DA-TCT-RM
 	2) Money isn't a problem
 	3) Stable & secure (therefore quality) software is prioritized
 
+-------------------
 
-		* Spiral - Waterfall modification in spiral cycles.
+* Spiral - Waterfall modification in spiral cycles.
 
 ## Waterfall
 
