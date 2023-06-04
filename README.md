@@ -675,7 +675,7 @@ Adapted from CISSPrep,
 
 ### Target
 
-* Static - Code
+* Static - Code [Static testing - is a subtype of white-box testing by definition]
 * Dynamic - Runtime
 
 ### Labour
