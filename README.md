@@ -108,7 +108,7 @@ Risk = Threat x Vulnerability
 
 (no memory device here, more of an explanation)
 
-* Qualitative - based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE
+* Qualitative - based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE. Best for hard-to-quantify intangible assets.
 
 * Quantitative - **better**, based on experience and statistics
 
