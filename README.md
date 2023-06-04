@@ -891,7 +891,7 @@ I segregate into: PFS-DA-TCT-RM
 	* RAD - Rapid Application Development - Fast, iterative, less planning, adaptive 4 stages.
 	
 	![RAD model](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RADModel.JPG/320px-RADModel.JPG)
-	----
+	---- |
 	**RAD**
 	
 	* JAD - Joint Application Development - RAD with more communication with stakeholders and advisors
