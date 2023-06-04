@@ -763,7 +763,7 @@ DRMRRRL
 
 * Full - full
 * Differential - diff (**delta**) from full
-* Incremental - increments from last increment, thus the total number of increments will be high
+* Incremental - increments from last increment, thus there will be: **high quantity of increments** 
 
 ## Security encounters
 
