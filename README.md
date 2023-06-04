@@ -1057,6 +1057,17 @@ Story of a "PAPA" man following Code
 
 (icons from Iconfinder, used for educational purposes)
 
+### Overall tips
+
+* Read questions multiple times, to decipher what is being asked.
+* If an issue affects both confidentiality and integrity - then it mainly affects confidentiality.
+* If an issue affects Least Privilege and Separation of duties - then it mainly affects Separation of duties
+* Think like a technical manager - not a senior technie.
+* Order of protection: Humans > Laws&Regulations > Company > Computer hardware
+* External opinion about security is always more objective than internal
+* End game matters. Yes, you have an 'amazing' trick to keep your organization secure. Will it still work as expected in 10 years?
+
+
 ## You got this.
 
 [Why you will pass the CISSP](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
