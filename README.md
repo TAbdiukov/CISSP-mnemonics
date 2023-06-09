@@ -75,7 +75,7 @@ Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 ### Extras
 
-* **California** Consumer **Privacy** Act - CCPA - in **California** fashion, require **Privacy** Statements from organizations. Similar **mandatory** effects to the EU's GDPR. Remember California=Privacy.
+* **California** Consumer **Privacy** Act - CCPA - in **California** only, require **Privacy** Statements from organizations. Similar **mandatory** effects to the EU's GDPR. Remember California=Privacy.
 
 
 * **HSA** - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
