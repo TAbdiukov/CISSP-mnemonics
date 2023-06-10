@@ -104,6 +104,11 @@ Mnemonic: Risk T.V.
 
 Risk = Threat x Vulnerability
 
+### Types of risk
+
+* **In**herent - **In**itial risk **in**put before treatment
+* **Re**sidual - **Re**maining risk **residing** after treatment
+
 ## Qualitative & quatitative risk analysis
 
 (no memory device here, more of an explanation)
