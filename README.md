@@ -911,7 +911,7 @@ I segregate into: PFS-DA-TCT-RM
 
 1. System Requirements (OS)
 2. Software Requirements (Software runs on an OS, so software requirements come second)
-3. Preliminary Design 
+3. Preliminary Design
 4. Detailed Design
 5. Code and Debug
 6. Testing
