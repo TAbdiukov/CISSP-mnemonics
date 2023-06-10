@@ -946,7 +946,7 @@ More practical
 * **I**nitiating (everything for Devops)
 * **D**iagnosing (what needs to be fixed/changed)
 * **E**stablishing (plan)
-
+-------------------------
 * **A**cting (on plan → DevOps)
 * **L**earning (lessons)
 
