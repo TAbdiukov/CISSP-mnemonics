@@ -625,7 +625,7 @@ Think: Google, Github, Microsoft logon.
 ### XML-based-languages
 
 * S**A**ML - **A**uthN and **A**uthZ, open source, good for ADFS.
-* S**P**ML - Service provisioning
+* S**P**ML - **S**ervice **P**rovisioning
 * X**AC**ML - Access control (AuthZ but not AuthN)
 * SOAP - messaging over network
 * **SC**AP - **Security Content** (Automation Protocol) - Share threat intel
