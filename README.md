@@ -103,7 +103,6 @@ Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 ![Roku](https://image.roku.com/developer_channels/prod/81b0180e7b151201a10d7006b048ccbc0ea5695d8fd20d78462d2a13a99f3485.png)
 
-
 Mnemonic: Risk T.V.
 
 Risk = Threat x Vulnerability
