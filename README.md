@@ -281,12 +281,6 @@ Think about a digital telescope pointing at the stars.
 * [23BRAIDS | DEREK | SHA HAVAL, MD](https://github.com/khwajaimran/CISSP-Mnemonics#asymmetric-encryption) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#asymmetric-encryption) )
 * [Information flow security models' properties](https://github.com/khwajaimran/CISSP-Mnemonics#confidentiality-and-integrity-models) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) )
 
-
-### Encryption algorithms
-
-[Encryption](https://github.com/khwajaimran/CISSP-Mnemonics) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics))
-
-
 ## Firefighting systems
 
 * **D**ry pipe - **D**ry (steam)
