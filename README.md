@@ -291,7 +291,7 @@ Think about a digital telescope pointing at the stars.
 * **D**ry pipe - **D**ry (steam)
 * **W**et pipe - **W**ater
 * **Deluge** - **Deluxe** (volume), once fire's detected
-* Pre-action - **pre**load once fire, **action** once confirmed
+* **Pre-action** - **pre**load once fire, **action** once confirmed
 
 ## Fire Extinguishers
 
