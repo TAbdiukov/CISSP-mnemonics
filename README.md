@@ -74,7 +74,11 @@ Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 ### EU
 
-* GDPR - EU Privacy Laws. No known mnemonic
+* GDPR - EU Privacy Laws - cause cookie banners
+
+![Thanks GDPR](https://www.cookiebot.com/media/4333/consent_en.png) |
+---- |
+~~#ThanksObama~~ #ThanksGdpr
 
 ### Extras
 
