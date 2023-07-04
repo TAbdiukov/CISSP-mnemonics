@@ -681,6 +681,8 @@ Adapted from CISSPrep,
 * Black-box - No knowledge
 * White-box - All knowledge
 
+------------------------------
+
 * Gray-box - Black-box + SOME knowledge
 
 ### Target
