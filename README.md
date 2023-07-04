@@ -26,8 +26,11 @@ SLE = AV x EF
 
 ![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
-However, student ID leak [won't trigger data breach laws](https://www.theaustralian.com.au/the-oz/news/student-grades-and-ids-have-been-stolen-from-an-elite-australian-uni/news-story/1ddc0401bb2d91e58d430ef8d6939edf)
+However, student ID leak won't trigger data breach laws.
 
+| ![https://ih1.redbubble.net/image.2596680176.5856/st,small,507x507-pad,600x600,f8f8f8.jpg](Chicago Mclovin) |
+| ---- | 
+| Not in breach of FERPA! |
 
 * **GISMA - Superseded by FISMA** in 2000
 
