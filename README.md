@@ -28,7 +28,7 @@ SLE = AV x EF
 
 However, student ID leak won't trigger data breach laws.
 
-![Chicago McLovin](https://ih1.redbubble.net/image.2596680176.5856/st,small,507x507-pad,600x600,f8f8f8.jpg) |
+![Chicago McLovin](https://cdn.ebaumsworld.com/mediaFiles/picture/604025/86034565.jpg) |
 ---- | 
  Not in breach of FERPA! |
 
