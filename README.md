@@ -702,7 +702,7 @@ Adapted from CISSPrep,
 * Use cases - How can it be used
 * Misuse cases - How can it be misused
 
-### Devops
+### DevOps
 
 *Wikipedia is wrong about this one (according to (ISC)² )*
 
