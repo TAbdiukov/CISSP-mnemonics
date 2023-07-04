@@ -723,7 +723,9 @@ Adapted from CISSPrep,
 
 ## Must-know
 
-DRMRRRL
+![DRM RRR L](https://media.cheggcdn.com/prep/9e8/9e8ab344-eb9c-4f8c-bf1f-ea5bdcf54d7c/image.jpg)
+---- |
+**DRMRRRL** |
 
 ## Information lifecycle
 
