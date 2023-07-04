@@ -74,7 +74,7 @@ Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 ![Thanks GDPR](https://www.cookiebot.com/media/4333/consent_en.png) |
 ---- |
-~~#ThanksObama~~ #ThanksGdpr
+~~#ThanksObama~~ #ThanksGDPR
 
 ### Extras
 
