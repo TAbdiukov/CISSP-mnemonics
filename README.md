@@ -28,10 +28,6 @@ SLE = AV x EF
 
 However, student ID leak won't trigger data breach laws.
 
-![Chicago McLovin](https://cdn.ebaumsworld.com/mediaFiles/picture/604025/86034565.jpg) |
----- | 
- Not in breach of FERPA! |
-
 * **GISMA - Superseded by FISMA** in 2000
 
 * FISMA - **U.S. Government information security** is under **prisma**. [NIST SP 800-53 is used for FISMA]
