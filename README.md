@@ -345,7 +345,7 @@ What is **not** naturally enforced: AuthN.
 * **C**ertification - **C**ompliance according to **c**ompany's **c**ompliance security officer. Certification is towards assurance
 
 * **Ver**ification - Third-party obser**ver**'s report. For example, when you register on a website, you "Verify your email" by receiving an email on a third-party email server (not blacklisted by the website admins). 
-* **V**alidate - (just a sanity check, need to think of a mnemonic) 
+* **Val**idate - (drink **val**ium to perform sanity check) [valium=diazepam]
 
 * **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
 
