@@ -14,63 +14,63 @@ SLE = AV x EF
 
 ## Laws and regulations
 
-* SOX (Sarbanes Oxley, 2002) - [say in British accent] ENRON really SOX. It's transaction flow really SOX.
+* SOX (Sarbanes Oxley, 2002) – [say in British accent] ENRON really SOX. It's transaction flow really SOX.
 
-* Gramm-Leach-Bliley Act (GLBA) - banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)  
+* Gramm-Leach-Bliley Act (GLBA) – banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)  
 
 ![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
 
-* COPPA - Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
+* COPPA – Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
-* FERPA - Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
+* FERPA – Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
 
 ![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
 However, student ID leak won't trigger data breach laws.
 
-* **GISMA - Superseded by FISMA** in 2000
+* **GISMA – Superseded by FISMA** in 2000
 
-* FISMA - **U.S. Government information security** is under **prisma**. [NIST SP 800-53 is used for FISMA]
+* FISMA – **U.S. Government information security** is under **prisma**. [NIST SP 800-53 is used for FISMA]
 
-* PCI DSS - Credit Card Security - Visa, MasterCard and American Express. What else is a card other than a credit card? - Your PCI card.
+* PCI DSS – Credit Card Security – Visa, MasterCard and American Express. What else is a card other than a credit card? – Your PCI card.
 
 	Note: PCI DS**S** is a **Standard**, not a law.
 
-* Digital Millenium **Copyright** Act (DMCA) - **Copyright**. Who hadn't heard of the DMCA strikes on Youtube? 
+* Digital Millenium **Copyright** Act (DMCA) – **Copyright**. Who hadn't heard of the DMCA strikes on Youtube? 
 
 ### U.S. Privacy
 
 * 4th Amendment in American Constitution grants right to privacy
 
-* Computer Fraud and Abuse Act - CFAA 1986 - **First** major legistlation to fight cybercrime. Think: **CFAA - F for First**.
+* Computer Fraud and Abuse Act – CFAA 1986 – **First** major legistlation to fight cybercrime. Think: **CFAA – F for First**.
 
 #### ECPA, CALEA, USA PATRIOT Act
 
-* Electronic Communications Privacy Act - ECPA 1986 - Makes it illegal to invade electronic privacy of an individual.
-* Communication Assurance for Law Enforcement Act - CALEA 1994 - Amends ECPA to make wiretaps possible for law enforcement, regardless of technology used.
-* USA PATRIOT Act of **2001** - Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
+* Electronic Communications Privacy Act – ECPA 1986 – Makes it illegal to invade electronic privacy of an individual.
+* Communication Assurance for Law Enforcement Act – CALEA 1994 – Amends ECPA to make wiretaps possible for law enforcement, regardless of technology used.
+* USA PATRIOT Act of **2001** – Broadened wiretapping authorizations, no thanks to 9/11 in 2001.
 
-Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. ECPA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
+Think of ECPA and CALEA – as a seed and a flower. Yes, calea is a plant, but let's make CALEA a CAULIPOWER with sour taste. ECPA grows into CALEA flower. Then terrorists come, and the garden of CALEA has to be destroyed. Like the privacy had to be destroyed.
 
 ### U.S. Import and Export
 
-* Export Administration Regulation (EAR) - restricting export of **civilian items that may have military applications**, such as **EARphones**.
-* International Traffic in Arms Regulations (ITAR) - restricting export of **war items**. Think "**ITAR is war**". Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
+* Export Administration Regulation (EAR) – restricting export of **civilian items that may have military applications**, such as **EARphones**.
+* International Traffic in Arms Regulations (ITAR) – restricting export of **war items**. Think "**ITAR is war**". Russia has a century-old **pro-war** newsagency of **[ITAR-TASS](https://www.britannica.com/topic/ITAR-TASS)**, and when Russia started its **full-scale war**, U.S. already had Russia added to [ITAR list](https://www.federalregister.gov/documents/2021/03/18/2021-05530/international-traffic-in-arms-regulations-addition-of-russia).
 
 ### Personal information
 
-* P**I**I - Personal **ID** information 
-* P**H**I - Personal **Health** Information
-* P**C**I - **Credit card**. **PCI** DSS applies
+* P**I**I – Personal **ID** information 
+* P**H**I – Personal **Health** Information
+* P**C**I – **Credit card**. **PCI** DSS applies
 
 ### U.S. Healthcare
 
-* **H**IPAA - **Health privacy and security** regulations in case you get **HIPAAtitis**. In HI**PAA**, **BAA** agreements are used to protect privacy. 
-* **HITECH** - **Hospitals security** go hi-tech!
+* **H**IPAA – **Health privacy and security** regulations in case you get **HIPAAtitis**. In HI**PAA**, **BAA** agreements are used to protect privacy. 
+* **HITECH** – **Hospitals security** go hi-tech!
 
 ### EU
 
-* GDPR - EU Privacy Laws - cause cookie banners
+* GDPR – EU Privacy Laws – cause cookie banners
 
 ![Thanks GDPR](https://www.cookiebot.com/media/4333/consent_en.png) |
 ---- |
@@ -78,26 +78,26 @@ Think of ECPA and CALEA - as a seed and a flower. Yes, calea is a plant, but let
 
 ### Extras
 
-* **California** Consumer **Privacy** Act - CCPA - in **California** only, require **Privacy** Statements from organizations. Similar **mandatory** effects to the EU's GDPR. Remember California=Privacy.
+* **California** Consumer **Privacy** Act – CCPA – in **California** only, require **Privacy** Statements from organizations. Similar **mandatory** effects to the EU's GDPR. Remember California=Privacy.
 
 
-* **HSA** - Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
+* **HSA** – Homeland Security Act. Creation of Homeland Security in the US. Mnemonic: "HSA is like HoUSA. HoUSA can be understood as "House" (my house is my castle) and "Home is USA". Related to HSA (2002) is USA PATRIOT Act of 2001.
 
 ## Security and Risk in the U.S.
 
-* US**PT**O - **P**atents and **T**rademarks - (US Parent & Trademark Office)
-* LO**C** - **C**opyright - (Library of Congress)
-* **Bank** - **bank**ing breach - (per PCI DSS)
+* US**PT**O – **P**atents and **T**rademarks – (US Parent & Trademark Office)
+* LO**C** – **C**opyright – (Library of Congress)
+* **Bank** – **bank**ing breach – (per PCI DSS)
 
-* U.S. **C**ode(x) - **C**riminal and **C**ivil Law
-* Code of **Federal** Regulations - Administrative Law on Federal scale
+* U.S. **C**ode(x) – **C**riminal and **C**ivil Law
+* Code of **Federal** Regulations – Administrative Law on Federal scale
 
 ## Law in general
 
-* Administrative - internal within organisation, no set standard
-* Civil - Civil litigation, preponderance of evidence standard
-* Regulatory - Charges brought by regulatory bodies, substantial evidence standard
-* Criminal - Charges by law enforcement, beyond the reasonable doubt standard
+* Administrative – internal within organisation, no set standard
+* Civil – Civil litigation, preponderance of evidence standard
+* Regulatory – Charges brought by regulatory bodies, substantial evidence standard
+* Criminal – Charges by law enforcement, beyond the reasonable doubt standard
 
 ## Risk 
 
@@ -109,20 +109,20 @@ Risk = Threat x Vulnerability
 
 ### Types of risk
 
-* **In**herent - **In**itial risk **in**put before treatment
-* **Re**sidual - **Re**maining risk **residing** after treatment
+* **In**herent – **In**itial risk **in**put before treatment
+* **Re**sidual – **Re**maining risk **residing** after treatment
 
 ## Qualitative & quatitative risk analysis
 
 (no memory device here, more of an explanation)
 
-* Qualitative - based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE. Best for hard-to-quantify intangible assets.
+* Qualitative – based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE. Best for hard-to-quantify intangible assets.
 
-* Quantitative - **better**, based on experience and statistics
+* Quantitative – **better**, based on experience and statistics
 
-* Combination - balanced
+* Combination – balanced
 
-## Risk - RMF - NIST SP 800-37
+## Risk – RMF – NIST SP 800-37
 
 * [Useful nist.gov illustration](https://csrc.nist.gov/projects/risk-management/about-rmf)
 
@@ -154,8 +154,8 @@ PCS IAAM (PC's I aam)
 
 DRP is a subset of BCP
 
-* BCP - Business
-* DRP - Technical
+* BCP – Business
+* DRP – Technical
 
 ### NIST SP 800-34
 
@@ -182,31 +182,31 @@ DC I DD PP
 
 ## Recovery acronyms
 
-* RPO - Recovery **Point** Objective - time period: From last (known good) scheduled backup to disaster (from past to present). **Point** - think about last known good configuration for Windows,
+* RPO – Recovery **Point** Objective – time period: From last (known good) scheduled backup to disaster (from past to present). **Point** – think about last known good configuration for Windows,
 
 ![XP](https://social.technet.microsoft.com/Forums/getfile/931978)
 
-* RTO - Recovery **Time** Objective - time period: from disaster to recovery, if all goes well (from present to the future).
+* RTO – Recovery **Time** Objective – time period: from disaster to recovery, if all goes well (from present to the future).
 
-* WRT - How much **work** for **technical** staff to reconfigure everything after recovery.
+* WRT – How much **work** for **technical** staff to reconfigure everything after recovery.
 
-* MTD - Maximum tolerable downtime for **business**. For CISSP: MTD = RTO + WRT. In reality, YMMV.
+* MTD – Maximum tolerable downtime for **business**. For CISSP: MTD = RTO + WRT. In reality, YMMV.
 
 # Domain 2
 
 ## Data roles
 
-* Data **O**wner - (responsible) **O**verall 
-* Data **P**rocessor - **P**rocesses **P**assed-on (database)
+* Data **O**wner – (responsible) **O**verall 
+* Data **P**rocessor – **P**rocesses **P**assed-on (database)
 
-* Data **C**ustodian - (responsible for) **C**omputer (with database)
-* Data **S**teward - (responsible for) **S**yndicate data *everyday* ["Syndicate" as in "Business", so responsible for business data.]
+* Data **C**ustodian – (responsible for) **C**omputer (with database)
+* Data **S**teward – (responsible for) **S**yndicate data *everyday* ["Syndicate" as in "Business", so responsible for business data.]
 
-* **A**dministrators - **A**ssign permissions to **A**ccounts
+* **A**dministrators – **A**ssign permissions to **A**ccounts
 
 ### Extras
 
-* Data Controller - same as Data Owner
+* Data Controller – same as Data Owner
 
 ## Data remanence
 
@@ -235,9 +235,9 @@ Cow Pig Sow; CPSOW, **Clearing Can, Purging is Permanent, Sanitizing Same, Overw
 
 ## Scoping, tailoring and supplementation
 
-* Scoping - removing security controls that don't apply in your particular case. 
-* Tailoring - tweaking little details of applied security controls to better suit your organisation.
-* Supplementation - Specify used product names. For example, replace "OS" with "Windows".
+* Scoping – removing security controls that don't apply in your particular case. 
+* Tailoring – tweaking little details of applied security controls to better suit your organisation.
+* Supplementation – Specify used product names. For example, replace "OS" with "Windows".
 
 There are two mnemonic devices.
 
@@ -261,7 +261,7 @@ Think about a digital telescope pointing at the stars.
 
 ### Security rings,
 
-(Zero) KODU - Kernel, OS, Drivers, Userspace
+(Zero) KODU – Kernel, OS, Drivers, Userspace
 
 ### Information flow security models
 
@@ -271,10 +271,10 @@ Think about a digital telescope pointing at the stars.
 
 #### TAKE-GRANT security model
 
-* TAKE - **Take** someone else's permissions
-* GRANT - **Grant** permissions to subordinates
-* CREATE - **Create** new rule
-* REMOVE - **Remove** a rule
+* TAKE – **Take** someone else's permissions
+* GRANT – **Grant** permissions to subordinates
+* CREATE – **Create** new rule
+* REMOVE – **Remove** a rule
 
 #### DerreckM Mnemonics
 
@@ -283,10 +283,10 @@ Think about a digital telescope pointing at the stars.
 
 ## Firefighting systems
 
-* **D**ry pipe - **D**ry (steam)
-* **W**et pipe - **W**ater
-* **Deluge** - **Deluxe** (volume), once fire's detected
-* **Pre-action** - **pre**load once fire, **action** once confirmed
+* **D**ry pipe – **D**ry (steam)
+* **W**et pipe – **W**ater
+* **Deluge** – **Deluxe** (volume), once fire's detected
+* **Pre-action** – **pre**load once fire, **action** once confirmed
 
 ## Fire Extinguishers
 
@@ -302,45 +302,45 @@ K | Kitchen
 
 ### NO electricity
 
-* Fault - short - **(Technical) Faults don't last forever**
-* Blackout - (obviously) long
+* Fault – short – **(Technical) Faults don't last forever**
+* Blackout – (obviously) long
 
 ### LO Electricity
 
-* Sag - short-term - sag even sounds short - sag sac
-* Brownout - alike to blackout - long-term
+* Sag – short-term – sag even sounds short – sag sac
+* Brownout – alike to blackout – long-term
 
 ### HI Electrinity
 
-* Spike - Spikes are momentary
-* Surge - Like in**surgencies**, they can last long!
+* Spike – Spikes are momentary
+* Surge – Like in**surgencies**, they can last long!
 
 ## Crime Prevention Through Environmental Design (CPTED)
 
-* Natural **Access Control** - Fences to enforce authZ
-* Natural **Surveillance** - Remove trees so nobody can hide over trees 
-* Natural **Territorial Reinforcement** - Large windows to asset surveillance  
+* Natural **Access Control** – Fences to enforce authZ
+* Natural **Surveillance** – Remove trees so nobody can hide over trees 
+* Natural **Territorial Reinforcement** – Large windows to asset surveillance  
 
 What is **not** naturally enforced: AuthN.
 
 ## Card types
 
-* Magnetic - low security
-* Proximity - signal can be stolen
-* RFID - Distance
-* Microchip / SmartCard - Secure
+* Magnetic – low security
+* Proximity – signal can be stolen
+* RFID – Distance
+* Microchip / SmartCard – Secure
 
 ## Compliance
 
-* **Ass**urance - **Ass**ert (security of product)
-* **C**ertification - **C**ompliance according to **c**ompany's **c**ompliance security officer. Certification is towards assurance
+* **Ass**urance – **Ass**ert (security of product)
+* **C**ertification – **C**ompliance according to **c**ompany's **c**ompliance security officer. Certification is towards assurance
 
-* **Ver**ification - Third-party obser**ver**'s report. For example, when you register on a website, you "Verify your email" by receiving an email on a third-party email server (not blacklisted by the website admins). 
-* **Val**idate - (drink **val**ium to perform sanity check) [valium=diazepam]
+* **Ver**ification – Third-party obser**ver**'s report. For example, when you register on a website, you "Verify your email" by receiving an email on a third-party email server (not blacklisted by the website admins). 
+* **Val**idate – (drink **val**ium to perform sanity check) [valium=diazepam]
 
-* **Acc**reditation - **Ac**e's **C**ompliance (senior manager)
+* **Acc**reditation – **Ac**e's **C**ompliance (senior manager)
 
-* **Accept**ance - **Accept**
+* **Accept**ance – **Accept**
 
  
 ## IPSec
@@ -370,33 +370,33 @@ NDA → Clearance → Formal Approval → Need-to-know
 
 NC→F→N -> NoiCy FaN [in the background]
 
-Example: Compartmented - NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
+Example: Compartmented – NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
   
 ## Access Control Models
 
-* **D**iscretionary - **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
+* **D**iscretionary – **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
 
-* Non-discretionary - everything more streamlined:
-	* **M**andatory (MAC) - **M**ilitary, and therefore strict and not scalable. Enforced by the OS. Clearances, formal approvals and need-to-know apply.
+* Non-discretionary – everything more streamlined:
+	* **M**andatory (MAC) – **M**ilitary, and therefore strict and not scalable. Enforced by the OS. Clearances, formal approvals and need-to-know apply.
 
 	All other options are easier to remember,
-	* Attribute (ABAC) / Policy (PBAC) - attribute/policy - high-level rules, flexible use of attributes, location and environment.
-	* Role-based (RBAC) - role
-	* Rule-based (RuBAC) - rule - dumb rules for robots. example: firewalls
-		* Risk-based (~~RiBAC~~ RBA, subtype of RuBAC) - risk. For example, IP from China increases risk score.
+	* Attribute (ABAC) / Policy (PBAC) – attribute/policy – high-level rules, flexible use of attributes, location and environment.
+	* Role-based (RBAC) – role
+	* Rule-based (RuBAC) – rule – dumb rules for robots. example: firewalls
+		* Risk-based (~~RiBAC~~ RBA, subtype of RuBAC) – risk. For example, IP from China increases risk score.
 	
 ### Related concepts
 
-* ACLs - Access Control **Lists**. Blacklists or whitelists. Focus on Objects. Used in DAC.
-* Capability table - Used for subjects in DAC. `sudoers` file is an example of Capability table.
-* AC Matrix - 2D matrix with subjects and objects in DAC/MAC.
-* **L**attice model - matrix of **L**abels on objects and subjects in MAC
+* ACLs – Access Control **Lists**. Blacklists or whitelists. Focus on Objects. Used in DAC.
+* Capability table – Used for subjects in DAC. `sudoers` file is an example of Capability table.
+* AC Matrix – 2D matrix with subjects and objects in DAC/MAC.
+* **L**attice model – matrix of **L**abels on objects and subjects in MAC
 
 	
 ## TSSEC, ITSEC, Common Criteria
 
 ### TSSEC
-* TSSEC - "Orange book" - U.S. Standard 
+* TSSEC – "Orange book" – U.S. Standard 
 
 ![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)
 
@@ -413,19 +413,19 @@ What colour comes to mind?
 
 ### ITSEC
 
-ITSEC - EU Standard
+ITSEC – EU Standard
 
 *i***T-Systems** are European
 
 ### Common Criteria
 
-Common Criteria - CC - Are superseding globally
+Common Criteria – CC – Are superseding globally
 
-## Common criteria - EAL
+## Common criteria – EAL
 
-Start-from 1 - 3-2-1
+Start-from 1 – 3-2-1
 
-FSM - SS - F
+FSM – SS – F
 
 Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
@@ -455,21 +455,21 @@ Taken from [Reddit](https://www.reddit.com/r/cissp/comments/tw10js/comment/i3cks
 
 > Some people F*** Bit**es
 
-* Segments - TCP - Transport layer
-* Packets - Netzwerking layer
-* Frames - Data-link layer
-* Bits - Physical layer
+* Segments – TCP – Transport layer
+* Packets – Netzwerking layer
+* Frames – Data-link layer
+* Bits – Physical layer
 
 
 ## Authentication protocols
 
 *(typically)*
 
-* Kerberos - for Microsoft Windows
-* RADIUS - for VPN
-* TACACS+ - for Cisco
+* Kerberos – for Microsoft Windows
+* RADIUS – for VPN
+* TACACS+ – for Cisco
 
-Mnemonic device - made up a little story: You send documents from Microsoft Windows via VPN to a mainframe serviced by Cisco. The corresponding authentication protocols would go in the alphabetical order.
+Mnemonic device – made up a little story: You send documents from Microsoft Windows via VPN to a mainframe serviced by Cisco. The corresponding authentication protocols would go in the alphabetical order.
 
 ### Kerberos
 
@@ -494,62 +494,62 @@ For CISSP: VoIP doesn't mix well with VPN
 
 ## Routing protocols
 
-* Distance-vector - Shortest **distance**
-* Link-state - Best bandwidth **link**. Sophisticated. Network map is created.
+* Distance-vector – Shortest **distance**
+* Link-state – Best bandwidth **link**. Sophisticated. Network map is created.
 
 ## NAC systems
 
-**NAC** - Network Access Control
+**NAC** – Network Access Control
 
 Note: They use **Risk** BAC, as they evaluate **risk**
 
-* Pre-admit - Checks happen BEFORE admission
-* Postadmission - Checks happen AFTER admission
-* Client-based - Stateful
-* Clientless - Stateless
+* Pre-admit – Checks happen BEFORE admission
+* Postadmission – Checks happen AFTER admission
+* Client-based – Stateful
+* Clientless – Stateless
 
 ## *Casts
 
 Mnemonic device: They go in reserve alphabetical order
 
-* Unicast - One
-* Multicast - Many specific
-* Broadcast - All
+* Unicast – One
+* Multicast – Many specific
+* Broadcast – All
 
 ## Dial-Up
 
 [Dial-Up refresher](https://www.dialupsound.com/)
 
-* PPP (point-to-point protocol) - IP over telephone
+* PPP (point-to-point protocol) – IP over telephone
 
 ![DialUpPPP](https://sites.radford.edu/~helpdesk/ppp/95gifs/Welcome.gif)
 
 ### Authentication protocols (AP's)
 
-* **P**-**AP** (PAP), - Insecure, **P** for **P**athetic
-* **CH**-**AP** (CHAP) - Secure, uses **CH**ecksums (hash functions)
-* **MS**-CHAP - Microsoft-improved CHAP. Even more secure, uses **CH**ecksums (hash functions)
+* **P**-**AP** (PAP), – Insecure, **P** for **P**athetic
+* **CH**-**AP** (CHAP) – Secure, uses **CH**ecksums (hash functions)
+* **MS**-CHAP – Microsoft-improved CHAP. Even more secure, uses **CH**ecksums (hash functions)
 
 ## *EAP
 
-* EAP - Original protocol that started its family. Outdated
-* LEAP - Lightweight, Cisco proprietary, no longer secure
-* PEAP - Protected EAP. For CISSP purposes, "good enough". Uses TLS.
-* MS-PEAP - Microsoft's improvement on PEAP, even better than PEAP
-* EAP-TLS - Secure, but difficult to implement due to additional prerequisites
+* EAP – Original protocol that started its family. Outdated
+* LEAP – Lightweight, Cisco proprietary, no longer secure
+* PEAP – Protected EAP. For CISSP purposes, "good enough". Uses TLS.
+* MS-PEAP – Microsoft's improvement on PEAP, even better than PEAP
+* EAP-TLS – Secure, but difficult to implement due to additional prerequisites
 
 ## Bluetooth
 
-* Bluejack - Jack sends annoying messages
-* Bluesnarf - snatch data
-* Bluebugging - bug to gain remote access
+* Bluejack – Jack sends annoying messages
+* Bluesnarf – snatch data
+* Bluebugging – bug to gain remote access
 
 Bluetooth "authZ" is 4-digits.
 
 ## internet storage
 
-* FCoE - Fiber and maybe Ethernet
-* iSCSI - IP/Ethernet 
+* FCoE – Fiber and maybe Ethernet
+* iSCSI – IP/Ethernet 
 
 ## RFC 1918 (Private) IP ranges
 
@@ -563,8 +563,8 @@ Easy trick: class letter defines the number of 255's from left to right. For exa
 
 ## Fraggle, Smurf
 
-* Fraggle - [CHARGEN](https://www.youtube.com/watch?v=D0mXoF7dHVA)
-* Smurf - ICMP
+* Fraggle – [CHARGEN](https://www.youtube.com/watch?v=D0mXoF7dHVA)
+* Smurf – ICMP
 
 Fragile CHARGE, Smurf Is CIMP
 
@@ -572,20 +572,20 @@ Fragile CHARGE, Smurf Is CIMP
 
 ## FTP, SSH, Telnet
 
-Memory device - They are in alphabetic order,
+Memory device – They are in alphabetic order,
 
-* 20-21 - FTP
-* 22 - SSH
-* 23 - Telnet
+* 20-21 – FTP
+* 22 – SSH
+* 23 – Telnet
 
 
 ## Port status
 
 Mnemonic device: This information is VERY obvious, so what do I say? Of Course! Or OFC:
 
-* Open - Worst
-* Filtered - OK
-* Closed - Best
+* Open – Worst
+* Filtered – OK
+* Closed – Best
 
 # Domain 5
 
@@ -603,39 +603,39 @@ Quote from ~~[DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemon
 
 "Rejection" is a "positive" for authN systems.
 
-* FRR - Type 1 Error
-* FAR - Type 2 Error
-* CER - Intersection between FAR and FRR. Optimal configuration.
+* FRR – Type 1 Error
+* FAR – Type 2 Error
+* CER – Intersection between FAR and FRR. Optimal configuration.
 
 Mnemonic device: FRR FAR, CER (meaning [Freier](https://en.wiktionary.org/wiki/Freier#Noun)'s far, sire)
 
 ## More about AAA protocols
 
-* Kerberos - symmetric AES encryption everywhere, but unique stateless system.
-* RADI**U**S - **U**DP, can extraordinarily support TLS over TCP, only encrypts passwords. Like it is for VPNs, not a single sign-on
-* **T**ACACS+ - **T**CP, encrypts full session.
+* Kerberos – symmetric AES encryption everywhere, but unique stateless system.
+* RADI**U**S – **U**DP, can extraordinarily support TLS over TCP, only encrypts passwords. Like it is for VPNs, not a single sign-on
+* **T**ACACS+ – **T**CP, encrypts full session.
 
 ### *Open* / Third-party logon
 
 Think: Google, Github, Microsoft logon.
 
-* Open**ID** - **Id**entity → Authentication
-* OAuth - (stands for) Open Authorization
+* Open**ID** – **Id**entity → Authentication
+* OAuth – (stands for) Open Authorization
 
 **Note**: In real life, these protocols are used vis-a-vis.
 
 ### XML-based-languages
 
-* S**A**ML - **A**uthN and **A**uthZ, open source, good for ADFS.
-* S**P**ML - **S**ervice **P**rovisioning
-* X**AC**ML - Access control (AuthZ but not AuthN)
-* SOAP - messaging over network
-* **SC**AP - **Security Content** (Automation Protocol) - Share threat intel
+* S**A**ML – **A**uthN and **A**uthZ, open source, good for ADFS.
+* S**P**ML – **S**ervice **P**rovisioning
+* X**AC**ML – Access control (AuthZ but not AuthN)
+* SOAP – messaging over network
+* **SC**AP – **Security Content** (Automation Protocol) – Share threat intel
 
 ## PRivileges
 
-* **P**ermissions - for **P**C (for example, execute permissions on files in Linux)
-* **R**ights - for **R**eal-life (for example, right to bear arms)
+* **P**ermissions – for **P**C (for example, execute permissions on files in Linux)
+* **R**ights – for **R**eal-life (for example, right to bear arms)
 
 * **PR**ivileges = **P**ermissions + **R**ights
 
@@ -653,70 +653,70 @@ Think: Google, Github, Microsoft logon.
 
 Adapted from CISSPrep,
 
-* SOC 1 - **F**inance **F**irst
-* SOC 2 - **T**rust Second/**T**rust is **T**wo
-* SOC 3 - SOC 2 lite for public eyes.
+* SOC 1 – **F**inance **F**irst
+* SOC 2 – **T**rust Second/**T**rust is **T**wo
+* SOC 3 – SOC 2 lite for public eyes.
 
 ## SOC Type
 
-* Type 1 - One point in time
-* Type 2 - Two points - timeline
+* Type 1 – One point in time
+* Type 2 – Two points – timeline
 
 ## COBIT
 
-**C** in **C**OBIT is always in place. **C**OBIT - **Common** objectives for **Common** requirements for **Computer** systems. **COBIT** = **Common**
+**C** in **C**OBIT is always in place. **C**OBIT – **Common** objectives for **Common** requirements for **Computer** systems. **COBIT** = **Common**
 
 ## Testing
 
 ### Functionality
 
-* Functional - use-cases/requirements
-* Non-Functional - stability & performance
+* Functional – use-cases/requirements
+* Non-Functional – stability & performance
 
 ### Knowledge
 
-* Black-box - No knowledge
-* White-box - All knowledge
+* Black-box – No knowledge
+* White-box – All knowledge
 
 ------------------------------
 
-* Gray-box - Black-box + SOME knowledge
+* Gray-box – Black-box + SOME knowledge
 
 ### Target
 
-* Static - Code [Static testing - is a subtype of white-box testing by definition]
-* Dynamic - Runtime
+* Static – Code [Static testing – is a subtype of white-box testing by definition]
+* Dynamic – Runtime
 
 ### Labour
 
-* Unit - Automated 
-* Manual - Manual
+* Unit – Automated 
+* Manual – Manual
 
 ### Coverage
 
-* Use cases - How can it be used
-* Misuse cases - How can it be misused
+* Use cases – How can it be used
+* Misuse cases – How can it be misused
 
 ### DevOps
 
 *Wikipedia is wrong about this one (according to (ISC)² )*
 
-* Regression testing - Is there regression after the last change? Check for regression.
-* Non-regression testing - Did last change have its supposed improvement effect? Check for improvement.
+* Regression testing – Is there regression after the last change? Check for regression.
+* Non-regression testing – Did last change have its supposed improvement effect? Check for improvement.
 
 ### Network access
 
-* Authenticated - intranet
-* Unauthenticated - externally facing targets only
+* Authenticated – intranet
+* Unauthenticated – externally facing targets only
 
 ## Testing coverages
 
-* Test coverage - potential uses
-* Code coverage - % of code executed in tests
-	* Function - **functions** work and return results
-	* Statement - **line** of code
-	* Condition - code executed under every **input**
-	* Branch - every **IF-THEN-ELSE** condition can be executed.
+* Test coverage – potential uses
+* Code coverage – % of code executed in tests
+	* Function – **functions** work and return results
+	* Statement – **line** of code
+	* Condition – code executed under every **input**
+	* Branch – every **IF-THEN-ELSE** condition can be executed.
 
 # Domain 7
 
@@ -744,73 +744,73 @@ Adapted from CISSPrep,
 
 ### By format
 
-* Real - Real physical Objects
-* Documentary - Docs
-* Testimonial - Witness
+* Real – Real physical Objects
+* Documentary – Docs
+* Testimonial – Witness
 
 ### By reliability
 
-* Primary - Originals
-* Secondary - Certified copies
+* Primary – Originals
+* Secondary – Certified copies
 
 ### By quality
 
-* Hearsay - "he said she said" - bad
+* Hearsay – "he said she said" – bad
 
-* Direct - Very good
-* Corroborative - Supportive
+* Direct – Very good
+* Corroborative – Supportive
 
-* Conclusive - so good, that we can adjourn court after it.
+* Conclusive – so good, that we can adjourn court after it.
 
 ## Evidence Rules
 
-* **Best** - Original evidence is **best** (not photocopies)
-* **Parol** - Written signed agreements can only be amended by written signed agreements (not **parol** evidence)
-* **Hearsay** - Anti-**hearsay** evidence rule. Evidence-giver must present themselves and not through a third-party.
+* **Best** – Original evidence is **best** (not photocopies)
+* **Parol** – Written signed agreements can only be amended by written signed agreements (not **parol** evidence)
+* **Hearsay** – Anti-**hearsay** evidence rule. Evidence-giver must present themselves and not through a third-party.
 
 ## Backups
 
 ![image](https://www.ubackup.com/screenshot/en/others/pictures/incremental-vs-differential.png)
 
-* Full - full
-* Differential - diff (**delta**) from full
-* Incremental - increments from last increment, thus there will be: **high quantity of increments** 
+* Full – full
+* Differential – diff (**delta**) from full
+* Incremental – increments from last increment, thus there will be: **high quantity of increments** 
 
 ## Security encounters
 
-* Security Event - Anything worthwhile logging for security. For example: OS reboot, browser crash
-* Security Incident - Whatever breaches security policy and threatens organisation
-* Security Intrusion/Breach - Security defenses breached
+* Security Event – Anything worthwhile logging for security. For example: OS reboot, browser crash
+* Security Incident – Whatever breaches security policy and threatens organisation
+* Security Intrusion/Breach – Security defenses breached
 
 ## Terms
 
-* UCITA - Law governing business transactions
+* UCITA – Law governing business transactions
 * UEBA = Bossware. Whichever boss uses UEBA is an [ueban](https://www.urbandictionary.com/define.php?term=ueban)
 
 ### Media
 
-HSM - Move data from SSD to HDD or LTO to increase MTBF
+HSM – Move data from SSD to HDD or LTO to increase MTBF
 
 ## MTT
 
-* MTTF - Failure
-* MTTR - Repair. Similar to WRT
-* MTBF - Between failures. MTBF = MTTF + MTTR
+* MTTF – Failure
+* MTTR – Repair. Similar to WRT
+* MTBF – Between failures. MTBF = MTTF + MTTR
 
 ## NAS vs SAN
 
 Trick is: to read from right to left,
 
-* NAS - Storage in network
-* SAN - Network of storages
+* NAS – Storage in network
+* SAN – Network of storages
 
 
 ## RAID
 
 ### RAID operations
 
-* Striping - Speed
-* Mirroring - Redundancy
+* Striping – Speed
+* Mirroring – Redundancy
 
 Remember this array,
 
@@ -818,22 +818,22 @@ Remember this array,
 ---- | -----
 S | M
 
-SM - Like "Samsung" or "storage management"
+SM – Like "Samsung" or "storage management"
 
 ### Basic
 
-* RAID 0 - **S**triping - 2x speed
-* RAID 1 - **M**irroring - 2x redundancy
+* RAID 0 – **S**triping – 2x speed
+* RAID 1 – **M**irroring – 2x redundancy
 
 ### Speed over reliability
 
-* RAID 2 - Byte striping for speed
-* RAID 3 - Block striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
+* RAID 2 – Byte striping for speed
+* RAID 3 – Block striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
 
 ### Error-corrective
 
-* RAID 5 - Data and parity striped
-* RAID 6 - Same as RAID 5, but configuration is safer with little overhead over RAID 5
+* RAID 5 – Data and parity striped
+* RAID 6 – Same as RAID 5, but configuration is safer with little overhead over RAID 5
 
 ### Nested
 
@@ -843,28 +843,28 @@ SM - Like "Samsung" or "storage management"
 
 The trick is to read nested RAID from bottom to the top. First digit from the **left** defines the drive level,
 
-* RAID 01 - (At drive level) **0** Striping, (At drive-set level) **1** Mirroring
+* RAID 01 – (At drive level) **0** Striping, (At drive-set level) **1** Mirroring
 
-* RAID 10 - (At drive level) **1** Mirroring, (At drive-set level) **0** Striping
+* RAID 10 – (At drive level) **1** Mirroring, (At drive-set level) **0** Striping
 
 Let's try one more for fun,
 
-* RAID 100 - (At drive level) **1** Mirroring, (At drive-set level) **0** Striping, (At set of drive-sets level) **0** Striping
+* RAID 100 – (At drive level) **1** Mirroring, (At drive-set level) **0** Striping, (At set of drive-sets level) **0** Striping
 
-## Lockheed Martin - Cyber Kill Chain
+## Lockheed Martin – Cyber Kill Chain
 
 
 ### Mnemonic 1: Story
 
 Trojan War gives a good analogy:
 
-1. Recon - Greeks analyse Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
-2. Weaponization - Greeks design and build an exploit - a Trojan Horse
-3. Delivery - Greeks discreetly deliver a Trojan Horse to the Trojan gates
-4. Installation - Trojan Horse is interacted with and installed inside Troy.
-5. Exploitation - Under the cover of the night, the Greek warriors disembark Trojan Horse and walk on small Trojan streets to avoid early detection.
-6. Command & Control - Greeks establish command and control over Troy
-7. Maintain - Greeks take measures to maintain control of the city as well as to seize the treasury of the previous king.
+1. Recon – Greeks analyse Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
+2. Weaponization – Greeks design and build an exploit – a Trojan Horse
+3. Delivery – Greeks discreetly deliver a Trojan Horse to the Trojan gates
+4. Installation – Trojan Horse is interacted with and installed inside Troy.
+5. Exploitation – Under the cover of the night, the Greek warriors disembark Trojan Horse and walk on small Trojan streets to avoid early detection.
+6. Command & Control – Greeks establish command and control over Troy
+7. Maintain – Greeks take measures to maintain control of the city as well as to seize the treasury of the previous king.
 
 ### Mnemonic 2: Shorter story
 
@@ -874,11 +874,11 @@ Recon weaponized, Delivery of exploit, exploit installed, Command and control ma
 
 ## Controls
 
-* (Change-)Request - User can request modifications
-* Change (Control) - Developers can change what they do
-	* Change Advisory Board (CAB) - Approve/reject code changes
-* Configuration - Comply with configuration policies
-* Release - How software's released
+* (Change-)Request – User can request modifications
+* Change (Control) – Developers can change what they do
+	* Change Advisory Board (CAB) – Approve/reject code changes
+* Configuration – Comply with configuration policies
+* Release – How software's released
 
 
 User requests, developer changes, policy configures, software releases
@@ -897,24 +897,24 @@ I segregate into: PFS-DA-TCT-RM
 
 ## Software development methodologies
 
-* Agile - modern, agile dev philosophy. Effective, but not always best.
-	* [Lean](https://global.toyota/en/company/vision-and-philosophy/production-system/) - customer-first, Agile(-like) methodology, formented by Toyota
-	* RAD - Rapid Application Development - Fast, iterative, less planning, adaptive 4 stages.
+* Agile – modern, agile dev philosophy. Effective, but not always best.
+	* [Lean](https://global.toyota/en/company/vision-and-philosophy/production-system/) – customer-first, Agile(-like) methodology, formented by Toyota
+	* RAD – Rapid Application Development – Fast, iterative, less planning, adaptive 4 stages.
 	
 	![RAD model](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RADModel.JPG/320px-RADModel.JPG)
 	---- |
 	**RAD**
 	
-	* JAD - Joint Application Development - RAD with more communication with stakeholders and advisors
+	* JAD – Joint Application Development – RAD with more communication with stakeholders and advisors
 	
-* Waterfall - Traditional. Best, if:
+* Waterfall – Traditional. Best, if:
 	1) Requirements are stringent
 	2) Money isn't a problem
 	3) Stable & secure (therefore quality) software is prioritized
 
 -------------------
 
-* Spiral - Waterfall modification in spiral cycles.
+* Spiral – Waterfall modification in spiral cycles.
 
 ## Waterfall
 
@@ -965,51 +965,51 @@ More practical
 
 ### Concurrency problems
 
-* Dirty Read - Bad **Reading** timing
-* Lost Update - Bad **Writing** Timing
-* Incorrect Summary - Bad **Summation** Timing, see [Tom Scott's video](https://www.youtube.com/watch?v=RY_2gElt3SA)
+* Dirty Read – Bad **Reading** timing
+* Lost Update – Bad **Writing** Timing
+* Incorrect Summary – Bad **Summation** Timing, see [Tom Scott's video](https://www.youtube.com/watch?v=RY_2gElt3SA)
 
 ### SQL Command types
 
-* D**D**L - Data **Definition** language - **Define** (schema)
-* D**Q**L - Data **Query** Language - **Query** (Data)
-* D**M**L - Data **Manipulation** Language - **Manipulate** (data)
-* D**C**L - Data **Control** Language - **Control** (Access). DCL sounds like ACL.
-* **T**CL - **Transaction** Control Language - **Transact**
+* D**D**L – Data **Definition** language – **Define** (schema)
+* D**Q**L – Data **Query** Language – **Query** (Data)
+* D**M**L – Data **Manipulation** Language – **Manipulate** (data)
+* D**C**L – Data **Control** Language – **Control** (Access). DCL sounds like ACL.
+* **T**CL – **Transaction** Control Language – **Transact**
 
 ### Integrity
 
-* **Semantic** - Strings aren't stored in intereger fields
-* **Referential** - Foreign keys correspond to corresponding primary keys
+* **Semantic** – Strings aren't stored in intereger fields
+* **Referential** – Foreign keys correspond to corresponding primary keys
 
 ### AICD
 
-* Atomicity - Transaction are like **binary atoms** - either they happen fully, or don't happen at all.
-* Isolation - Transactions are **isolated** from one another
-* Consistency - Transactions  **consistently** obey integrity rules
-* Durability - Transactions can always be restored to safe-state (with **DuraCELL** batteries_
+* Atomicity – Transaction are like **binary atoms** – either they happen fully, or don't happen at all.
+* Isolation – Transactions are **isolated** from one another
+* Consistency – Transactions  **consistently** obey integrity rules
+* Durability – Transactions can always be restored to safe-state (with **DuraCELL** batteries_
 
 ### Aggregation vs Inference
 
-* Aggregation - **Aggre**ssively collect non-sensitive information to compile sensitive information
-* Inference - **Infer** from non-sensitive information + a guess
+* Aggregation – **Aggre**ssively collect non-sensitive information to compile sensitive information
+* Inference – **Infer** from non-sensitive information + a guess
 
 ## AI
 
 ![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)
 
-* Knowledge systems - Inference (like qualitative risk analysis). Types,
-	* Forward - From Known-inputs to Goal
-	* Backward - From Goal to Known-inputs
+* Knowledge systems – Inference (like qualitative risk analysis). Types,
+	* Forward – From Known-inputs to Goal
+	* Backward – From Goal to Known-inputs
 
-* Machine learning (ML) - Basic algorithms
+* Machine learning (ML) – Basic algorithms
 
-* Neural networks - Like human brain
+* Neural networks – Like human brain
 
 ## Charting
 
-* Gantt chart - like timelines on Wikipedia
-* PERT Chart - Project management modelling
+* Gantt chart – like timelines on Wikipedia
+* PERT Chart – Project management modelling
 
 # Domain 9 (meta-domain)
 
@@ -1042,9 +1042,9 @@ I recommend,
 ## Overall tips
 
 * Read questions multiple times, to decipher what is being asked.
-* If an issue affects both confidentiality and integrity - then it mainly affects confidentiality.
-* If an issue affects Least Privilege and Separation of Duties - then it mainly affects Separation of Duties.
-* Think like a technical manager - not a senior technie.
+* If an issue affects both confidentiality and integrity – then it mainly affects confidentiality.
+* If an issue affects Least Privilege and Separation of Duties – then it mainly affects Separation of Duties.
+* Think like a technical manager – not a senior technie.
 * Order of criticality: Humans > Laws&Regulations > Company > Computer hardware
 * External opinion about security is always more objective than internal.
 * End game matters. Yes, you have an 'amazing' trick to keep your organization secure. Will it still function as expected in 5-10 years?
