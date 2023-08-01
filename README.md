@@ -951,7 +951,7 @@ Similar to common criteria.
 
 ## IDEAL Model
 
-More practical
+*More practical*
 
 * **I**nitiating (everything for Devops)
 * **D**iagnosing (what needs to be fixed/changed)
