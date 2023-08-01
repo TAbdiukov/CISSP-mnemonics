@@ -14,7 +14,7 @@ SLE = AV x EF
 
 ## Laws and regulations
 
-* SOX (Sarbanes Oxley, 2002) – [say in British accent] ENRON really SOX. It's transaction flow really SOX.
+* SOX (Sarbanes Oxley, 2002) – [say in British accent] ENRON really SOX. Its transaction flow really SOX.
 
 * Gramm-Leach-Bliley Act (GLBA) – banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)  
 
@@ -36,13 +36,13 @@ However, student ID leak won't trigger data breach laws.
 
 	Note: PCI DS**S** is a **Standard**, not a law.
 
-* Digital Millenium **Copyright** Act (DMCA) – **Copyright**. Who hadn't heard of the DMCA strikes on Youtube? 
+* Digital Millenium **Copyright** Act (DMCA) – **Copyright**. Who hadn't heard of the DMCA strikes on YouTube? 
 
 ### U.S. Privacy
 
 * 4th Amendment in American Constitution grants right to privacy
 
-* Computer Fraud and Abuse Act – CFAA 1986 – **First** major legistlation to fight cybercrime. Think: **CFAA – F for First**.
+* Computer Fraud and Abuse Act – CFAA 1986 – **First** major legislation to fight cybercrime. Think: **CFAA – F for First**.
 
 #### ECPA, CALEA, USA PATRIOT Act
 
@@ -85,7 +85,7 @@ Think of ECPA and CALEA – as a seed and a flower. Yes, calea is a plant, but l
 
 ## Security and Risk in the U.S.
 
-* US**PT**O – **P**atents and **T**rademarks – (US Parent & Trademark Office)
+* US**PT**O – **P**atents and **T**rademarks – (U.S. Patent & Trademark Office)
 * LO**C** – **C**opyright – (Library of Congress)
 * **Bank** – **bank**ing breach – (per PCI DSS)
 
@@ -94,7 +94,7 @@ Think of ECPA and CALEA – as a seed and a flower. Yes, calea is a plant, but l
 
 ## Law in general
 
-* Administrative – internal within organisation, no set standard
+* Administrative – internal within organization, no set standard
 * Civil – Civil litigation, preponderance of evidence standard
 * Regulatory – Charges brought by regulatory bodies, substantial evidence standard
 * Criminal – Charges by law enforcement, beyond the reasonable doubt standard
@@ -112,11 +112,11 @@ Risk = Threat x Vulnerability
 * **In**herent – **In**itial risk **in**put before treatment
 * **Re**sidual – **Re**maining risk **residing** after treatment
 
-## Qualitative & quatitative risk analysis
+## Qualitative & quantitative risk analysis
 
-(no memory device here, more of an explanation)
+*(No memory device here, more of an explanation)*
 
-* Qualitative – based on guestimates, inference and basic algoriths e.g. FAIR method (probability / impact) or ALE CAUSES AROSLE. Best for hard-to-quantify intangible assets.
+* Qualitative – based on guestimates, inference and basic algorithms e.g., FAIR method (probability / impact) or ALE CAUSES AROSLE. Best for hard-to-quantify intangible assets.
 
 * Quantitative – **better**, based on experience and statistics
 
@@ -177,7 +177,7 @@ DC I DD PP
 
 1) Project Planning and Development
 2) Data collection
-3) Criticalicality Assessment
+3) Criticality Assessment
 4) Vulnerability assessment
 
 ## Recovery acronyms
@@ -236,7 +236,7 @@ Cow Pig Sow; CPSOW, **Clearing Can, Purging is Permanent, Sanitizing Same, Overw
 ## Scoping, tailoring and supplementation
 
 * Scoping – removing security controls that don't apply in your particular case. 
-* Tailoring – tweaking little details of applied security controls to better suit your organisation.
+* Tailoring – tweaking little details of applied security controls to better suit your organization.
 * Supplementation – Specify used product names. For example, replace "OS" with "Windows".
 
 There are two mnemonic devices.
@@ -779,7 +779,7 @@ Adapted from CISSPrep,
 ## Security encounters
 
 * Security Event – Anything worthwhile logging for security. For example: OS reboot, browser crash
-* Security Incident – Whatever breaches security policy and threatens organisation
+* Security Incident – Whatever breaches security policy and threatens organization
 * Security Intrusion/Breach – Security defenses breached
 
 ## Terms
