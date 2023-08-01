@@ -797,7 +797,7 @@ HSM (Hierarchical Storage Management, not Hardware Security Module) – Move dat
 
 ## NAS vs SAN
 
-Trick is: to read from right to left,
+**Trick**: to read from right to left,
 
 * NAS – Storage in network
 * SAN – Network of storages
