@@ -1016,15 +1016,15 @@ Somewhat reminiscent of common criteria.
 
 ## Regarding sources
 
-No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due dilligence vs due care, DR). The *trick* is to consult multiple sources.
+No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due diligence vs due care, DR). The *trick* is to consult multiple sources.
 
 This set of mnemonics, like any other set, probably only covers 40% of all exam topics. For the remainer 60%, you need to study books. The mnemonics are a **result** of thorough studies, not a replacement of studies.
 
-Also, try to make multiple mental connections to the CISSP topics. Through experience, language (like "Zero KODU"), cursing etc. Don't be that guy, who passed CISSP and forgot what Bell-LaPadula is. During the exam, it's one too easy not to remember something, and I could answer some of the hard questions through thoroughly mentally consulting the topics I studied
+Also, try to make multiple mental connections to the CISSP topics. Through experience, language (like "Zero KODU"), cursing etc. Don't be that guy, who passed CISSP and forgot what Bell-LaPadula is. During the exam, it's one too easy not to remember something, and I could answer some of the hard questions through thoroughly mentally consulting the topics I studied.
 
 For CISSP, the right way is (ISC)² way (and to give credit, they are *at least* almost always right). 
 
-CISSP mnemonics do not, and cannot, replace going through all of the CISSP topics.
+CISSP mnemonics do not, and cannot, replace going through all CISSP topics.
 
 I recommend,
 
@@ -1049,7 +1049,7 @@ I recommend,
 * End game matters. Yes, you have an 'amazing' trick to keep your organization secure. Will it still function as expected in 5-10 years?
 
 
-## (ISC)² Code Of Ethics
+## (ISC)² Code of Ethics
 
 ### Code
 
@@ -1080,7 +1080,7 @@ Story of a "PAPA" man following Code
 ![Provide](https://cdn1.iconfinder.com/data/icons/actions-alphabet-i-set-3-of-10/231/actions-I-3-3-128.png)
 ![Advance](https://cdn4.iconfinder.com/data/icons/positive-character-traits-alphabet-c-part-2/325/positive-Cset2003-128.png)
 
-(icons from Iconfinder, used for educational purposes)
+*(icons from Iconfinder, used for educational purposes)*
 
 ## You got this.
 
