@@ -298,9 +298,9 @@ C | Circuits, [CRT](https://youtu.be/7dPSF8UWX90?t=1100)
 D | Dent, Dural, Duraluminium
 K | Kitchen
 
-## Electicity Issues
+## Electricity Issues
 
-### NO electricity
+### NO Electricity
 
 * Fault – short – **(Technical) Faults don't last forever**
 * Blackout – (obviously) long
@@ -310,7 +310,7 @@ K | Kitchen
 * Sag – short-term – sag even sounds short – sag sac
 * Brownout – alike to blackout – long-term
 
-### HI Electrinity
+### HI Electricity
 
 * Spike – Spikes are momentary
 * Surge – Like in**surgencies**, they can last long!
