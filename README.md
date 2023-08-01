@@ -1,6 +1,6 @@
 # CISSP-YA-mnemonics
 
-Yet another set of CISSP mnemonics
+Yet another set of CISSP mnemonics.
 
 # Domain 1
 
