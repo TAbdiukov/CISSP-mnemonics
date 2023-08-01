@@ -978,15 +978,15 @@ Somewhat reminiscent of common criteria.
 
 ### Integrity
 
-* **Semantic** – Strings aren't stored in intereger fields
+* **Semantic** – Strings mustn't be stored in integer fields
 * **Referential** – Foreign keys correspond to corresponding primary keys
 
 ### AICD
 
-* Atomicity – Transaction are like **binary atoms** – either they happen fully, or don't happen at all.
+* Atomicity – Transactions are like **binary atoms** – either they happen fully, or don't happen at all.
 * Isolation – Transactions are **isolated** from one another
-* Consistency – Transactions  **consistently** obey integrity rules
-* Durability – Transactions can always be restored to safe-state (with **DuraCELL** batteries_
+* Consistency – Transactions **consistently** obey integrity rules
+* Durability – Transactions can always be restored to safe-state (with **DuraCELL** batteries)
 
 ### Aggregation vs Inference
 
