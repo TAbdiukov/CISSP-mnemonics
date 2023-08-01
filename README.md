@@ -735,10 +735,8 @@ Adapted from CISSPrep,
 5) Archive
 6) Destroy
 
-
 * Letters: CS US AD
 * Mnemonic: CompSci (of) US (created) ActiveDirectory
-
 
 ## Evidence
 
