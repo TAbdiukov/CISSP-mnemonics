@@ -212,7 +212,7 @@ DC I DD PP
 
 CISSPrep has a great mnemonic,
 
-To memorize this, repeat the phrase “Cow, Pig, Sow,” or “CP SOW.”  Repeat it again and think of a farm you visited or one that you saw in a movie.  Now repeat the following mnemonic:
+To memorize this, repeat the phrase “Cow, Pig, Sow,” or “CP SOW.”  Repeat it again and think of a farm you visited or one that you saw in a movie. Now repeat the following mnemonic:
 
 * **C**learing Can (be recovered)
 
@@ -224,7 +224,7 @@ To memorize this, repeat the phrase “Cow, Pig, Sow,” or “CP SOW.”  Repea
 
 * **W**iping is **W**riting (overwriting, that is)
 
-Notice how the letters match to help you remember.  It seems silly, yes, but this is the key.  
+Notice how the letters match to help you remember. It seems silly, yes, but this is the key.  
 
 So here’s the phrase to keep repeating, once again:
 
