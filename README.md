@@ -937,7 +937,7 @@ I segregate into: PFS-DA-TCT-RM
 
 SoftWare Capability Maturity Model
 
-Somewhat reminiscent of common criteria.
+Similar to common criteria.
 
 **Mnemonic**: IRDMO (THIRDMOON [of SW-CMM hell])
 
