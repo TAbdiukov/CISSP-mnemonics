@@ -802,7 +802,6 @@ HSM (Hierarchical Storage Management, not Hardware Security Module) – Move dat
 * NAS – Storage in network
 * SAN – Network of storages
 
-
 ## RAID
 
 ### RAID operations
