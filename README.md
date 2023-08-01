@@ -36,7 +36,7 @@ However, student ID leak won't trigger data breach laws.
 
 	Note: PCI DS**S** is a **Standard**, not a law.
 
-* Digital Millenium **Copyright** Act (DMCA) – **Copyright**. Who hadn't heard of the DMCA strikes on YouTube? 
+* Digital Millenium **Copyright** Act (DMCA) – **Copyright**. Who hadn't heard of the DMCA strikes on Youtube? 
 
 ### U.S. Privacy
 
