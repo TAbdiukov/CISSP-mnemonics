@@ -953,7 +953,7 @@ Similar to common criteria.
 
 *More practical*
 
-* **I**nitiating (everything for Devops)
+* **I**nitiating (everything for DevOps)
 * **D**iagnosing (what needs to be fixed/changed)
 * **E**stablishing (plan)
 -------------------------
