@@ -995,7 +995,7 @@ Somewhat reminiscent of common criteria.
 
 ## AI
 
-![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)
+![Maze for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)
 
 * Knowledge systems – Inference (like qualitative risk analysis). Types,
 	* Forward – From Known-inputs to Goal
