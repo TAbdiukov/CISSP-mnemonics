@@ -687,7 +687,7 @@ Adapted from CISSPrep,
 * Static – Code [Static testing – is a subtype of white-box testing by definition]
 * Dynamic – Runtime
 
-### Labour
+### Labor
 
 * Unit – Automated 
 * Manual – Manual
