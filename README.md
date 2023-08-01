@@ -880,7 +880,7 @@ Recon weaponized, Delivery of exploit, exploit installed, Command and control ma
 * Release – How software's released
 
 
-User requests, developer changes, policy configures, software releases
+User requests, developer changes, policy configures, software releases.
 
 Ur DC PC SR
 
