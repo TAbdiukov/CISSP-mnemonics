@@ -857,7 +857,7 @@ Let's try one more for fun,
 
 Trojan War gives a good analogy:
 
-1. Recon – Greeks analyse Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
+1. Recon – Greeks analyze Trojan city, culture, forces to find vulnerabilities, and find that Trojans are superstitious.
 2. Weaponization – Greeks design and build an exploit – a Trojan Horse
 3. Delivery – Greeks discreetly deliver a Trojan Horse to the Trojan gates
 4. Installation – Trojan Horse is interacted with and installed inside Troy.
