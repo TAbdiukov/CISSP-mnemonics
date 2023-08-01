@@ -1007,7 +1007,7 @@ Somewhat reminiscent of common criteria.
 
 ## Charting
 
-* Gantt chart – like timelines on Wikipedia
+* Gantt chart – Like timelines on Wikipedia
 * PERT Chart – Project management modelling
 
 # Domain 9 (meta-domain)
