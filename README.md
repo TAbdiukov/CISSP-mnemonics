@@ -702,7 +702,7 @@ Adapted from CISSPrep,
 *Wikipedia is wrong about this one (according to (ISC)² )*
 
 * Regression testing – Is there regression after the last change? Check for regression.
-* Non-regression testing – Did last change have its supposed improvement effect? Check for improvement.
+* Non-regression testing – Did last change have its supposed & intended improvement effect? Check for improvement.
 
 ### Network access
 
