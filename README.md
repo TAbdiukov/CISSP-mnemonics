@@ -787,7 +787,7 @@ Adapted from CISSPrep,
 
 ### Media
 
-HSM – Move data from SSD to HDD or LTO to increase MTBF
+HSM (Hierarchical Storage Management, not Hardware Security Module) – Move data from SSD to HDD or LTO to increase MTBF
 
 ## MTT
 
