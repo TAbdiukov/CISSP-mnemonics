@@ -407,7 +407,7 @@ Recall [Star-Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
 > What so proudly we hailed  
 > **At the twilights last gleaming?**  
 
-What colour comes to mind?
+What color comes to mind?
 
 ![Twilight USA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg/320px-Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg)
 
@@ -586,6 +586,8 @@ Mnemonic device: This information is VERY obvious, so what do I say? Of Course! 
 * Open – Worst
 * Filtered – OK
 * Closed – Best
+
+# MENTAL NOTE - DOMAIN 4 IS OK
 
 # Domain 5
 
