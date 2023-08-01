@@ -937,7 +937,7 @@ I segregate into: PFS-DA-TCT-RM
 
 SoftWare Capability Maturity Model
 
-Similar to common criteria.
+Somewhat reminiscent of common criteria.
 
 **Mnemonic**: IRDMO (THIRDMOON [of SW-CMM hell])
 
@@ -971,9 +971,9 @@ Similar to common criteria.
 ### SQL Command types
 
 * D**D**L – Data **Definition** language – **Define** (schema)
-* D**Q**L – Data **Query** Language – **Query** (Data)
+* D**Q**L – Data **Query** Language – **Query** (data)
 * D**M**L – Data **Manipulation** Language – **Manipulate** (data)
-* D**C**L – Data **Control** Language – **Control** (Access). DCL sounds like ACL.
+* D**C**L – Data **Control** Language – **Control** (access). DCL sounds like ACL.
 * **T**CL – **Transaction** Control Language – **Transact**
 
 ### Integrity
