@@ -345,11 +345,11 @@ What is **not** environmentally enforceable: AuthN.
  
 ## IPSec
 
-So to remember IPSec, one needs to remember the following memory device: "IPSec is 2". What is 2?
+To remember IPSec, one needs to remember the following memory device: "IPSec is 2". What is 2?
 
 * 2 of IPSec: **IP** + **Sec**
 
-* 2 of Encapsulating Security Payload (ESP): **Confidentality** + **Integrity**
+* 2 of Encapsulating Security Payload (ESP): **Confidentiality** + **Integrity**
 * 2 of **Authentication** header (AH): "**Authentication**" + **Integrity**
 
 ## System Modes
