@@ -587,8 +587,6 @@ Mnemonic device: This information is VERY obvious, so what do I say? Of Course! 
 * Filtered – OK
 * Closed – Best
 
-# MENTAL NOTE - DOMAIN 4 IS OK
-
 # Domain 5
 
 ## Must-know
