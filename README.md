@@ -593,7 +593,7 @@ Mnemonic device: This information is VERY obvious, so what do I say? Of Course! 
 
 Quote from ~~[DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemonics)~~ ([mirror](https://github.com/khwajaimran/CISSP-Mnemonics))
 
-* Retinal scan is most intrusive to privacy  (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
+* Retinal scan is most intrusive to privacy (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
 
 * Using a condom is **due care**, taking the steps to decide whether to use the condom is **due diligence**. (Source: Luke Ahmed)
 
