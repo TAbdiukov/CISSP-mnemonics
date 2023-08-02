@@ -1018,7 +1018,7 @@ Somewhat reminiscent of common criteria.
 
 No source is perfect, including this one. Everyone makes mistakes, and I witnessed several contradicting opinions online about some hot topics (especially about Access Control Models, due diligence vs due care, DR). The *trick* is to consult multiple sources.
 
-This set of mnemonics, like any other set, probably only covers 40% of all exam topics. For the remainer 60%, you need to study books. The mnemonics are a **result** of thorough studies, not a replacement of studies.
+This set of mnemonics, like any other set, probably only covers 40% of all exam topics. For the remainder 60%, you need to study books. The mnemonics are a **result** of thorough studies, not a replacement of studies.
 
 Also, try to make multiple mental connections to the CISSP topics. Through experience, language (like "Zero KODU"), cursing etc. Don't be that guy, who passed CISSP and forgot what Bell-LaPadula is. During the exam, it's one too easy not to remember something, and I could answer some of the hard questions through thoroughly mentally consulting the topics I studied.
 
@@ -1043,7 +1043,7 @@ I recommend,
 * Read questions multiple times, to decipher what is being asked.
 * If an issue affects both confidentiality and integrity – then it mainly affects confidentiality.
 * If an issue affects Least Privilege and Separation of Duties – then it mainly affects Separation of Duties.
-* Think like a technical manager – not a senior technie.
+* Think like a technical manager – not a senior techie.
 * Order of criticality: Humans > Laws&Regulations > Company > Computer hardware
 * External opinion about security is always more objective than internal.
 * End game matters. Yes, you have an 'amazing' trick to keep your organization secure. Will it still function as expected in 5-10 years?
