@@ -18,13 +18,13 @@ SLE = AV x EF
 
 * Gramm-Leach-Bliley Act (GLBA) – banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)  
 
-![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
+	![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
 
 * COPPA – Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
 * FERPA – Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
 
-![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
+	![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
 However, student ID leak won't trigger data breach laws.
 
@@ -182,7 +182,7 @@ DC I DD PP
 
 * RPO – Recovery **Point** Objective – time period: From last (known good) scheduled backup to disaster (from past to present). **Point** – think about last known good configuration for Windows,
 
-![XP](https://social.technet.microsoft.com/Forums/getfile/931978)
+	![XP](https://social.technet.microsoft.com/Forums/getfile/931978)
 
 * RTO – Recovery **Time** Objective – time period: from disaster to recovery, if all goes well (from present to the future).
 
@@ -815,7 +815,7 @@ S | M
 
 SM – Like "Samsung" or "storage management"
 
-![Samsung old-style logo](https://upload.wikimedia.org/wikipedia/commons/archive/2/24/20170808112701%21Samsung_Logo.svg)
+	![Samsung old-style logo](https://upload.wikimedia.org/wikipedia/commons/archive/2/24/20170808112701%21Samsung_Logo.svg)
 
 ### Basic
 
