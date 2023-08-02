@@ -212,7 +212,7 @@ DC I DD PP
 
 CISSPrep has a great mnemonic,
 
-To memorize this, repeat the phrase “Cow, Pig, Sow,” or “CP SOW.”  Repeat it again and think of a farm you visited or one that you saw in a movie. Now repeat the following mnemonic:
+To memorize this, repeat the phrase “Cow, Pig, Sow,” or “CP SOW.” Repeat it again and think of a farm you visited or one that you saw in a movie. Now repeat the following mnemonic:
 
 * **C**learing Can (be recovered)
 
@@ -228,7 +228,7 @@ Notice how the letters match to help you remember. It seems silly, yes, but this
 
 So here’s the phrase to keep repeating, once again:
 
-Cow Pig Sow; CPSOW, **Clearing Can, Purging is Permanent, Sanitizing Same, Overwriting Oh’s, Wiping is Writing.**  Repeat this over and over, and consider copying it onto a memorization sheet.
+Cow Pig Sow; CPSOW, **Clearing Can, Purging is Permanent, Sanitizing Same, Overwriting Oh’s, Wiping is Writing.** Repeat this over and over, and consider copying it onto a memorization sheet.
 
 
 
