@@ -18,7 +18,7 @@ SLE = AV x EF
 
 * Gramm-Leach-Bliley Act (GLBA) – banks, lenders, insurance. Think about some **fat banker** Gramm (or Graham)  
 
-	![Banker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Banker%2C_by_Isidor_Kaufmann.jpg/201px-The_Banker%2C_by_Isidor_Kaufmann.jpg)
+	![Banker](https://upload.wikimedia.org/wikipedia/commons/9/9c/Agustin_Carstens.jpg)
 
 * COPPA – Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
