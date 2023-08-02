@@ -26,7 +26,7 @@ SLE = AV x EF
 
 	![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
-However, student ID leak won't trigger data breach laws.
+	However, student ID leak won't trigger data breach laws.
 
 * **GISMA – Superseded by FISMA** in 2000
 
