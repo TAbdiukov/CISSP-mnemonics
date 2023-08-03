@@ -445,7 +445,7 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 An amazing mnemonic from CISSPrep,
 
-The TCP/IP model on the right side can be memorized by saying/writing “**N2, A3**,” with “IT” in the middle, or “**NitA**”, which could be someone’s name.  
+> The TCP/IP model on the right side can be memorized by saying/writing “**N2, A3**,” with “IT” in the middle, or “**NitA**”, which could be someone’s name.  
 
 **NOTE**: The mnemonic is to apply from bottom to the top.
 
