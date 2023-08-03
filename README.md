@@ -244,7 +244,7 @@ There are two mnemonic devices.
 Think about a digital telescope pointing at the stars. 
 
 * When you **Scope**, you zoom-in, and you **no longer see stars you are not interested in**
-* When you **Tailor**, you **tweak your zoom to see stars clearer**  
+* When you **Tailor**, you **tweak your zoom to see stars clearer**
 * When you **Supplement**, you take a photo of the galaxy, print it out, and then in the photo, **circle and name each star with a pen**.
 
 ### Second
@@ -317,7 +317,9 @@ K | Kitchen
 
 * Natural **Access Control** – Fences to enforce authZ
 * Natural **Surveillance** – Remove trees so nobody can hide over trees 
-* Natural **Territorial Reinforcement** – Large windows to asset surveillance  
+* Natural **Territorial Reinforcement** – Large windows to asset surveillance
+
+-----------------------
 
 What is **not** environmentally enforceable: AuthN.
 
@@ -369,7 +371,7 @@ NDA → Clearance → Formal Approval → Need-to-know
 NC→F→N -> NoiCy FaN [in the background]
 
 Example: Compartmented – NDA for ALL info, Clearance for ALL information, Formal approval for SOME information, Need-to-know for some information.
-  
+
 ## Access Control Models
 
 * **D**iscretionary – **D**ata owner **d**iscerns **d**irectly. [thus ACLs are in use]
