@@ -72,9 +72,9 @@ Think of ECPA and CALEA – as a seed and a flower. Yes, calea is a plant, but l
 
 * GDPR – EU Privacy Laws – cause cookie banners
 
-![Thanks GDPR](https://www.cookiebot.com/media/4333/consent_en.png) |
----- |
-~~#ThanksObama~~ #ThanksGDPR
+	![Thanks GDPR](https://www.cookiebot.com/media/4333/consent_en.png) |
+	---- |
+	~~#ThanksObama~~ #ThanksGDPR
 
 ### Extras
 
