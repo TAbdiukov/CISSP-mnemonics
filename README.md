@@ -86,7 +86,7 @@ Think of ECPA and CALEA – as a seed and a flower. Yes, calea is a plant, but l
 * US**PT**O – **P**atents and **T**rademarks – (U.S. Patent & Trademark Office)
 * LO**C** – **C**opyright – (Library of Congress)
 * **Bank** – **bank**ing breach – (per PCI DSS)
-
+-----------------------
 * U.S. **C**ode(x) – **C**riminal and **C**ivil Law
 * Code of **Federal** Regulations – Administrative Law on Federal scale
 
@@ -115,9 +115,7 @@ Risk = Threat x Vulnerability
 *(No memory device here, more of an explanation)*
 
 * Qualitative – based on guestimates, inference and basic algorithms e.g., FAIR method (probability / impact) or ALE CAUSES AROSLE. Best for hard-to-quantify intangible assets.
-
 * Quantitative – **better**, based on experience and statistics
-
 * Combination – balanced
 
 ## Risk – RMF – NIST SP 800-37
