@@ -900,9 +900,9 @@ I segregate into: PFS-DA-TCT-RM
 	* [Lean](https://global.toyota/en/company/vision-and-philosophy/production-system/) – customer-first, Agile(-like) methodology, fermented by Toyota
 	* RAD – Rapid Application Development – Fast, iterative, less planning, adaptive 4 stages.
 	
-	![RAD model](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RADModel.JPG/320px-RADModel.JPG)
-	---- |
-	**RAD**
+		![RAD model](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RADModel.JPG/320px-RADModel.JPG)
+		---- |
+		**RAD**
 	
 	* JAD – Joint Application Development – RAD with more communication with stakeholders and advisors
 	
