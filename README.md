@@ -754,10 +754,10 @@ Adapted from CISSPrep,
 ### By quality
 
 * Hearsay – "he said she said" – bad
-
+------------------------------
 * Direct – Very good
 * Corroborative – Supportive
-
+------------------------------
 * Conclusive – so good, that we can adjourn court after it.
 
 ## Evidence Rules
