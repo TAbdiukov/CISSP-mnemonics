@@ -226,9 +226,6 @@ So here’s the phrase to keep repeating, once again:
 
 Cow Pig Sow; CPSOW, **Clearing Can, Purging is Permanent, Sanitizing Same, Overwriting Oh’s, Wiping is Writing.** Repeat this over and over, and consider copying it onto a memorization sheet.
 
-
-
-
 ## Scoping, tailoring and supplementation
 
 * Scoping – removing security controls that don't apply in your particular case. 
@@ -332,12 +329,12 @@ What is **not** environmentally enforceable: AuthN.
 
 * **Ass**urance – **Ass**ert (security of product)
 * **C**ertification – **C**ompliance according to **c**ompany's **c**ompliance security officer. Certification is towards assurance.
-
+-----------------------
 * **Ver**ification – Third-party obser**ver**'s report. For example, when you register on a website, you "Verify your email" by receiving an email on a third-party email server (not blacklisted by the website admins). 
 * **Val**idate – (drink **val**ium to perform sanity check) [valium=diazepam]
-
+-----------------------
 * **Acc**reditation – **Ac**e's **C**ompliance (senior manager)
-
+-----------------------
 * **Accept**ance – **Accept**
 
  
@@ -360,7 +357,6 @@ M → C → S → D
 Make up a story, e.g. "MC gives you a porn SD card."
 
 ![128gb](https://i.ytimg.com/vi/BrcBKpE9aQg/mqdefault.jpg)
-
 
 Progression of requirements for ALL information (therefore, next entry would apply for SOME information),
 
@@ -458,7 +454,6 @@ Taken from [Reddit](https://www.reddit.com/r/cissp/comments/tw10js/comment/i3cks
 * Frames – Data-link layer
 * Bits – Physical layer
 
-
 ## Authentication protocols
 
 *(typically)*
@@ -546,7 +541,7 @@ Bluetooth "authZ" is 4-digits.
 
 ## internet storage
 
-* FCoE – Fiber and maybe Ethernet
+* FCoE – Fiber and rarely Ethernet
 * iSCSI – IP/Ethernet 
 
 ## RFC 1918 (Private) IP ranges
@@ -575,7 +570,6 @@ Memory device – They are in alphabetic order,
 * 20-21 – FTP
 * 22 – SSH
 * 23 – Telnet
-
 
 ## Port status
 
@@ -850,7 +844,6 @@ Let's try one more for fun,
 
 ## Lockheed Martin – Cyber Kill Chain
 
-
 ### Mnemonic 1: Story
 
 Trojan War gives a good analogy:
@@ -876,7 +869,6 @@ Recon weaponized, Delivery of exploit, exploit installed, Command and control ma
 	* Change Advisory Board (CAB) – Approve/reject code changes
 * Configuration – Comply with configuration policies
 * Release – How software's released
-
 
 User requests, developer changes, policy configures, software releases.
 
@@ -1037,7 +1029,6 @@ I recommend,
 * ~~[DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemonics)~~ ([mirror](https://github.com/khwajaimran/CISSP-Mnemonics))
 * [TheRealBenForce/cissp-mnemonics](https://github.com/TheRealBenForce/cissp-mnemonics)
 
-
 ## Overall tips
 
 * Read questions multiple times, to decipher what is being asked.
@@ -1047,7 +1038,6 @@ I recommend,
 * Order of criticality: Humans > Laws&Regulations > Company > Computer hardware
 * External opinion about security is always more objective than internal.
 * End game matters. Yes, you have an 'amazing' trick to keep your organization secure. Will it still function as expected in 5-10 years?
-
 
 ## (ISC)² Code of Ethics
 
