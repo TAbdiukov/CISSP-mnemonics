@@ -23,9 +23,10 @@ SLE = AV x EF
 
 * FERPA – Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
 
-	![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
+![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
 
-	However, student ID leak won't trigger data breach laws.
+However, student ID leak won't trigger data breach laws.
+
 
 * **GISMA – Superseded by FISMA** in 2000
 
