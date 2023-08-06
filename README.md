@@ -22,10 +22,8 @@ SLE = AV x EF
 * COPPA – Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
 * FERPA – Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
-
-![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
-
-However, student ID leak won't trigger data breach laws.
+	![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)
+	*However, student ID leak won't trigger data breach laws.*
 
 
 * **GISMA – Superseded by FISMA** in 2000
