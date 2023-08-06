@@ -514,7 +514,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 * PPP (point-to-point protocol) – IP over telephone
 
-![DialUpPPP](https://sites.radford.edu/~helpdesk/ppp/95gifs/Welcome.gif)
+	![DialUpPPP](https://sites.radford.edu/~helpdesk/ppp/95gifs/Welcome.gif)
 
 ### Authentication protocols (AP's)
 
