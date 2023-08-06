@@ -435,7 +435,7 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 ### TCP/IP Model
 
-![Difference](https://adriancitu.files.wordpress.com/2012/10/osivstcp.jpg)
+* ![Difference](https://adriancitu.files.wordpress.com/2012/10/osivstcp.jpg)  
 
 An amazing mnemonic from CISSPrep,
 
