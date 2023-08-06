@@ -826,8 +826,8 @@ SM – Like "Samsung" or "storage management",
 
 ### Nested
 
-![raid-100](https://hardwaresfera.com/wp-content/uploads/2021/02/raid-100.jpg)
-
+![raid-100](https://hardwaresfera.com/wp-content/uploads/2021/02/raid-100.jpg) |
+---- |
 *RAID 100*
 
 The trick is to read nested RAID from bottom to the top. First digit from the **left** defines the drive level,
