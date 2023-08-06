@@ -9,7 +9,7 @@ Yet another set of CISSP mnemonics.
 [ALE = ARO x SLE](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
 ALE CAUSES AROSLE  
 
-(up my) SLEAV-EF
+(up my) SLEAV-EF  
 SLE = AV x EF  
 
 ## Laws and regulations
