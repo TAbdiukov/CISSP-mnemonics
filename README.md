@@ -807,8 +807,8 @@ Remember this array,
 ---- | -----
 S | M
 
-SM – Like "Samsung" or "storage management",
-![Samsung old-style logo](https://upload.wikimedia.org/wikipedia/commons/archive/2/24/20170808112701%21Samsung_Logo.svg)\
+SM – Like "Samsung" or "storage management",  
+![Samsung old-style logo](https://upload.wikimedia.org/wikipedia/commons/archive/2/24/20170808112701%21Samsung_Logo.svg)
 
 ### Basic
 
