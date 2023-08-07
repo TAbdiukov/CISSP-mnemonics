@@ -1,4 +1,4 @@
-# CISSP-YA-mnemonics
+# CISSP-YA-Mnemonics
 
 Yet another set of CISSP mnemonics.
 
