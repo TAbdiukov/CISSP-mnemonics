@@ -21,7 +21,7 @@ SLE = AV x EF
 
 * COPPA – Protects minors 13 or younger online. If you are an **online pedo**, then you **cop it**
 
-* FERPA – Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!
+* FERPA – Protects Student data for over 18. Think about Phineas and **FerP**. They have to grow up eventually and go to college. It would be really unfortunate for Phineas and **FerP** fans if **FerP**'s student card is leaked to public!  
 	![Ferp grown up imagery](https://i.imgur.com/9EmTji7m.jpg)  
 	*However, student ID leak won't trigger data breach laws.*
 
@@ -133,7 +133,7 @@ Mnemonic: Risk T.V.
 
 PC SIA AM (PC of SIA in ArMenia)
 
-[For SIA to run a rogue PC in Armenia is pretty RISKy]
+For SIA to run a rogue PC in Armenia is pretty RISKy  
 
 ![https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg](https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg)
 
@@ -175,7 +175,7 @@ DC I DD PP
 
 ## Recovery acronyms
 
-* RPO – Recovery **Point** Objective – time period: From last (known good) scheduled backup to disaster (from past to present). **Point** – think about last known good configuration for Windows,
+* RPO – Recovery **Point** Objective – time period: From last (known good) scheduled backup to disaster (from past to present). **Point** – think about last known good configuration for Windows,  
 
 	![XP](https://social.technet.microsoft.com/Forums/getfile/931978)
 
@@ -351,7 +351,7 @@ From least secure to most secure:
 Multilevel → Compartmented → System-High → Dedicated  
 M → C → S → D 
 
-Make up a story, e.g. "MC gives you a porn SD card."
+Make up a story, e.g. "MC gives you a porn SD card."  
 
 ![128gb](https://i.ytimg.com/vi/BrcBKpE9aQg/mqdefault.jpg)
 
@@ -387,7 +387,7 @@ Example: Compartmented – NDA for ALL info, Clearance for ALL information, Form
 ## TSSEC, ITSEC, Common Criteria
 
 ### TSSEC
-* TSSEC – "Orange book" – U.S. Standard 
+* TSSEC – "Orange book" – U.S. Standard  
 
 ![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)
 
@@ -398,7 +398,7 @@ Recall [Star-Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
 > What so proudly we hailed  
 > **At the twilights last gleaming?**  
 
-What color comes to mind?
+What color comes to mind?  
 
 ![Twilight USA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg/320px-Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg)
 
@@ -510,7 +510,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 [Dial-Up refresher](https://www.dialupsound.com/)
 
-* PPP (point-to-point protocol) – IP over telephone
+* PPP (point-to-point protocol) – IP over telephone  
 
 	![DialUpPPP](https://sites.radford.edu/~helpdesk/ppp/95gifs/Welcome.gif)
 
@@ -556,7 +556,7 @@ Easy trick: class letter defines the number of 255's from left to right. For exa
 * Fraggle – [CHARGEN](https://www.youtube.com/watch?v=D0mXoF7dHVA)
 * Smurf – ICMP
 
-Fragile CHARGE, Smurf Is CIMP
+Fragile CHARGE, Smurf Is CIMP  
 
 ![simp](https://static.wikia.nocookie.net/smurfs/images/2/29/Enamoredsmurf.gif)
 
@@ -925,7 +925,7 @@ SoftWare Capability Maturity Model
 
 Somewhat reminiscent of common criteria.
 
-**Mnemonic**: IRDMO (THIRDMOON [of SW-CMM hell])
+**Mnemonic**: IRDMO (THIRDMOON [of SW-CMM hell])  
 
 ![Moon](https://techstray.com/wp-content/uploads/2020/05/LSD-Dream-Emulator.jpg)
 
