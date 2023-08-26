@@ -255,7 +255,7 @@ Think about a digital telescope pointing at the stars.
 
 ### Information flow security models
 
-![Brewer Tea](https://d27pcll2dx97vv.cloudfront.net/info/wp-content/uploads/2011/12/Brew-the-Famous-Chinese-Bi-Luo-Chun.jpg)
+![Brewer Tea](https://d27pcll2dx97vv.cloudfront.net/info/wp-content/uploads/2011/12/Brew-the-Famous-Chinese-Bi-Luo-Chun.jpg)  
 
 [Bell-LaPadula, Biba, Brewer-Nash (Chinese Wall), Clack-Wilson](https://github.com/TheRealBenForce/cissp-mnemonics#domain-3-security-engineering)
 
@@ -353,7 +353,7 @@ M → C → S → D
 
 Make up a story, e.g. "MC gives you a porn SD card."  
 
-![128gb](https://i.ytimg.com/vi/BrcBKpE9aQg/mqdefault.jpg)
+![128gb](https://i.ytimg.com/vi/BrcBKpE9aQg/mqdefault.jpg)  
 
 Progression of requirements for ALL information (therefore, next entry would apply for SOME information),
 
@@ -389,7 +389,7 @@ Example: Compartmented – NDA for ALL info, Clearance for ALL information, Form
 ### TSSEC
 * TSSEC – "Orange book" – U.S. Standard  
 
-![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)
+![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)  
 
 Recall [Star-Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
 
@@ -400,7 +400,7 @@ Recall [Star-Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
 
 What color comes to mind?  
 
-![Twilight USA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg/320px-Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg)
+![Twilight USA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg/320px-Twilight%27s_last_gleaming_%28Ipernity-47381384%29.jpg)  
 
 ### ITSEC
 
@@ -463,7 +463,7 @@ Mnemonic device – made up a little story: You send documents from Microsoft Wi
 
 ### Kerberos
 
-![Cerberus](https://static.wikia.nocookie.net/ageofempires/images/a/a5/TitanGreekIcon.png)
+![Cerberus](https://static.wikia.nocookie.net/ageofempires/images/a/a5/TitanGreekIcon.png)  
 
 Heads/Steps: Authentication (KDC), Authorization (TGS gives TGT Ticket), Acceptance
 
@@ -556,7 +556,7 @@ Easy trick: class letter defines the number of 255's from left to right. For exa
 * Fraggle – [CHARGEN](https://www.youtube.com/watch?v=D0mXoF7dHVA)
 * Smurf – ICMP
 
-Fragile CHARGE, Smurf Is CIMP  
+Fragile CHARGE, Smurf Is CIMP:  
 
 ![simp](https://static.wikia.nocookie.net/smurfs/images/2/29/Enamoredsmurf.gif)
 
@@ -588,7 +588,7 @@ Quote from ~~[DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemon
 
 ## Authentication problems
 
-![meme](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)
+![meme](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)  
 
 "Rejection" is a "positive" for authN systems.
 
@@ -634,7 +634,7 @@ Think: Google, Github, Microsoft logon.
 
 ### Related meme
 
-[![Money](https://i.ytimg.com/vi/KdftbYqA_VQ/mqdefault.jpg)](https://www.youtube.com/watch?v=KdftbYqA_VQ)
+[![Money](https://i.ytimg.com/vi/KdftbYqA_VQ/mqdefault.jpg)](https://www.youtube.com/watch?v=KdftbYqA_VQ)  
 
 **Point is**: Money, then assurance
 
@@ -757,7 +757,7 @@ Adapted from CISSPrep,
 
 ## Backups
 
-![image](https://www.ubackup.com/screenshot/en/others/pictures/incremental-vs-differential.png)
+![image](https://www.ubackup.com/screenshot/en/others/pictures/incremental-vs-differential.png)  
 
 * Full – full
 * Differential – diff (**delta**) from full
@@ -805,7 +805,7 @@ Remember this array,
 S | M
 
 SM – Like "Samsung" or "storage management",  
-![Samsung old-style logo](https://upload.wikimedia.org/wikipedia/commons/archive/2/24/20170808112701%21Samsung_Logo.svg)
+	![Samsung old-style logo](https://upload.wikimedia.org/wikipedia/commons/archive/2/24/20170808112701%21Samsung_Logo.svg)
 
 ### Basic
 
@@ -874,7 +874,7 @@ Ur DC PC SR
 
 CISSPrep has a good mnemonic,
 
-[![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)
+[![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)  
 
 Please Fry Some Dead Animals To Catch The Right Man
 
@@ -927,7 +927,7 @@ Somewhat reminiscent of common criteria.
 
 **Mnemonic**: IRDMO (THIRDMOON [of SW-CMM hell])  
 
-![Moon](https://techstray.com/wp-content/uploads/2020/05/LSD-Dream-Emulator.jpg)
+![Moon](https://techstray.com/wp-content/uploads/2020/05/LSD-Dream-Emulator.jpg)  
 
 * Lvl 1: Initial: No plan 
 * Lvl 2: Repeatable: Basic lifecycle
@@ -981,7 +981,7 @@ Somewhat reminiscent of common criteria.
 
 ## AI
 
-![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)
+![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)  
 
 * Knowledge systems – Inference (like qualitative risk analysis). Types,
 	* Forward – From Known-inputs to Goal
@@ -993,14 +993,14 @@ Somewhat reminiscent of common criteria.
 
 ## Charting
 
-![Image](https://www.officetimeline.com/blog/wp-content/uploads/2021/09/gantt-chart-vs-pert-chart-1024x576.png) 
+![Image](https://www.officetimeline.com/blog/wp-content/uploads/2021/09/gantt-chart-vs-pert-chart-1024x576.png)  
 
 * Gantt chart – like timelines on Wikipedia, [(example)](https://upload.wikimedia.org/wikipedia/commons/1/14/IPod_Models_Timeline.svg).
 * PERT Chart – Project management modelling *graph*, [(example)](https://www.investopedia.com/thmb/zV2xdXBcD8n7CeTRiR17QsiOJBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dotdash_Final_Program_Evaluation_Review_Technique_PERT_Chart_Oct_2020-01-d5cc04b8ad704760be3636dfabe55aa5.jpg).
 
 # Domain 9 (meta-domain)
 
-![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
+![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)  
 
 ## Regarding sources
 
@@ -1064,7 +1064,7 @@ Story of a "PAPA" man following Code
 ![Protect](https://cdn4.iconfinder.com/data/icons/business-businessman-employee-workers/289/employee-life-style-004-128.png)
 ![Act](https://cdn0.iconfinder.com/data/icons/positive-character-traits-alphabet-h/271/positive-h003-128.png)
 ![Provide](https://cdn1.iconfinder.com/data/icons/actions-alphabet-i-set-3-of-10/231/actions-I-3-3-128.png)
-![Advance](https://cdn4.iconfinder.com/data/icons/positive-character-traits-alphabet-c-part-2/325/positive-Cset2003-128.png)
+![Advance](https://cdn4.iconfinder.com/data/icons/positive-character-traits-alphabet-c-part-2/325/positive-Cset2003-128.png)  
 
 *(icons from Iconfinder, used for educational purposes)*
 
