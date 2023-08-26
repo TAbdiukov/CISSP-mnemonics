@@ -585,7 +585,7 @@ Quote from ~~[DerreckM/CISSP-Mnemonics](https://github.com/DerreckM/CISSP-Mnemon
 
 ## Authentication problems
 
-![meme](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)  
+![Authentication types](https://datavizblog.files.wordpress.com/2014/05/type-i-and-type-ii-errors-simplified.jpg)  
 
 "Rejection" is a "positive" for authN systems.
 
