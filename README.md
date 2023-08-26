@@ -508,8 +508,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 [Dial-Up refresher](https://www.dialupsound.com/)
 
-* PPP (point-to-point protocol) – IP over telephone  
-
+* PPP (point-to-point protocol) – IP over telephone,  
 	![DialUpPPP](https://sites.radford.edu/~helpdesk/ppp/95gifs/Welcome.gif)
 
 ### Authentication protocols (AP's)
