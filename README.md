@@ -555,7 +555,6 @@ Easy trick: class letter defines the number of 255's from left to right. For exa
 * Smurf – ICMP
 
 Fragile CHARGE, Smurf Is CIMP:  
-
 ![simp](https://static.wikia.nocookie.net/smurfs/images/2/29/Enamoredsmurf.gif)
 
 ## FTP, SSH, Telnet
