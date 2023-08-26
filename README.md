@@ -870,8 +870,8 @@ Ur DC PC SR
 
 CISSPrep has a good mnemonic,
 
-[![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA)  
-
+[![CISSPrep](https://i.ytimg.com/vi/i7NYS5Lw3UA/mqdefault.jpg)](https://www.youtube.com/watch?v=i7NYS5Lw3UA) | 
+---- |
 Please Fry Some Dead Animals To Catch The Right Man
 
 I segregate into: PFS-DA-TCT-RM
