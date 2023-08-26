@@ -976,7 +976,7 @@ Somewhat reminiscent of common criteria.
 
 ## AI
 
-![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)  
+![Labyrinth for Knowledge Systems' illustration](https://thumbs.dreamstime.com/l/maze-labyrinth-game-puzzle-coloring-page-outline-cartoon-girl-making-christmas-paper-lanterns-christmas-new-year-maze-231342821.jpg)
 
 * Knowledge systems – Inference (like qualitative risk analysis). Types,
 	* Forward – From Known-inputs to Goal
@@ -988,7 +988,7 @@ Somewhat reminiscent of common criteria.
 
 ## Charting
 
-![Image](https://www.officetimeline.com/blog/wp-content/uploads/2021/09/gantt-chart-vs-pert-chart-1024x576.png)  
+![Image](https://www.officetimeline.com/blog/wp-content/uploads/2021/09/gantt-chart-vs-pert-chart-1024x576.png)
 
 * Gantt chart – like timelines on Wikipedia, [(example)](https://upload.wikimedia.org/wikipedia/commons/1/14/IPod_Models_Timeline.svg).
 * PERT Chart – Project management modelling *graph*, [(example)](https://www.investopedia.com/thmb/zV2xdXBcD8n7CeTRiR17QsiOJBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dotdash_Final_Program_Evaluation_Review_Technique_PERT_Chart_Oct_2020-01-d5cc04b8ad704760be3636dfabe55aa5.jpg).
