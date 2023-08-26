@@ -632,7 +632,6 @@ Think: Google, Github, Microsoft logon.
 ### Related meme
 
 [![Money](https://i.ytimg.com/vi/KdftbYqA_VQ/mqdefault.jpg)](https://www.youtube.com/watch?v=KdftbYqA_VQ)  
-
 **Point is**: Money, then assurance
 
 ### Mnemonic
