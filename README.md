@@ -400,7 +400,7 @@ ITSEC – EU Standard
 
 ### Common Criteria
 
-Common Criteria – CC – Are superseding globally
+Common Criteria – CC – Are superseding globally (**common**ly)
 
 ## Common criteria – EAL
 
