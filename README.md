@@ -389,11 +389,12 @@ Example: Compartmented – NDA for ALL info, Clearance for ALL information, Form
 * TSSEC – "Orange book" – U.S. Standard  
 	![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)  
 
-Recall [Star-Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),  
-	> O say can you see  
-	> By the **dawn's early light,**  
-	> What so proudly we hailed  
-	> **At the twilights last gleaming?**  
+Recall [Star-Spangled Banner](https://www.youtube.com/watch?v=FqxJ_iuBPCs),
+
+> O say can you see  
+> By the **dawn's early light,**  
+> What so proudly we hailed  
+> **At the twilights last gleaming?**  
 
 What color comes to mind?
 
