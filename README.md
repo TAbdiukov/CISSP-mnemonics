@@ -388,7 +388,7 @@ Example: Compartmented – NDA for ALL info, Clearance for ALL information, Form
 ### TCSEC
 * TCSEC – "Orange book" – US Standard  
 	![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)  
-	US **Golden Gate Bridge** is **Orange** (and TSSEC 'bridged' computing and security) 
+	US **Golden Gate Bridge** is **Orange** (and TCSEC 'bridged' computing and security) 
 		![Die Golden Gate Bridge in San Francisco, Kalifornien, von der Battery East aus gesehen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/320px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg)
 
 ### ITSEC
