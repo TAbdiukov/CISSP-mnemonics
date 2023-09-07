@@ -383,10 +383,10 @@ Example: Compartmented – NDA for ALL info, Clearance for ALL information, Form
 * **L**attice model – matrix of **L**abels on objects and subjects in MAC
 
 	
-## TSSEC, ITSEC, Common Criteria
+## TCSEC, ITSEC, Common Criteria
 
-### TSSEC
-* TSSEC – "Orange book" – U.S. Standard  
+### TCSEC
+* TCSEC – "Orange book" – U.S. Standard  
 	![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)  
 	U.S. **Golden Gate Bridge** is **Orange** (and TSSEC 'bridged' computing and security) 
 		![Die Golden Gate Bridge in San Francisco, Kalifornien, von der Battery East aus gesehen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/320px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg)
