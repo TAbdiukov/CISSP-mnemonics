@@ -388,9 +388,8 @@ Example: Compartmented – NDA for ALL info, Clearance for ALL information, Form
 ### TSSEC
 * TSSEC – "Orange book" – U.S. Standard  
 	![Orange book](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Orange-book-small.PNG/180px-Orange-book-small.PNG)  
-
-U.S. **Golden Gate Bridge** is **Orange** (and TSSEC 'bridged' computing and security) 
-	![Die Golden Gate Bridge in San Francisco, Kalifornien, von der Battery East aus gesehen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/320px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg)
+	U.S. **Golden Gate Bridge** is **Orange** (and TSSEC 'bridged' computing and security) 
+		![Die Golden Gate Bridge in San Francisco, Kalifornien, von der Battery East aus gesehen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/320px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg)
 
 ### ITSEC
 
@@ -400,7 +399,7 @@ ITSEC – EU Standard
 
 ### Common Criteria
 
-Common Criteria – CC – Are superseding globally (**common**ly)
+Common Criteria – CC – Are superseding worldwide (**common**ly)
 
 ## Common criteria – EAL
 
