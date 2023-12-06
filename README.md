@@ -139,7 +139,7 @@ For SIA to run a rogue PC in Armenia is pretty RISKy
 
 ### Mnemonic device 2
 
-PCS IAAM (PC's I aam)
+PCS IAAM (PC-s I aam)
 
 [Being non-human is RISKy]
 
