@@ -257,8 +257,10 @@ Think about a digital telescope pointing at the stars.
 
 ### Information flow security models
 
+Total: 5 security models to know
+
 * *Memorization trick 1*: Similar models come one after another in alphabetical order!
-* *Memorization trick 2*: **I**ntegrity models have **i** in it, Confidentiality models do not.
+* *Memorization trick 2*: **I**ntegrity models have **I** in it, Confidentiality models do not.
 
 #### The ones with No's & Arrows
 
@@ -270,9 +272,9 @@ Think about a digital telescope pointing at the stars.
 3. Brewer&Nash: Think Chinese Brew tea – Chinese Wall. Walls off conflict-of-interest.  
 ![Brewer Tea](https://d27pcll2dx97vv.cloudfront.net/info/wp-content/uploads/2011/12/Brew-the-Famous-Chinese-Bi-Luo-Chun.jpg)  
 
-4. Clark-W**i**lson – Use software to access data. **Clerk** uses **WinStone** software to access business data.
+4. Clark-W**i**lson – Use software to access data. **Clerk** uses **WinStone** software to access business data. **I**ntegrity model.
 
-#### 5. TAKE-GRANT security model
+#### 5/5. TAKE-GRANT security model
 *2 words, 4 commands*
 
 * TAKE – **Take** someone else's permissions
