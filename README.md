@@ -264,7 +264,7 @@ Total: 5 security models to know
 
 #### The ones with No's & Arrows
 
-1. Bell-LaPadula – (Confidentiality model) Like a BELL ↗🛎️↘: No Read Up↑, no Write Down↓.  
+1. Bell-LaPadula – (Confidentiality model) Like a BELL 🛎️: No Read Up↑, no Write Down↓.  
     Compiled: No**R**↑🛎No**W**↓.
 2. B**i**ba – (**I**ntegrity model) Opposite of Bell-LaPadula: No Read↓, no Write Up↑.  
     Compiled: No**R**↓**▽**No**W**↑.
