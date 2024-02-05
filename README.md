@@ -276,8 +276,8 @@ Total: 5 security models to know
 
 4. Clark-W**i**lson – (**I**ntegrity model) Use software to access data. **Clerk** uses **WinStone** software to access business data.
 
-#### 5/5: TAKE-GRANT security model
-*2 words, 4 commands*
+#### 5. TAKE-GRANT security model
+*2 words, 4 commands.*
 
 * TAKE – **Take** someone else's permissions
 * GRANT – **Grant** permissions to subordinates
