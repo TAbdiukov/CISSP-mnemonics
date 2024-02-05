@@ -257,19 +257,36 @@ Think about a digital telescope pointing at the stars.
 
 ### Information flow security models
 
+* *Memorization trick 1*: Similar models come one after another in alphabetical order!
+* *Memorization trick 2*: **I**ntegrity models have **i** in it, Confidentiality models do not.
+
+#### The ones with No's & Arrows
+
+1. Bell-LaPadula – Like a 🛎️. No Read Up, no Write Down. So 🚫**R**↑🛎🚫**W**↓. Confidentiality model.
+2. B**i**ba – Opposite of Bell-LaPadula: No Read↓, no Write↑. 🚫R↓∇🚫W↑. **I**ntegrity model.
+
+#### Other 
+
+3. Brewer&Nash: Think Chinese Brew tea – Chinese Wall. Walls off conflict-of-interest.  
 ![Brewer Tea](https://d27pcll2dx97vv.cloudfront.net/info/wp-content/uploads/2011/12/Brew-the-Famous-Chinese-Bi-Luo-Chun.jpg)  
 
+4. Clark-W**i**lson – Use software to access data. **Clerk** uses **WinStone** software to access business data.
 
-[Bell-LaPadula, Biba, Brewer-Nash (Chinese Wall), Clark-Wilson](https://github.com/TheRealBenForce/cissp-mnemonics#domain-3-security-engineering)
+5. TAKE-GRANT – See below
 
 #### TAKE-GRANT security model
+*2 words, 4 commands*
 
 * TAKE – **Take** someone else's permissions
 * GRANT – **Grant** permissions to subordinates
 * CREATE – **Create** new rule
 * REMOVE – **Remove** a rule
 
-#### DerreckM Mnemonics
+#### Other Mnemonics
+
+[TheRealBenForce](https://github.com/TheRealBenForce/cissp-mnemonics#domain-3-security-engineering)
+
+##### DerreckM
 
 * [23BRAIDS | DEREK | SHA HAVAL, MD](https://github.com/khwajaimran/CISSP-Mnemonics#asymmetric-encryption) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#asymmetric-encryption) )
 * [Information flow security models' properties](https://github.com/khwajaimran/CISSP-Mnemonics#confidentiality-and-integrity-models) (mirrored on [archive.org](https://web.archive.org/web/20210304234534/https://github.com/DerreckM/CISSP-Mnemonics) / [archive.vn](https://archive.vn/20220216123507/https://github.com/DerreckM/CISSP-Mnemonics#confidentiality-and-integrity-models) )
