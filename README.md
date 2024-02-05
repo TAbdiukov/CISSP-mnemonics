@@ -262,21 +262,21 @@ Total: 5 security models to know
 * *Memorization trick 1*: Similar models come one after another in alphabetical order!
 * *Memorization trick 2*: **I**ntegrity models have **I** in it, Confidentiality models do not.
 
-#### The ones with No's & Arrows
+#### No-{{Action}}-Arrow models
 
 1. Bell-LaPadula – (Confidentiality model) Like a BELL 🛎️: No Read Up↑, no Write Down↓.  
     Compiled: No**R**↑🛎No**W**↓.
 2. B**i**ba – (**I**ntegrity model) Opposite of Bell-LaPadula: No Read↓, no Write Up↑.  
     Compiled: No**R**↓**▽**No**W**↑.
 
-#### Other 
+#### Brewer&Nash, Clark-Wilson
 
 3. Brewer&Nash: Think Chinese Brew tea – Chinese Wall. Walls off conflict-of-interest.  
 ![Brewer Tea](https://d27pcll2dx97vv.cloudfront.net/info/wp-content/uploads/2011/12/Brew-the-Famous-Chinese-Bi-Luo-Chun.jpg)  
 
 4. Clark-W**i**lson – (**I**ntegrity model) Use software to access data. **Clerk** uses **WinStone** software to access business data.
 
-#### 5/5. TAKE-GRANT security model
+#### 5/5: TAKE-GRANT security model
 *2 words, 4 commands*
 
 * TAKE – **Take** someone else's permissions
