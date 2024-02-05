@@ -262,8 +262,8 @@ Think about a digital telescope pointing at the stars.
 
 #### The ones with No's & Arrows
 
-1. Bell-LaPadula – Like a 🛎️. No Read Up, no Write Down. So 🚫**R**↑🛎🚫**W**↓. Confidentiality model.
-2. B**i**ba – Opposite of Bell-LaPadula: No Read↓, no Write↑. 🚫R↓∇🚫W↑. **I**ntegrity model.
+1. Bell-LaPadula – Like a 🛎️. No Read Up, no Write Down. Compiled: No**R**↑🛎No**W**↓. Confidentiality model.
+2. B**i**ba – Opposite of Bell-LaPadula: No Read↓, no Write↑. No**R**↓**∇**No**W**↑. **I**ntegrity model.
 
 #### Other 
 
@@ -272,9 +272,7 @@ Think about a digital telescope pointing at the stars.
 
 4. Clark-W**i**lson – Use software to access data. **Clerk** uses **WinStone** software to access business data.
 
-5. TAKE-GRANT – See below
-
-#### TAKE-GRANT security model
+#### 5. TAKE-GRANT security model
 *2 words, 4 commands*
 
 * TAKE – **Take** someone else's permissions
