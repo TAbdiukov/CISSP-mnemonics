@@ -259,7 +259,7 @@ Think about a digital telescope pointing at the stars.
 
 Total: 5 security models to know
 
-* *Memorization trick 1*: Similar models come one after another in alphabetical order!
+* *Memorization trick 1*: Similarly categorizable models come one after another in alphabetical order!
 * *Memorization trick 2*: **I**ntegrity models have **I** in it, Confidentiality models do not.
 
 #### No-{{Action}}-Arrow models
