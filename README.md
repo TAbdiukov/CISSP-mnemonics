@@ -179,7 +179,7 @@ DC I DD PP
 
 * RPO – Recovery **Point** Objective – time period: From last (known good) scheduled backup to disaster (from past to present). **Point** – think about last known good configuration for Windows,  
 
-	![XP](https://social.technet.microsoft.com/Forums/getfile/931978)
+	![Advanced Boot Options Windows 7](https://neosmart.net/wiki/wp-content/uploads/sites/5/2013/09/Advanced-Boot-Options.jpg)
 
 * RTO – Recovery **Time** Objective – time period: from disaster to recovery, if all goes well (from present to the future).
 
