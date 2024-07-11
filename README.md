@@ -1,8 +1,8 @@
-# CISSP-YA-mnemonics
+# CISSP-mnemonics
 
 Yet another set of CISSP mnemonics.
 
-**<ins>CISSP-YA-mnemonics</ins> | [CCSP-Mnemonics](https://github.com/TAbdiukov/CCSP-Mnemonics)** *(for CISSP-passers)*
+**<ins>CISSP-mnemonics</ins> | [CCSP-Mnemonics](https://github.com/TAbdiukov/CCSP-Mnemonics)** *(for CISSP-passers)*
 
 # Domain 1
 
