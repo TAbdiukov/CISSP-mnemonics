@@ -16,8 +16,6 @@ Yet another set of CISSP mnemonics.
 
 > 🍺 = 😍 (get it?)
 
-ALE CAUSES AROSLE  
-
 -----------------------
 
 ### "(up my) SLEAV-EF"
