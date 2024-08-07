@@ -10,6 +10,11 @@ Yet another set of CISSP mnemonics.
 ### Risk Management Formulas
 *the only mathematics in CISSP!*
 
+![Hotel Mario 1](https://static.wikia.nocookie.net/cd-i/images/a/a6/STUFF%21.jpg)  | ![Hotel Mario 2](https://static.wikia.nocookie.net/cd-i/images/9/9f/Hotelmario.jpg) |
+---- | ---- |
+ALE causes AROSLE | (up my) SLEAV-EF
+ALE = ARO x SLE | SLE = AV x EF
+
 #### "ALE CAUSES AROSLE"
 
 [ALE = ARO x SLE](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
