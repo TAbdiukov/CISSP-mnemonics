@@ -137,7 +137,7 @@ PC SIA AM (PC of SIA in ArMenia)
 
 For SIA to run a rogue PC in Armenia is pretty RISKy  
 
-![https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg](https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg)
+![https://img.youtube.com/vi/im-K-d46PMA/mqdefault.jpg](https://img.youtube.com/vi/JKbVmjan3bQ/mqdefault.jpg)
 
 ### Mnemonic device 2
 
