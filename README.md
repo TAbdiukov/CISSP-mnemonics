@@ -7,18 +7,27 @@ Yet another set of CISSP mnemonics.
 # Domain 1
 
 ## Must-know
+### Risk Management Formulas
+*the only mathematics in CISSP!*
+
+#### "ALE CAUSES AROSLE"
+
+![Hotel Mario 1](https://static.wikia.nocookie.net/cd-i/images/a/a6/STUFF%21.jpg) |
+---- |
 
 [ALE = ARO x SLE](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
+
 > 🍺 = 😍 (get it?)
+
 ALE CAUSES AROSLE  
 
-![Hotel Mario](https://static.wikia.nocookie.net/cd-i/images/9/9f/Hotelmario.jpg/revision/latest?cb=20100224151927) |
+-----------------------
+
+![Hotel Mario 2](https://static.wikia.nocookie.net/cd-i/images/9/9f/Hotelmario.jpg) |
 ---- |
 
 (up my) SLEAV-EF  
-SLE = AV x EF  
-
-
+[SLE = AV x EF](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
 
 ## Laws and regulations
 
