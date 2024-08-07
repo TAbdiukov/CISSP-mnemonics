@@ -9,10 +9,16 @@ Yet another set of CISSP mnemonics.
 ## Must-know
 
 [ALE = ARO x SLE](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
+> 🍺 = 😍 (get it?)
 ALE CAUSES AROSLE  
+
+![Hotel Mario](https://static.wikia.nocookie.net/cd-i/images/9/9f/Hotelmario.jpg/revision/latest?cb=20100224151927) |
+---- |
 
 (up my) SLEAV-EF  
 SLE = AV x EF  
+
+
 
 ## Laws and regulations
 
