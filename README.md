@@ -427,7 +427,7 @@ Common Criteria – CC – Are superseding worldwide (**common**ly)
 
 ## Common criteria – EAL
 
-Start-from 1 – 3-2-1
+Start-from `1` – 3-2-1
 
 FSM – SS – F
 
@@ -441,7 +441,7 @@ Function > Structure > Method >> Semiformal > Semiformal-verified >> Formal
 
 ## OSI, TCP/IP
 
-![Protocols](https://cybercoastal.com/wp-content/uploads/2021/08/Screenshot-73.png)
+![Protocols](https://i.redd.it/pbn3wokfwd3a1.jpg)
 
 ### TCP/IP Model
 
@@ -781,7 +781,16 @@ Adapted from CISSPrep,
 ## Terms
 
 * UCITA – Law governing business transactions
-* UEBA = Bossware. Whichever boss uses UEBA is an [ueban](https://www.urbandictionary.com/define.php?term=ueban)
+
+### UEBA
+
+UEBA = Bossware.
+
+Mnemonic: Associate "UEBA" with "Urban"
+* Whichever boss uses UEBA is an [**`ueban`** (on **Urban**Dictionary)](https://www.urbandictionary.com/define.php?term=ueban)
+	* UEBA*n* - can be thought as "u*r*ban cyberpunk" (cyberpunk surveillance)
+
+![Cyberpunk Surveillance](https://uploads.worldanvil.com/uploads/images/716956366cfbb15fbbadda39f7901818.jpg)
 
 ### Media
 
