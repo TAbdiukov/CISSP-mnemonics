@@ -19,7 +19,7 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://resources.github.com,https://support.github.com,${{ github.server_url }}'
+          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
           exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
           connect_limit_per_host: 1
           verbose: 'true'
@@ -30,7 +30,7 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/MISC.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://resources.github.com,https://support.github.com,${{ github.server_url }}'
+          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
           exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
           connect_limit_per_host: 1
           verbose: 'true'
@@ -41,7 +41,7 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/SUCCESS.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://resources.github.com,https://support.github.com,${{ github.server_url }}'
+          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
           exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
           connect_limit_per_host: 1
           verbose: 'true'
