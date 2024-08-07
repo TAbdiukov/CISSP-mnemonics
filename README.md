@@ -455,7 +455,7 @@ An amazing mnemonic from CISSPrep,
 
 ### Segments, Packets, Frames, Bits
 
-Taken from [Reddit](https://old.reddit.com/r/cissp/comments/tw10js/preparing_to_take_the_test_this_month_what_are/i3ckssx/?context=3),
+Taken from [Reddit](https://www.reddit.com/r/cissp/comments/tw10js/comment/i3ckssx/?utm_source=share&utm_medium=web2x&context=3),
 
 > Some people F*** Bit**es
 
