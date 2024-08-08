@@ -17,13 +17,14 @@ ALE = ARO x SLE | SLE = AV x EF
 
 #### "ALE CAUSES AROSLE"
 
-[ALE = ARO x SLE](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
-
 🍺 = 😍 (get it?)
+
+[ALE = ARO x SLE](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
 
 #### "(up my) SLEAV-EF"
 
 (up my) SLEAV-EF  
+
 [SLE = AV x EF](https://github.com/TheRealBenForce/cissp-mnemonics#risk-management)  
 
 ## Laws and regulations

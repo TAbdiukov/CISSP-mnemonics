@@ -6,16 +6,16 @@ on:
     branches:
       - main
   schedule:
-    # run every 12 hours
+    # run every 24 hours at 12:00
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 */12 * * *'
+    - cron:  '0 0 12 * *'
 
 jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Load EXCLUDE_URL_PREFIX and EXCLUDE_URL_SUFFIX from files
         id: load_prefix_suffix
         run: |
