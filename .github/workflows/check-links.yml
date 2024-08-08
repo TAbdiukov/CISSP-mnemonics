@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Load EXCLUDE_URL_PREFIX and EXCLUDE_URL_SUFFIX from files
         id: load_prefix_suffix
         run: |
