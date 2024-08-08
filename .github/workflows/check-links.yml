@@ -14,13 +14,20 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Load EXCLUDE_URL_PREFIX and EXCLUDE_URL_SUFFIX from files
+        id: load_prefix_suffix
+        run: |
+          echo "EXCLUDE_URL_PREFIX=$(cat ./.github/data/exclude_url_prefix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
+          echo "EXCLUDE_URL_SUFFIX=$(cat ./.github/data/exclude_url_suffix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
       - name: Run Broken Links Crawler (landing)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,http://download.oracle.com,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
-          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
+          exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           connect_limit_per_host: 1
           verbose: 'true'
           max_retry_time: 30
@@ -30,8 +37,8 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/MISC.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,http://download.oracle.com,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
-          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
+          exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           connect_limit_per_host: 1
           verbose: 'true'
           max_retry_time: 30
@@ -41,8 +48,8 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/SUCCESS.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,http://download.oracle.com,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
-          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
+          exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           connect_limit_per_host: 1
           verbose: 'true'
           max_retry_time: 30

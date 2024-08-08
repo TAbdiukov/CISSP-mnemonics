@@ -1,0 +1,12 @@
+.css
+.zip
+https://avatars.githubusercontent.com
+https://github-cloud.s3.amazonaws.com
+https://github.githubassets.com
+https://github-cloud.s3.amazonaws.com
+https://user-images.githubusercontent.com/
+https://github.blog
+https://www.githubstatus.com/
+https://docs.github.com
+https://partners.github.com
+https://skills.github.com
