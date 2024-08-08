@@ -28,7 +28,6 @@ jobs:
           resolve_before_filtering: 'true'
           exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
           exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
-          connect_limit_per_host: 1
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
@@ -39,7 +38,6 @@ jobs:
           resolve_before_filtering: 'true'
           exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
           exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
-          connect_limit_per_host: 1
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
@@ -50,7 +48,6 @@ jobs:
           resolve_before_filtering: 'true'
           exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
           exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
-          connect_limit_per_host: 1
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
