@@ -10,5 +10,4 @@ https://www.githubstatus.com/
 https://docs.github.com
 https://partners.github.com
 https://skills.github.com
-https://github.githubassets.com
 https://github.githubassets.com/
