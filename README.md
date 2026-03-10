@@ -554,7 +554,7 @@ Mnemonic device: They go in reserve alphabetical order
 
 ## IPsec
 
-IPsec - IP Secured. Uses L2TP
+IPsec - IP Secure
 
 ### Features 
 
