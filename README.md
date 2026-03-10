@@ -516,7 +516,7 @@ For CISSP: VoIP doesn't mix well with VPN
 
 **NAC** – Network Access Control
 
-Note: They use **Risk** BAC, as they evaluate **risk**
+Note: They use **Risk**-Based Access Control (RBAC), as they evaluate **risk**
 
 * Pre-admit – Checks happen BEFORE admission
 * Postadmission – Checks happen AFTER admission
@@ -544,13 +544,24 @@ Mnemonic device: They go in reserve alphabetical order
 * **CH**-**AP** (CHAP) – Secure, uses **CH**ecksums (hash functions)
 * **MS**-CHAP – Microsoft-improved CHAP. Even more secure, uses **CH**ecksums (hash functions)
 
-## *EAP
+## *EAPs
 
 * EAP – Original protocol that started its family. Outdated
 * LEAP – Lightweight, Cisco proprietary, no longer secure
 * PEAP – Protected EAP. For CISSP purposes, "good enough". Uses TLS.
 * MS-PEAP – Microsoft's improvement on PEAP, even better than PEAP
 * EAP-TLS – Secure, but difficult to implement due to additional prerequisites
+
+## IPsec
+
+IPsec - IP Secured. Uses L2TP
+
+### Features 
+
+Mnemonic device: More letters - more functions
+
+* Authentication Header (AH): Integrity
+* Encapsulating Security Payload (ESP): Confidentiality + Integrity
 
 ## Bluetooth
 
