@@ -4,7 +4,6 @@ Yet another set of CISSP mnemonics.
 
 **<ins>CISSP-mnemonics</ins> | [CCSP-Mnemonics](https://github.com/TAbdiukov/CCSP-Mnemonics)** *(for CISSP-passers)*
 
-
 # Domain 1
 
 ## Must-know
