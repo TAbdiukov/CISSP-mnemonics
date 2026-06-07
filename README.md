@@ -2,7 +2,7 @@
 
 [![buymeacoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tabdiukov)
 
-Yet another set of CISSP mnemonics.
+Set of CISSP memory devices.
 
 **<ins>CISSP-mnemonics</ins> | [CCSP-Mnemonics](https://github.com/TAbdiukov/CCSP-Mnemonics)** *(for CISSP-passers)*
 
